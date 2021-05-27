@@ -1,8 +1,8 @@
 # Hilfe und Referenzen zu bisherigen Themen
 
-* [Basic digital Literacy](https://github.com/D02-1/help-and-reference/tree/1_bdl/)
-    * [Slack](https://github.com/D02-1/help-and-reference/tree/1_bdl/1_slack/)
-        * [Einrichtung](https://github.com/D02-1/help-and-reference/tree/1_bdl/1_slack/setup.md)
+* [Basic digital Literacy](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/)
+    * [Slack](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/1_slack/)
+        * [Einrichtung](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/1_slack/setup.md)
         * Benutzung
     * Zoom
         * Einrichtung
