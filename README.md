@@ -7,6 +7,10 @@
     * [Zoom](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/2_zoom)
         * [Einrichtung](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/2_zoom/setup.md)
         * [Fragen und Antworten](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/2_zoom/questions.md)
+    * [Linux](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux)
+        * [Das Terminal](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/terminal.md)
+        * [Kommandozeilenbefehle](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/shell.md)
+        * [Nano](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/nano.md)
 * UI Basics
 * Programming Basics
 * SPA
