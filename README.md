@@ -11,7 +11,12 @@
         * [Das Terminal](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/terminal.md)
         * [Kommandozeilenbefehle](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/shell.md)
         * [Nano](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/nano.md)
+    * [Git & GitHub]
+        * [Git einrichten]
+        * [Typische Git Befehle]
 * UI Basics
 * Programming Basics
 * SPA
 * Backend
+
+TEST
