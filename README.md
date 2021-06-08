@@ -14,6 +14,7 @@
     * [Git & GitHub]
         * [Git einrichten]
         * [Typische Git Befehle]
+        * [Branches]
 * UI Basics
 * Programming Basics
 * SPA
