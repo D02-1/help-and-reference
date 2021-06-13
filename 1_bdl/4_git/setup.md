@@ -1,4 +1,4 @@
-## Was ist Git / GitHub ?
+# Was ist Git / GitHub ?
 
 ### Git
 ist ein Versionskontrollsystem, welches ursprünglich von Linus Torvalds, dem berühmten Entwickler des Linux Betriebssystem-Kernel, entwickelt wurde. Git wird also für die Versionierung von Dateien eingesetzt. Es dient uns dazu die eigenen Änderungen zu überwachen, sie rückgängig zu machen, sie anderen über sogenannte "Repositories" (Repos) zur Verfügung zu stellen oder Aktualisierungen von anderen einzuholen.  Git ist ein verteiltes System: Jeder Entwickler verfügt lokal über den gesamten Verlauf des Code-Repositorys.
@@ -38,7 +38,7 @@ $ git clone <url>
 
 In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem lokalen Rechner.
 
-## Wie werden die Änderungen meines Projektes "gespeichert"
+## Wie werden die Änderungen meines Projektes "gespeichert" ?
 
  Die Befehle mit ```git add, git status, and git commit ```werden alle in Kombination verwendet, um einen Snapshot des aktuellen Zustands eines Git-Projekts zu speichern.
  Der git add Befehl fügt, für den nächsten Commit, Inhalte aus dem Arbeitsverzeichnis der Staging-Area (bzw. „Index“) hinzu. Bei der Ausführung des Befehls git commit wird standardmäßig nur diese Staging-Area betrachtet, so dass mit git add festgelegt wird, wie euer nächster Commit-Schnappschuss aussehen soll.
@@ -49,11 +49,26 @@ In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem loka
 
 <hr>
 
-## mit ```git push ``` auf GitHub (dem zentralen Repo) hinzugefügt
+## danch mit ```git push ``` auf GitHub (dem zentralen Repo) hinzugefügt
 
 Nach dem Vornehmen von Änderungen an einem lokalen Repository werden die Änderungen per Push bspw. für Teammitglieder an anderen Standorten freigegeben bzw. in der Cloud gesichert
 
 ![git-gh](./git-gh.jpeg "git-gh")
+
+## durch GitHub (unser remote Repo) ist es möglich den Code mit anderen gemeinsam zu bearbeiten. 
+**durch ```fork, pull-request``` und ```merge```**
+
+**```fork```**
+
+Der Fork ist eure eigene Kopie eines Repositories auf GitHub. Sie erlaubt euch in einer sicheren Umgebung mit dem Code zu experimentieren 
+
+**```pull-request```**
+
+Wenn Ihr eure Änderungen fertiggestellt habt und diese in das betreffende Projekt einfliessen lassen wollt, dann verwendet Ihr einen  "pull-request". Dieser wird dann vom Eigentümer des Orginal Repositories geprüft.
+
+**```merge```**
+
+sollte der Eigentümer des Orginal Repos mit den vorgenommen Änderungen einverstanden sein, werden diese mit merge (engl.für verschmelzen) übernommen.
 
 
 
