@@ -7,7 +7,7 @@ ist ein Versionskontrollsystem, welches ursprünglich von Linus Torvalds, dem be
 GitHub (eine Zusammensetzung aus den Begriffen Git und Hub) bietet einen Cloud-basierten Git Repository Hosting Service an. Im Wesentlichen macht es Einzelpersonen und Teams viel einfacher, Git für Versionskontrolle und Zusammenarbeit zu nutzen.
 
 ### Workflow Git <--> GitHub 
-![workflow](./workflow.png "workflow")
+<img src="./workflow.png " width="48%">
 
 ---
 
