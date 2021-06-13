@@ -48,7 +48,7 @@ In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem loka
 
 <hr>
 
-## lokalen auf GitHub pushen (wenn noch keine Verbindung besteht)
+## lokal auf GitHub pushen (wenn noch keine Verbindung besteht)
 - zunächst ein leeres repo auf GitHub anlegen und git remote add origin <url> Zeile kopieren und im Terminal einfügen bevor push (um lokal mit remote zu verbinden)
 ``` git
 $ git remote add origin <url>
