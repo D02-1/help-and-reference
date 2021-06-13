@@ -29,4 +29,4 @@ unsere "common base", also die basis von all unserem code, ist das Master Branch
 
 ## Referenzen
 
-Hier gibt es ein paar weiterführende informationen zu allen git befehlen: https://git-scm.com/doc
+Hier gibt es ein paar weiterführende Informationen zu allen git befehlen: https://git-scm.com/doc

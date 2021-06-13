@@ -23,7 +23,6 @@ Wenn alles geklappt hat, müssten wir mit dem befehl `git config --list` unsere 
 ## Wie kann ich ein Git Repository anlegen ?
 
 Ihr habt zwei Möglichkeiten, ein Git-Repository auf eurem Rechner anzulegen.
-
 Ihr könnt ein lokales Verzeichnis, das sich derzeit nicht unter Versionskontrolle befindet, in ein Git-Repository verwandeln mit:
 
 ``` git
@@ -49,7 +48,16 @@ In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem loka
 
 <hr>
 
-## danch mit ```git push ``` auf GitHub (dem zentralen Repo) hinzugefügt
+## lokalen auf GitHub pushen (wenn noch keine Verbindung besteht)
+- zunächst ein leeres repo auf GitHub anlegen 
+- git remote add origin <url> Zeile im Terminal einfügen bevor push (um remote mit lokal zu verbinden)
+
+<p>
+<img src="./remote2.jpeg" alt="remote2" width="40%">
+<img src="./remote3.jpeg" alt="remote3" width="58%">
+</p>
+
+## lokales repo wird mit ```git push ``` auf GitHub (dem zentralen Repo) hinzugefügt
 
 Nach dem Vornehmen von Änderungen an einem lokalen Repository werden die Änderungen per Push in der Cloud für uns gesichert bzw. für Teammitglieder an anderen Standorten freigegeben 
 
