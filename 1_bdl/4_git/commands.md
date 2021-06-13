@@ -28,9 +28,8 @@
 <h3 align="center">Visuelle Hilfen</h3>
 <div align=center>
 
-![git-gh](./commands.png "commands")
-![status-log](./git-status.jpg "status-log")
-![revert](./git-revert.png "revert")
-
+<img src="./commands.png" alt="commands" style="width: 650px;"/>
+<img src="./git-status.jpg" alt="git-status" style="width: 450px;"/>
+<img src="./git-revert.png" alt="git-revert" style="width: 400px;"/>
 </div>
 
