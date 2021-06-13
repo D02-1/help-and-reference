@@ -1,6 +1,7 @@
 # Wichtige Kommandozeilenbefehle
 
-Eine allgemeine Liste mit Befehlen finden wir hier: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+:bulb: wissen heißt - wissen, wo es steht:
+*[Linux-Command-Line Cheat-Sheet ansehen](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)*
 
 ## Durch pfade bewegen
 
@@ -27,3 +28,16 @@ Mit `touch [Dateiname]` können wir eine neue Datei erstellen. Auch hier können
 ## Dateien und Ordner löschen
 
 Dateien können wir löschen, indem wir `rm [Dateiname]` eingeben. Falls wir einen Ordner löschen wollen, müssen wir das "recursive" argument nutzen, also `rm -r [Orndername]`.
+
+## Software mit Hilfe des Terminals installieren
+
+**```sudo```** vor einem Befehl lässt einen diesen als Administrator ausführen (in Linux SuperUser genannt)    
+
+**```sudo apt update```** prüft ob eure Distribution von Linux aktuell ist, lädt akuellste Versionen aller vorhandenen Programme/Packages  **nur runter**.
+
+**```sudo apt upgrade```** erst damit werden die lokal bereits vorhanden updates tatsächlich installiert.
+
+* Tipp! 
+   * mit dem Zusatz bzw. logischem Befehl **```&&```** kann man mehrere Anweisungen automatisch nacheinander ausführen lassen, also z.B. **```sudo apt update && sudo apt upgrade```** dass ist hilfreich, wenn man Prozesse ausführen lässt die längere Zeit beanspruchen.     
+
+**```sudo apt install```** Installiert ein neues Programm oder Extension, usw. also z.B. **```sudo apt install cmatrix```**
