@@ -13,10 +13,15 @@ MD Dateien sind im Grunde Textdateien. Sie werden verwendet, um Dokumentationen 
 *[Cheat sheet ansehen](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
 
 ## Youtube Video in Markdown
-Ein youtube link in markdown: 
+den Code durch den eigenen Code (letzter Teil der URL beim Aufruf des gewünschten Videos) ersetzen. (Bild und Video)
+```
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2qKMNAj6080/0.jpg)](https://www.youtube.com/watch?v=2qKMNAj6080)
+```
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2qKMNAj6080/0.jpg)](https://www.youtube.com/watch?v=2qKMNAj6080)
+
+
 
 
 ## Lernmaterial
