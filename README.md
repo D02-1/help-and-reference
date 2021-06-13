@@ -9,13 +9,18 @@
         * [Fragen und Antworten](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/2_zoom/questions.md)
     * [Linux](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux)
         * [Das Terminal](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/terminal.md)
-        * [Kommandozeilenbefehle](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/shell.md)
+        * [Kommandozeilenbefehle / Cheat-Sheet](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/shell.md)
         * [Nano](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/nano.md)
+        * [Lernmaterial](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/learnmore.md)
     * [Git & GitHub](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git)
         * [Begriffsdefinition und Einrichtung](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/setup.md)
-        * [Typische Git Befehle](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/commands.md)
+        * [Typische Git Befehle / Cheat-Sheet](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/commands.md)
         * [Branches](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git/branches.md)
         * [Lernmaterial](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git/learnmore.md)
+    * [Markdown](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git)
+        * [Begriffsdefinition / Cheat-Sheet/ Lernmaterial](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/5_markdown/markdown.md)
+    
+      
 * UI Basics
 * Programming Basics
 * SPA

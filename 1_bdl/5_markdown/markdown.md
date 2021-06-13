@@ -17,7 +17,7 @@ den Code durch den eigenen Code (letzter Teil der URL beim Aufruf des gewünscht
 ```
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2qKMNAj6080/0.jpg)](https://www.youtube.com/watch?v=2qKMNAj6080)
 ```
-
+:point_down: Watch here! Is it worth to learn programming in 2021?
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2qKMNAj6080/0.jpg)](https://www.youtube.com/watch?v=2qKMNAj6080)
 
