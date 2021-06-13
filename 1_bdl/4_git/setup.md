@@ -51,7 +51,19 @@ In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem loka
 
 ## danch mit ```git push ``` auf GitHub (dem zentralen Repo) hinzugefügt
 
-Nach dem Vornehmen von Änderungen an einem lokalen Repository werden die Änderungen per Push bspw. für Teammitglieder an anderen Standorten freigegeben bzw. in der Cloud gesichert
+Nach dem Vornehmen von Änderungen an einem lokalen Repository werden die Änderungen per Push in der Cloud für uns gesichert bzw. für Teammitglieder an anderen Standorten freigegeben 
+
+Beim ersten Hochladen („push“) muss angegeben werden, welcher denn der Standard-Branch sein soll für Pushes. In unserem Fall soll das wieder der Master-Branch im „origin“-Repo sein:
+
+``` git
+$ git push --set-upstream origin master>
+``` 
+
+Jeder weitere Push kann ohne eine Branch-Angabe ausgeführt werden:
+
+``` git
+$ git push 
+``` 
 
 ![git-gh](./git-gh.jpeg "git-gh")
 
