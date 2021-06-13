@@ -9,6 +9,8 @@ GitHub (eine Zusammensetzung aus den Begriffen Git und Hub) bietet einen Cloud-b
 ### Workflow Git <--> GitHub 
 ![workflow](./workflow.png "workflow")
 
+---
+
 ## Git auf meinem Rechner einrichten
 
 Bevor wir Git nutzen können, müssen wir git sagen wer wir sind, das machen wir indem wir unsere Daten mit folgenden Befehlen in die globale Konfigurationsdatei von Git schreiben:
@@ -37,16 +39,20 @@ $ git clone <url>
 
 In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem lokalen Rechner.
 
+---
+
 ## Wie werden die Änderungen meines Projektes "gespeichert" ?
 
  Die Befehle ```git add, git status, and git commit ```werden alle in Kombination verwendet, um einen Snapshot des aktuellen Zustands eines Git-Projekts zu speichern.
  Der git add Befehl fügt, für den nächsten Commit, Inhalte aus dem Arbeitsverzeichnis der Staging-Area (bzw. „Index“) hinzu. Bei der Ausführung des Befehls git commit wird standardmäßig nur diese Staging-Area betrachtet, so dass mit git add festgelegt wird, wie euer nächster Commit-Schnappschuss aussehen soll.
 
+<img src="././git-gh.jpeg"  width="48%">
+<img src="./snapshot.png " width="48%">
 
-![snapshot](./snapshot.png "snapshot")
 
+```Git lokal```: Dein lokales Repository besteht aus drei "Instanzen", die von git verwaltet werden. Die erste ist deine Arbeitskopie , welche die echten Dateien enthält. Die zweite ist der Index , welcher als Zwischenstufe agiert und zu guter Letzt noch der HEAD , der auf deinen letzten Commit zeigt.
 
-<hr>
+---
 
 ## lokal auf GitHub pushen (wenn noch keine Verbindung besteht)
 - zunächst ein leeres repo auf GitHub anlegen und git remote add origin <url> Zeile kopieren und im Terminal einfügen bevor push (um lokal mit remote zu verbinden)
@@ -76,8 +82,9 @@ Jeder weitere Push kann ohne eine Branch-Angabe ausgeführt werden:
 $ git push 
 ``` 
 
-![git-gh](./git-gh.jpeg "git-gh")
-
+ ```Git remote```: Bedeutet, dass Informationen nicht automatisch zwischen den Repositorys ausgetauscht werden. Stattdessen müssen Entwickler Upstream-Commits manuell in ihr lokales Repository pullen oder ihre lokalen Commits manuell zurück in das zentrale Repository pushen.
+ 
+---
 ## durch GitHub (unser remote Repo) ist es möglich den Code mit anderen gemeinsam zu bearbeiten. 
 **durch ```fork, pull-request``` und ```merge```**
 
