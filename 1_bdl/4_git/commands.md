@@ -12,3 +12,9 @@
 | `$ git log -p`                       | gibt ein detailliertes log mit allen änderungen der commits aus                          |
 | `$ git log --pretty=oneline`         | gibt ein komprimiertes log mit ID und message des commits aus                            |
 | `$ git revert [commit ID] --no-edit` | stellt einen früheren commit wieder her |
+
+
+
+## Git Cheat-Sheet
+
+:bulb: wissen heißt - wissen, wo es steht: https://education.github.com/git-cheat-sheet-education.pdf
