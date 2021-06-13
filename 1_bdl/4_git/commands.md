@@ -1,5 +1,6 @@
 # Typische Git Befehle
 
+
 | Befehl                               | Erklärung                                                                                |
 |--------------------------------------|------------------------------------------------------------------------------------------|
 | `$ git init`                         | Wenn wir diesen Befehl in einem order ausführen, erstellen wir hier ein neues Repository |
@@ -12,9 +13,19 @@
 | `$ git log -p`                       | gibt ein detailliertes log mit allen änderungen der commits aus                          |
 | `$ git log --pretty=oneline`         | gibt ein komprimiertes log mit ID und message des commits aus                            |
 | `$ git revert [commit ID] --no-edit` | stellt einen früheren commit wieder her |
-
-
+| `$ git fetch`                        | git fetch importiert Commits von einem Remote-Repository in das lokale Repo              |
+| `$ git merge`                        | nach einem git fetch werden die Änderungen mit merge eingefügt
+| `$ git pull`                         | führt fetch und merge in einem Schritt aus
 
 ## Git Cheat-Sheet
+:bulb: wissen heißt - wissen, wo es steht:
+*[Cheat sheet ansehen](https://education.github.com/git-cheat-sheet-education.pd)*
 
-:bulb: wissen heißt - wissen, wo es steht: https://education.github.com/git-cheat-sheet-education.pdf
+<div align=center>
+
+![git-gh](./commands.png "commands")
+![status-log](./git-status.jpg "status-log")
+![revert](./git-revert.png "revert")
+
+</div>
+
