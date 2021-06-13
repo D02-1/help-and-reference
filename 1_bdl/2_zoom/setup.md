@@ -15,3 +15,8 @@ Um Zoom zu installieren, Doppelklicken wir nach dem Download auf die installatio
 Unseren Zoom Kanal können wir betreten, indem wir in unserem Slack Workspace auf den Link klicken, der im Kanal #allgemein hinterlegt wurde.
 
 ![alt text](./slack-zoomlink.png "Zoom Link")
+
+## Hilfe holen, wenn in Breakout-Rooms
+
+![help](./help.jpg "Help btn")
+
