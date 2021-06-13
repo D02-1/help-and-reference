@@ -46,8 +46,8 @@ In beiden Fällen erhaltet Ihr ein einsatzbereites Git-Repository auf eurem loka
  Die Befehle ```git add, git status, and git commit ```werden alle in Kombination verwendet, um einen Snapshot des aktuellen Zustands eines Git-Projekts zu speichern.
  Der git add Befehl fügt, für den nächsten Commit, Inhalte aus dem Arbeitsverzeichnis der Staging-Area (bzw. „Index“) hinzu. Bei der Ausführung des Befehls git commit wird standardmäßig nur diese Staging-Area betrachtet, so dass mit git add festgelegt wird, wie euer nächster Commit-Schnappschuss aussehen soll.
 
-<img src="././git-gh.jpeg"  width="48%">
-<img src="./snapshot.png " width="48%">
+<img src="././git-gh.jpeg"  width="45%">
+<img src="./snapshot.png " width="45%">
 
 
 ```Git lokal```: Dein lokales Repository besteht aus drei "Instanzen", die von git verwaltet werden. Die erste ist deine Arbeitskopie , welche die echten Dateien enthält. Die zweite ist der Index , welcher als Zwischenstufe agiert und zu guter Letzt noch der HEAD , der auf deinen letzten Commit zeigt.
