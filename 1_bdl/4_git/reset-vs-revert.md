@@ -4,7 +4,7 @@
 
 ## Git Reset
 
-`git reset HEAD` erlaubt uns zu einem früheren commit zurück zu gehen - **Achtung!** die commits danach werden auf diese Weise gelöscht. Die commit History wird auf diese Weise verändert
+`git reset HEAD` erlaubt uns zu einem früheren commit zurück zu gehen - **Achtung!** die commits danach werden auf diese Weise gelöscht. Die commit History dadurch verändert
 
 <div>
 <img src="./git-reset.jpeg" width="45%">
@@ -28,6 +28,7 @@ ohne option flag => (default option --mixed)
 
 <img src="./head.png" width="35%">
 
+---
 ## Git Revert
 
 
@@ -37,9 +38,9 @@ ohne option flag => (default option --mixed)
 
 
 
-<img src="./git-revert-comp.png" width="35%" style="background:white">
+<img src="./git-revert-comp.png" width="40%">
 
-
+---
 ## commit message ändern
 
 `git commit --amend -m 'new message'` ändert die commit Nachricht meines letzten commits
