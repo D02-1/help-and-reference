@@ -12,6 +12,8 @@ Grundsätzlich gehört alles hinein, was sich als Hürde für die gemeinsame Zus
 
 Ordner und Dateien, welche einmal von Git versioniert wurden (z.b. versehentlich commited), müssen wir erst aus dem Trackingsystem entfernen, bevor wir sie mit dem nächsten commit in der .gitignore mit aufnehmen können.
 
+`git ls-files` -zeigt Dateien/ Ordner der Staging area (index) an
+
 ```
 git rm -r --cached <file>
 git add .
