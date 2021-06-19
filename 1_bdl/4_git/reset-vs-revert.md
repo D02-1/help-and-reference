@@ -31,7 +31,7 @@ ohne option flag => (default option --mixed)
 ## Git Revert
 
 
-* Wenn wir mit anderen zusammen arbeiten und unser repo bereits auf remote gepusht haben, kann es zu Problemen führen, wenn wir die commit History ändern
+* Wenn wir mit anderen zusammen arbeiten und unser repo bereits auf remote gepusht haben, kann es zu Problemen führen, wenn wir die commit History verändern
 
 `git revert` erstellt einen neuen commit, aus dem commit auf dem wir zurückgreifen. Wir erstellen eine Kopie und bewegen uns von dieser Kopie weiter. Frühere commits werden nicht gelöscht. Die commit history bleibt erhalten.
 
