@@ -26,7 +26,7 @@ ohne option flag => (default option --mixed)
 * `git reset HEAD~2`- setzt die commit refernce 2 commits zurück usw.
 
 
-<img src="./head.png" width="25%">
+<img src="./head.png" width="35%">
 
 ## Git Revert
 
@@ -37,7 +37,7 @@ ohne option flag => (default option --mixed)
 
 
 
-<img src="./git-revert-comp.png" width="30%">
+<img src="./git-revert-comp.png" width="35%" style="background:white">
 
 
 ## commit message ändern
