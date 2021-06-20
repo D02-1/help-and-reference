@@ -38,7 +38,7 @@ ohne option flag => (default option --mixed)
 
 
 
-<img src="./revert.jpeg" width="40%">
+<img src="./revert.png" width="40%">
 
 ---
 ## commit message ändern
