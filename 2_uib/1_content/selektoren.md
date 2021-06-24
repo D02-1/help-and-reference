@@ -1,4 +1,4 @@
-## Selektoren
+# Selektoren
 
 <img src="selektor.png"
      alt="selektor" width="450">
@@ -11,7 +11,7 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 
 | Selektorname      | wählt aus?                                                        | Syntax                        |
 |-------------------|-------------------------------------------------------------------|-------------------------------|
-| Universalselektor | spricht jedes Element im Elementbaum an                           |*                              |
+| Universalselektor | spricht jedes Element im Elementbaum an (except ::before and ::after)|*                              |
 | ID-Selektor       | spricht jedes Element einer bestimmten ID an                      |#ID                            |        
 | Klassenselektor   | spricht alle Elemente einer bestimmten Klasse an                  |.klassenname                   |     
 | Typselektor       | spricht alle Elemente eines bestimmten Typs an                    |elementenname (p, div, h1)|   
@@ -35,13 +35,21 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 - gutes Lesematerial zu den 
 [Kombinatorselektoren](https://www.mediaevent.de/css/css-selektor-kontextselektor.html)
 
-- interaktives Spiel zum Erlernen der Selektoren [CSS Dinner](https://flukeout.github.io/)
+- interaktives Spiel zum Erlernen der Selektoren [CSS Dinner](https://flukeout.github.io/) 
+
+- Learn Every CSS Selector In 20 Minutes [Youtube Video in Englisch](https://www.youtube.com/watch?v=l1mER1bV0N0&t=934s) 
 
 ---
 
 <div align="center">
 <img src="combinator.png"alt="combinator" width="50%">
 <img src="child-type.png"alt="child-type" width="45%">
+</div>
+
+---
+<div align="center">
+<img src="child-grandchild.png"alt="child-grandchild" width="50%">
+<h4>grandchild vs direct child selector</h4>
 </div>
 
 
