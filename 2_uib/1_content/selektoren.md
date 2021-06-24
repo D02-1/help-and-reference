@@ -1,5 +1,8 @@
 ## Selektoren
 
+<img src="selektor.png"
+     alt="selektor" width="450">
+
 Damit wir Elemente auf einer Website gestalten können, müssen wir zunächst festlegen welche Elemente angesprochen werden sollen. Mit Hilfe von CSS-Selektoren treffen wir diese Auswahl. 
 
 Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für verschiedene Anwendungsbereiche. Es gibt einfache Selektoren, Kombinatorselektoren (Kombinatoren sind Zeichen, die zwei Selektoren miteinander verketten) und Pseudoklassen Selektoren. 
@@ -24,12 +27,18 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 
 - eine gute Überischt über alle Selektoren bietet die [W3schools](https://www.w3schools.com/cssref/css_selectors.asp)
 
-- gutes Lesematerial zu den 
-[Kombinatorselektoren](https://www.mediaevent.de/css/css-selektor-kontextselektor.html)
-
 - gutes Lesematerial zu den [Attributselektoren](https://www.w3schools.com/css/css_attribute_selectors.asp)
 
 - gutes Lesematerial zu [Pseudoklassen](https://developer.mozilla.org/de/docs/Web/CSS/Pseudo-classes)
+
+- gutes Lesematerial zu den 
+[Kombinatorselektoren](https://www.mediaevent.de/css/css-selektor-kontextselektor.html)
+
+
+
+
+<img src="combinator.png"
+     alt="combinator" width="450">
 
 
 
