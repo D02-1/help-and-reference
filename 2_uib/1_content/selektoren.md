@@ -40,8 +40,8 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 ---
 
 <div align="center">
-<img src="combinator.png"alt="combinator" width="45%">
-<img src="child-type.png"alt="child-type" width="35%">
+<img src="combinator.png"alt="combinator" width="50%">
+<img src="child-type.png"alt="child-type" width="45%">
 </div>
 
 
