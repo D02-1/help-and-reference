@@ -14,7 +14,7 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 | Universalselektor | spricht jedes Element im Elementbaum an                           |*                              |
 | ID-Selektor       | spricht jedes Element einer bestimmten ID an                      |#ID                            |        
 | Klassenselektor   | spricht alle Elemente einer bestimmten Klasse an                  |.klassenname                   |     
-| Typselektor       | spricht alle Elemente eines bestimmten Typs an                    |elementenname Bsp. (p, div, h1)|   
+| Typselektor       | spricht alle Elemente eines bestimmten Typs an                    |elementenname (p, div, h1)|   
 | Attributselektor  | spricht alle Elemente an, die ein bestimmtes Attribut besitzen    |[attributname] bsp [href]| 
 | Attributwert      | alle Elemente, die ein bestimmtes Attribut mit einem bestimmten Wert besitzen|[attributname=attributwert]|
 | Kindselektor      | alle Elemente, die direkte Kinder eines anderen Elements sind     |div > p                        |            
