@@ -28,7 +28,7 @@
         * [Colors](https://github.com/D02-1/help-and-reference/blob/main/2_uib/1_content/colors.md)
     
       
-* UI Basics
+
 * Programming Basics
 * SPA
 * Backend
