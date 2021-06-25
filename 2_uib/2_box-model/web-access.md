@@ -8,8 +8,10 @@ Ein semantisches Element beschreibt deutlich seine Bedeutung sowohl für den Bro
 Beispiele für nicht-semantische Elemente: `<div>` und `<span>` - Weist nichts über ihren Inhalt.
 Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article>` und `<img>` - klar definiert sein Inhalt. 
 
-<img src="structure.png" alt="do" width="50%"> 
+<div align="center">
+<img src="structure.png" alt="do" width="49%"> 
 <img src="semantic.jpg" alt="dont" width="49%"> 
+</div>
 
 
 
