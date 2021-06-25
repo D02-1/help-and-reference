@@ -1,9 +1,9 @@
-## Colors in CSS
+# Colors in CSS
 
 - wir können Farben in CSS entweder mit dem **Farbnamen**,dem **Hex Wert** oder dem **RGB Wert** bestimmen.
 
 
-<img src="colors.png" alt="colors" width="35%">
+<img src="colors.png" alt="colors" width="50%">
 
 
 
@@ -28,8 +28,8 @@ Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Far
 
 das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 an. 0 ist vollständig transparent oder durchsichtig, 1 ist voll deckend oder opakt. Alles dazwischen ist halb deckend oder semitransparent und läßt den Hintergrund durchscheinen.
 
-<img src="rgba.png" alt="rgba" width="45%">
-<img src="rgba-w3.jpeg" alt="rgba-red" width="70%">
+<img src="rgba.png" alt="rgba" width="55%">
+<img src="rgba-w3.jpeg" alt="rgba-red" width="90%">
 
 ---
 **Color-Wheel**
