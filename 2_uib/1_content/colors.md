@@ -16,9 +16,8 @@ eine Liste zu den unterstützten Farbnamen aller modernen Browsers findest du hi
 Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Farben durch mischen unterschiedlicher Anteile der drei Grundfarben erzielt werden.Der jeweilige Anteil wird für jede Grundfarbe einzeln in Form eines 8-Bit-Wertes, d. h. dezimal 0 - 255, hexadezimal 00 - FF angegeben. Insgesamt lassen sich somit 256 × 256 × 256 = 16.777.216 Farben codieren. Die Notierung erfolgt in hexadezimalen Werten der Form #RRGGBB, wobei #000000 Schwarz und #FFFFFF Weiß entsprechen. 
 
 |`color: rgb(255, 255, 255)` |  `color: #ffffff` |
- ------------------------------------------------
+--------------------------------------------------
 |<img src="rgb.png" alt="rgb" width="35%"> | <img src="hex.webp" alt="rgb" width="35%"> |
-
 |[RGB](https://www.w3schools.com/html/html_colors_rgb.asp)|[Hex](https://www.w3schools.com/html/html_colors_hex.asp)|
 
 
@@ -27,15 +26,15 @@ Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Far
 
 das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 an. 0 ist vollständig transparent oder durchsichtig, 1 ist voll deckend oder opakt. Alles dazwischen ist halb deckend oder semitransparent und läßt den Hintergrund durchscheinen.
 
-<img src="rgba.png" alt="rgba" width="35%">
-<img src="rgba-w3.jpeg" alt="rgba-red" width="55%">
+<img src="rgba.png" alt="rgba" width="30%">
+<img src="rgba-w3.jpeg" alt="rgba-red" width="60%">
 
 ---
 **Color-Wheel**
 
-<img src="color-wheel.webp" alt="color-wheel" width="40%">
+<img src="color-wheel.webp" alt="color-wheel" width="60%">
 
-:point_right:[mit dem Farbkreis die perfekte Farbkombo finden](https://www.logogeist.de/blog/farbkreis-mit-dem-farbkreis-die-perfekte-farbkombination-finden)\
+:point_right:[mit dem Farbkreis die perfekte Farbkombo finden](https://www.logogeist.de/blog/farbkreis-mit-dem-farbkreis-die-perfekte-farbkombination-finden)
 
 
 ---
@@ -56,8 +55,8 @@ das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 a
 **Barrierefreiheit**
 
 :point_right:[Farbblindheit (engl)](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)\
-:point_right:[Wie designe ich für Farbblinde (engl)](https://usabilla.com/blog/how-to-design-for-color-blindness/)\
-:point_right:[Testtool wie meine Seite auf unterschiedliche Farbblindheiten wirkt)](https://www.toptal.com/designers/colorfilter/)\
+:point_right:[Wie designe ich für Farbblinde? (engl)](https://usabilla.com/blog/how-to-design-for-color-blindness/)\
+:point_right:[Testtool wie meine Seite auf unterschiedliche Farbblindheiten wirkt)](https://www.toptal.com/designers/colorfilter/)
 
 
 
