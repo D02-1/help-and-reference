@@ -18,9 +18,10 @@ Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Far
 <img src="rgb.png" alt="rgb" width="35%">  <img src="hex.webp" alt="rgb" width="35%"> 
 
 mehr Info in W3schools
+<div align="center">
 :point_right:[RGB](https://www.w3schools.com/html/html_colors_rgb.asp)
 :point_right:[Hex](https://www.w3schools.com/html/html_colors_hex.asp)
-
+</div>
 
 ### RGBA
 **Als Besonderheit können wir RGB zusätzlich um den Alphakanal erweitern (RGB -> RGBA)**
