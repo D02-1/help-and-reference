@@ -33,7 +33,7 @@ das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 a
 ---
 **Color-Wheel**
 
-<img src="color-wheel.webp" alt="color-wheel" width="60%">
+<img src="color-wheel.webp" alt="color-wheel" width="80%">
 
 :point_right:[mit dem Farbkreis die perfekte Farbkombo finden](https://www.logogeist.de/blog/farbkreis-mit-dem-farbkreis-die-perfekte-farbkombination-finden)
 
