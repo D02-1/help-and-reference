@@ -42,13 +42,13 @@ Um das passende Element auszuwählen gibt es viele verschiedene Selektoren für 
 ---
 
 <div align="center">
-<img src="combinator.png"alt="combinator" width="50%">
+<img src="siblings-etc.jpeg"alt="combinator" width="50%">
 <img src="child-type.png"alt="child-type" width="45%">
 </div>
 
 ---
 <div align="center">
-<img src="child-grandchild.png"alt="child-grandchild" width="50%">
+<img src="child-grandchild.png" alt="child-grandchild" width="50%">
 <h4>grandchild vs direct child selector</h4>
 </div>
 
