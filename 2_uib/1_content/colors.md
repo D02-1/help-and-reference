@@ -13,7 +13,7 @@ eine Liste zu den unterstützten Farbnamen aller modernen Browsers findest du hi
 
 Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Farben durch mischen unterschiedlicher Anteile der drei Grundfarben erzielt werden.Der jeweilige Anteil wird für jede Grundfarbe einzeln in Form eines 8-Bit-Wertes, d. h. dezimal 0 - 255, hexadezimal 00 - FF angegeben. Insgesamt lassen sich somit 256 × 256 × 256 = 16.777.216 Farben codieren. Die Notierung erfolgt in hexadezimalen Werten der Form #RRGGBB, wobei #000000 Schwarz und #FFFFFF Weiß entsprechen. 
 
-### `color: rgb(255, 255, 255)`  `color: #ffffff`
+### `color: rgb(255, 255, 255)`(0-255)  `color: #RRGGBB` (0 -> 9 A -> F) 
 
 <img src="rgb.png" alt="rgb" width="35%">  <img src="hex.webp" alt="rgb" width="35%"> 
 
