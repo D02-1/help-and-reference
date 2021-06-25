@@ -5,8 +5,6 @@
 
 <img src="colors.png" alt="colors" width="50%">
 
-
-
 ### Farbnamen
 
 eine Liste zu den unterstützten Farbnamen aller modernen Browsers findest du hier: [Liste Farbnamen](https://www.w3schools.com/colors/colors_names.asp)
@@ -19,11 +17,12 @@ Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Far
 
 <img src="rgb.png" alt="rgb" width="35%">  <img src="hex.webp" alt="rgb" width="35%"> 
 
+mehr Info in W3schools
 :point_right:[RGB](https://www.w3schools.com/html/html_colors_rgb.asp)
 :point_right:[Hex](https://www.w3schools.com/html/html_colors_hex.asp)
 
 
-## RGBA
+### RGBA
 **Als Besonderheit können wir RGB zusätzlich um den Alphakanal erweitern (RGB -> RGBA)**
 
 das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 an. 0 ist vollständig transparent oder durchsichtig, 1 ist voll deckend oder opakt. Alles dazwischen ist halb deckend oder semitransparent und läßt den Hintergrund durchscheinen.
