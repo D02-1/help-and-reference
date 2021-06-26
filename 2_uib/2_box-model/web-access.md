@@ -5,8 +5,8 @@
 Wichtig ist die semantische Auszeichnung vor allem, da Suchmaschinen den Quellcode lesen und anhand der verwendeten HTML-Tags die Wichtigkeit von Inhalten ableiten. Außerdem erleichtern semantische Elemente Screenreadern das Auslesen des Quellcodes um ihn sehbehinderten Menschen vorzulesen.
 
 Ein semantisches Element beschreibt deutlich seine Bedeutung sowohl für den Browser und den Entwickler.
-Beispiele für nicht-semantische Elemente: `<div>` und `<span>` - Weist nichts über ihren Inhalt.
-Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article>` und `<img>` - klar definiert sein Inhalt. 
+Beispiele für nicht-semantische Elemente: `<div>` und `<span>` - diese weisen nicht auf ihren Inhalt hin.
+Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article>` und `<img>` - hiermit wird der Inhalt klar definiert. 
 
 <div align="center">
 <img src="structure.png" alt="do" width="49%"> 
@@ -47,7 +47,7 @@ Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article
 
 :point_right:[Lighthouse - teste deine Webseite auf barrierefreiheit](https://developers.google.com/web/tools/lighthouse)\
 :point_right:[Chrome Dev Tools zum Testen meiner Seite mit verschiedenen Farbblindheiten](https://developers.google.com/web/tools/lighthouse)\
-:point_right:[Chrome Screenreader Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
+:point_right:[Browser Extension - Chrome Screenreader Simulation](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
 
 
