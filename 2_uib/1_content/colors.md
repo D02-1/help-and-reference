@@ -19,6 +19,7 @@ Das RGB-Farbmodell beruht auf den Grundfarben Rot, Grün, Blau, wobei andere Far
 
 mehr Info in W3schools
 <div align="center">
+
 :point_right:[RGB](https://www.w3schools.com/html/html_colors_rgb.asp)
 :point_right:[Hex](https://www.w3schools.com/html/html_colors_hex.asp)
 </div>
