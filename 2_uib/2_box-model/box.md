@@ -27,7 +27,7 @@ wir unterscheiden hier:\
 **survival of the fittest**
 wenn wir zwei boxen mit margin haben (einmal margin-bottom und einmal margin-top) überschreiben sie sich gegenseitig. Es gewinnt der "Stärkere". Anders sieht es aus, bei zwei Angaben, wovon eine Angabe negativ margin enthält. In diesem Fall werden beide Angaben miteinander verrechnet.
 
-<img src="collapse.png" alt="collapsing-margin" width="49%"> 
+<img src="collapse.png" alt="collapsing-margin" width="60%"> 
 
 **mehr Info**
 
