@@ -16,7 +16,22 @@ Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article
 
 
 ---
+### wenn es kein sematisches HTML Element oder Attribut gibt hilft uns Aria (Accessible Rich Internet Applications) beim Erstellen des sogenannten Accessible Tree´s *
 
+
+
+<div align="center">
+<img src="aria.jpeg" alt="aria" width="49%"> 
+<img src="aria-pw.jpg" alt="aria-describedby" width="49%"> 
+</div>
+
+
+<img src="tree.jpg" alt="tree" width="49%"> 
+<p>*Accessible Tree ist ein sogenannte Baumdarstellung für Unterstützungstechnolgie (Bsp. Screenreader)</p>
+
+
+
+---
 
 **mehr Lesematerial**
 
@@ -31,7 +46,9 @@ Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article
 **Tools**
 
 :point_right:[Lighthouse - teste deine Webseite auf barrierefreiheit](https://developers.google.com/web/tools/lighthouse)\
-:point_right:[Chrome Dev Tools zum Testen meiner Seite mit verschiedenen Farbblindheiten](https://developers.google.com/web/tools/lighthouse)
+:point_right:[Chrome Dev Tools zum Testen meiner Seite mit verschiedenen Farbblindheiten](https://developers.google.com/web/tools/lighthouse)\
+:point_right:[Chrome Screenreader Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
+
 
 
 
