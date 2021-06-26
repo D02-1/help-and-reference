@@ -16,7 +16,7 @@ wir unterscheiden hier:\
 
 *default Wert, wenn wir keine Angaben machen ist `content-box`
 
-**mehr Info**\
+**mehr Info**
 
 :point_right:[w3schools box-model)](https://www.w3schools.com/css/css_boxmodel.asp)
 
