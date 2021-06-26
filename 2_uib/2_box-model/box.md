@@ -18,7 +18,7 @@ wir unterscheiden hier:\
 
 **mehr Info**
 
-:point_right:[w3schools box-model](https://www.w3schools.com/css/css_boxmodel.asp)
+:point_right:[w3schools box-model](https://www.w3schools.com/css/css_boxmodel.asp)\
 :point_right:[boxes and borders Cheat sheet](https://learn-the-web.algonquindesign.ca/topics/boxes-borders-cheat-sheet/)
 
 ---
