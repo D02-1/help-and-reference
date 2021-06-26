@@ -22,7 +22,7 @@ wir unterscheiden hier:\
 
 ---
 ### Achtung HTML Elemente kommen mit default Werten (u.a. für margin/ padding)
-mit einer reset methode lassen sich die Elemente leichter kontrollieren
+mit einer reset methode (bspw. normalize.css) lassen sich die Elemente leichter kontrollieren
 
 :point_right:[CSS Default Werte einzelner HTML Elemente](https://www.w3schools.com/cssref/css_default_values.asp)
 
