@@ -27,7 +27,7 @@ Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article
 
 
 <img src="tree.jpg" alt="tree" width="49%"> 
-<p>*Accessible Tree ist ein sogenannte Baumdarstellung für Unterstützungstechnolgie (Bsp. Screenreader)</p>
+<p>*Accessible Tree ist ein sogenannte Baumdarstellung unserer Webseite für Unterstützungstechnolgie (Bsp. Screenreader)</p>
 
 
 
