@@ -1,9 +1,8 @@
-# Box - Model 
-**boxes everywhere**
+# Box - Model **boxes everywhere**
 
 Das CSS Box Model beschreibt wie Block-Elemente vom Browser dargestellt werden. Jedes Element hat eine Größe `width`/ `height` (Content Box), die von den drei Boxen `padding` (Padding-Box), `border` (Border-Box) und `margin`(Margin-Box) umgeben wird. Der vollständige Platzbedarf eines Elements bestimmt sich aus der Summe aller Boxen.
 
-<img src="box-model.png" alt="boxes" width="49%"> 
+<img src="box-model.png" alt="boxes" width="60%"> 
 
 content + padding (Innenabstand) + border + margin (Außenabstand)
 
