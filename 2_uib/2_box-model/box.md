@@ -4,7 +4,7 @@ Das CSS Box Model beschreibt wie Block-Elemente vom Browser dargestellt werden. 
 
 <img src="box-model.png" alt="boxes" width="60%"> 
 
-content + padding (Innenabstand) + border + margin (Außenabstand)
+**content + padding (Innenabstand) + border + margin (Außenabstand)**
 
 
 Mit dem CSS Befehl `box-sizing`, lässt sich das Box Model von CSS manipulieren
