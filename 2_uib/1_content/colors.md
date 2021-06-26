@@ -59,7 +59,7 @@ das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 a
 
 :point_right:[Farbblindheit (engl)](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)\
 :point_right:[Wie designe ich für Farbblinde? (engl)](https://usabilla.com/blog/how-to-design-for-color-blindness/)\
-:point_right:[Testtool wie meine Seite auf unterschiedliche Farbblindheiten wirkt)](https://www.toptal.com/designers/colorfilter/)
+:point_right:[Testtool wie meine Seite auf unterschiedliche Farbblindheiten wirkt](https://www.toptal.com/designers/colorfilter/)
 
 
 
