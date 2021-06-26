@@ -27,7 +27,7 @@
         * [Selektoren](https://github.com/D02-1/help-and-reference/blob/main/2_uib/1_content/selektoren.md)
         * [Colors](https://github.com/D02-1/help-and-reference/blob/main/2_uib/1_content/colors.md)
     * [box-model](https://github.com/D02-1/help-and-reference/tree/main/2_uib/2_box-model)
-        * [Semantics - Barrierefreiheit](https://github.com/D02-1/help-and-reference/blob/main/2_uib/2_box-model/web-access.md)
+        * [Semantic - Barrierefreiheit](https://github.com/D02-1/help-and-reference/blob/main/2_uib/2_box-model/web-access.md)
         * [überall Boxen](https://github.com/D02-1/help-and-reference/blob/main/2_uib/2_box-model/box.md)
  
 
