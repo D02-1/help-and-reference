@@ -9,7 +9,7 @@
 
   [*Web Dev Simplified*](https://www.youtube.com/watch?v=CV-ven_rxhw)  
   
-- #### **Linux in 90 Minuten - Die Bash **
+- #### **Linux in 90 Minuten - Die Bash**
 
   [*Beginners Guide to the Bash Tutorial*](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 
