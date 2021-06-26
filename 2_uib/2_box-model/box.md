@@ -18,9 +18,13 @@ wir unterscheiden hier:\
 
 **mehr Info**
 
-:point_right:[w3schools box-model)](https://www.w3schools.com/css/css_boxmodel.asp)
+:point_right:[w3schools box-model](https://www.w3schools.com/css/css_boxmodel.asp)
 
 ---
+### Achtung HTML Elemente kommen mit default Werten (u.a. für margin/ padding)
+mit einer reset methode lassen sich die Elemente leichter kontrollieren
+
+:point_right:[CSS Default Werte einzelner HTML Elemente](https://www.w3schools.com/cssref/css_default_values.asp)
 
 ### Achtung collapsing margin (CSS the weird parts)
 
