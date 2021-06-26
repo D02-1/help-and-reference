@@ -36,7 +36,7 @@ den Code durch den eigenen Code (letzter Teil der URL beim Aufruf des gewünscht
   [*Zum Tutorial gehen*](https://lab.github.com/githubtraining/communicating-using-markdown)
   
 - #### **Steve Griffith Youtube Serie GitHub (engl) - GitHub Markdown**
-  [*Zum Tutorial gehen*](https://www.youtube.com/watch?v=eJojC3lSkwg)
+  [*Zum Video*](https://www.youtube.com/watch?v=eJojC3lSkwg)
   
   
 
