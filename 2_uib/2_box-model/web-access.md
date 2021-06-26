@@ -4,9 +4,9 @@
 
 Wichtig ist die semantische Auszeichnung vor allem, da Suchmaschinen den Quellcode lesen und anhand der verwendeten HTML-Tags die Wichtigkeit von Inhalten ableiten. Außerdem erleichtern semantische Elemente Screenreadern das Auslesen des Quellcodes um ihn sehbehinderten Menschen vorzulesen.
 
-Ein semantisches Element beschreibt deutlich seine Bedeutung sowohl für den Browser und den Entwickler.
+Ein semantisches Element beschreibt deutlich seine Bedeutung sowohl für den Browser als auch für den Entwickler.
 Beispiele für nicht-semantische Elemente: `<div>` und `<span>` - diese weisen nicht auf ihren Inhalt hin.
-Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article>` und `<img>` - hiermit wird der Inhalt klar definiert. 
+Beispiele für semantische Elemente: `<form>` , `<table>`, `<header>`, `<article>` und `<img>` - hiermit wird der Inhalt klar definiert und strukturiert. 
 
 <div align="center">
 <img src="structure.png" alt="do" width="49%"> 
