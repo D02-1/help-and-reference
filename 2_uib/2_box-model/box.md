@@ -6,7 +6,7 @@ Das CSS Box Model beschreibt wie Block-Elemente vom Browser dargestellt werden. 
 
 **content + padding (Innenabstand) + border + margin (Außenabstand)**
 
-
+---
 Mit dem CSS Befehl `box-sizing`, lässt sich das Box Model von CSS manipulieren
 die Eigenschaft `box-sizing` legt fest, worauf sich die Abmessungen `width`/`height` in unseren Angaben beziehen
 
