@@ -6,7 +6,7 @@
 
 Bei den Boxen unterschieden wir zwischen: den Inline-(z.b.`img`,`span`, `a`, `button`) und den Block-Elementen (z.b.`p`,`div`,`h1`). 
 
-<img src="inline-block.png" alt="inline-block" width="30%"> 
+<img src="inline-block.png" alt="inline-block" width="40%"> 
 
 ### Block-Elemente 
 
@@ -27,7 +27,7 @@ wir unterscheiden hier:\
 *default Wert, wenn wir keine Angaben machen ist `content-box`
 
 ---
-### Achtung HTML Elemente kommen mit default Werten (u.a. für margin/ padding)
+### HTML Elemente kommen mit default Werten (u.a. für margin/ padding)
 mit einer reset methode (bspw. normalize.css) lassen sich die Elemente leichter kontrollieren
 
 :point_right:[CSS Default Werte einzelner HTML Elemente](https://www.w3schools.com/cssref/css_default_values.asp)
@@ -55,7 +55,7 @@ Horizontal padding, margins, und borders können wieder ganz normal angewendet w
 *inline Elemente, die von außen kommmen bspw. `img` verhalten sich wie Block Elemente. (d.h. sie haben eine `width` and `height`)
 
 ### `display` property 
-**wir können die default Werte der Elemente überschreiben. d.h. wir können festlegen, wie die Elemente vom Browser gerendert werden sollen:**
+**wir können die default Werte der Elemente überschreiben. d.h. wir können für jedes Element neu festlegen, wie es vom Browser gerendert werden soll:**
 
 ```css
 display:block;
