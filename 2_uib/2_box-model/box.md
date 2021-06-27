@@ -4,7 +4,6 @@
 **Das CSS Box Model beschreibt wie diese Elemente vom Browser dargestellt werden** :point_right:[MDN Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 Bei den Boxen unterschieden wir zwischen: den Inline-(z.b.`img`,`span`, `a`, `button`) und den Block-Elementen (z.b.`p`,`div`,`h1`). 
-
 :point_right:[w3schools block and inline elements](https://www.w3schools.com/html/html_blocks.asp)
 
 
