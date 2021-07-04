@@ -22,5 +22,6 @@ der browser füllt unsere box mit image, ohne dabei auf das image selbst zu acht
 
 :point_right:[mdn bg-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)\
 :point_right:[CSS-tricks bg-image](https://css-tricks.com/almanac/properties/b/background-image/)\
-:point_right:[fastweb bg-image](http://fastwebstart.com/background-image-html/)
+:point_right:[fastweb bg-image](http://fastwebstart.com/background-image-html/)\
+:point_right:[html-img vs css-bg-image](https://buildawesomewebsites.com/html-img-vs-css-background-image/)
 
