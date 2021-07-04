@@ -34,6 +34,6 @@ Elemente können durch einer der positions Eigenschaften aus dem normalen Elemen
 wenn Elemente sich überlappen, hilft der z-index dabei zu bestimmen, in welcher Reihenfolge die Elemente angezeigt werden sollen.  Elemente mit einem größeren z-index liegen dabei näher am Betrachter und können Elemente mit kleinerem z-index überlagern.
 
 <div>
-<img src="z-index.png" alt="z-index" width="50%"> 
-<img src="z-index2.png" alt="z-index2" width="40%"> 
+<img src="z-index.png" alt="z-index" width="60%"> 
+<img src="z-index2.png" alt="z-index2" width="38%"> 
 </div>
