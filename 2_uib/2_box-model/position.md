@@ -20,8 +20,8 @@ Elemente können durch einer der positions Eigenschaften aus dem normalen Elemen
 * **`fixed`** Ein Element mit position `fixed` kann relative zum viewport window positioniert werden. Es bleibt immer an dieser Position auch wenn die Seite hoch - bzw. runtergescrollt wird. `top`, `bottom`, `left`, `right` und `z-index` können verwendet werden.
 
 <div>
-<img src="posfixed2.jpg" alt="posfixed" width="40%"> 
-<img src="posfixed.jpg" alt="posfixed" width="30%"> 
+<img src="posfixed2.jpg" alt="posfixed" width="53%"> 
+<img src="posfixed.jpg" alt="posfixed" width="45%"> 
 </div>
 
 * **`sticky`**  wie fixed, aber es wird erst fest, wenn die Seite zu einem bestimmten, festgelegten Punkt gescrollt wird.
