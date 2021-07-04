@@ -3,7 +3,7 @@
 
 `background-image`: `url(image-url)`;
 
-der browser füllt die box mit image, ohne dabei auf das image selbst zu achten. wir haben Optionen um dieses anzupassen.
+der browser füllt unsere box mit image, ohne dabei auf das image selbst zu achten. wir haben Optionen um dieses anzupassen.
 
 **die wichtigsten sind:**
 
@@ -11,10 +11,10 @@ der browser füllt die box mit image, ohne dabei auf das image selbst zu achten.
 
 `background-size:cover` Bedeckt die gesamte Box mit Bild. Es zeigt dabei jedoch nicht zwingend das gesamte orginal Bild mehr an - Das Bild wird proportional vergrößert bzw. verkleinert in unserer Box dargestellt. Mit `background-position` `left`, `center`, `right`, `bottom`, und `top`können wir angeben, welcher Teil des Bildes angezeigt werden soll. Die default position ist `top``left`
 
-<img src="bg-img.jpg" alt="bgimg" width="30%">
+<img src="bg-img.jpg" alt="bgimg" width="40%">
 </br>
 
-<img src="covervscontain.jpeg" alt="covervscontain" width="30%"> 
+<img src="covervscontain.jpeg" alt="covervscontain" width="50%"> 
 
 
 
