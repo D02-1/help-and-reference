@@ -1,4 +1,4 @@
-## background-images 
+# background-images 
 
 
 `background-image`: `url(image-url)`;
