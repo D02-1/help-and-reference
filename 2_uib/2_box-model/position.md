@@ -15,7 +15,7 @@ Elemente können durch einer der positions Eigenschaften aus dem normalen Elemen
 
 * **`absolute`** Nimmt das Element komplett aus dem normalen Elementenfluss. Es existiert nicht mehr und andere Elemente rücken nach. Das Element kann mit `top`, `bottom`, `left`,`right` und `z-index` **zum nächsten nicht statischen Elternelement** positioniert werden. Sollten alle Elternelemente statisch sein, wird das Element `relative` zum viewport window positioniert. 
 
-<img src="posabsolute.jpeg" alt="posabsolute" width="30%"> 
+<img src="posabsolute.jpeg" alt="posabsolute" width="50%"> 
 
 * **`fixed`** Ein Element mit position `fixed` kann relative zum viewport window positioniert werden. Es bleibt immer an dieser Position auch wenn die Seite hoch - bzw. runtergescrollt wird. `top`, `bottom`, `left`, `right` und `z-index` können verwendet werden.
 
@@ -35,5 +35,5 @@ wenn Elemente sich überlappen, hilft der z-index dabei zu bestimmen, in welcher
 
 <div>
 <img src="z-index.png" alt="z-index" width="50%"> 
-<img src="z-index2.png" alt="z-index2" width="30%"> 
+<img src="z-index2.png" alt="z-index2" width="40%"> 
 </div>
