@@ -32,6 +32,12 @@ Mit der Eigenschaft `font-family` können wir die zu verwendende Schriftart best
 <img src="font-family.png" alt="font-family" width="60%"> 
 
 ---
+### Schriftart
+
+Mit `font-weight`können wir die Schriftdicke bestimmen.
+
+<img src="font-weight.png" alt="font-weight" width="60%"> 
+
 
 ### Text dekorieren
 
