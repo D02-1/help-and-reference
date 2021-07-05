@@ -25,15 +25,15 @@ CSS `text-align` richtet Texte und Inline-Elemente wie Bilder innerhalb eines Bl
 
 ---
 
-### Schriftdicke
+### Schriftart
 
 Mit der Eigenschaft `font-family` können wir die zu verwendende Schriftart bestimmen. 
 
 <img src="font-family.png" alt="font-family" width="60%"> 
 
 ---
-### Schriftart
 
+### Schriftdicke
 Mit `font-weight`können wir die Schriftdicke bestimmen.
 
 <img src="font-weight.png" alt="font-weight" width="40%"> 
@@ -76,11 +76,6 @@ mit `letter-spacing` können wir den Abstand zwischen den Buchstaben verändern.
 
 
 <img src="formatting.png" alt="formatting" width="50%"> 
-
-
-
-
-
 
 **mehr Lesematerial**
 
