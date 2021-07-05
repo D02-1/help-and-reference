@@ -50,13 +50,13 @@ Die folgenden Werte können wir für `text-decoration` verwenden.
 
 mit `line-height` können wir die Höhe einer Zeile bestimmen. Das sorgt für eine bessere Lesbarkeit.
 
-<img src="line-height.png" alt="line-height" width="30%"> 
+<img src="line-height.png" alt="line-height" width="50%"> 
 
 ### Buchstabenabstand
 
 mit `letter-spacing` können wir den Abstand zwischen den Buchstaben verändern.
 
-<img src="letter-spacing.png" alt="letter-spacing" width="40%"> 
+<img src="letter-spacing.png" alt="letter-spacing" width="60%"> 
 
 ---
 
@@ -79,7 +79,7 @@ mit `letter-spacing` können wir den Abstand zwischen den Buchstaben verändern.
 **mehr Lesematerial**
 
 :point_right:[Medium Artikel rem vs em units in css](https://medium.com/@hossam.hilal0/rem-vs-em-units-in-css-96d5ac15878e)\
-:point_right:[css-tricks](https://css-tricks.com/almanac/properties/f/font-size/)
+:point_right:[css-tricks](https://css-tricks.com/almanac/properties/f/font-size/)\
 :point_right:[font und Text Styling Deutsch](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/font-size)
 
 
