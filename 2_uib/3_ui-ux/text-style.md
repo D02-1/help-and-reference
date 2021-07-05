@@ -25,7 +25,7 @@ CSS `text-align` richtet Texte und Inline-Elemente wie Bilder innerhalb eines Bl
 
 ---
 
-### Schriftart
+### Schriftdicke
 
 Mit der Eigenschaft `font-family` können wir die zu verwendende Schriftart bestimmen. 
 
