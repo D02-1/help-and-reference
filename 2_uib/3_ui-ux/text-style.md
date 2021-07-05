@@ -9,8 +9,8 @@ Die CSS-Eigenschaft `font-size` spezifiziert die Schriftgöße. Wir können die 
 
 Root (HTML) Default Schriftgröße beträgt 16px. 
 
-`REM`:wird immer relative zum Root Element (HTML tag) (1rem = 16px) berechnet\
-`EM`: wird relative zum Elternelement berechnet. Achtung durch nesting der Elemente kann es mit `em` sehr unübersichtlich werden
+`rem`:wird immer relative zum Root Element (HTML tag) (1rem = 16px) berechnet\
+`em`: wird relative zum Elternelement berechnet. Achtung durch nesting der Elemente kann es mit `em` sehr unübersichtlich werden
 
 <img src="rem-vs-em.png" alt="rem-vs-em" width="60%"> 
 
