@@ -12,7 +12,7 @@ Root (HTML) Default Schriftgröße beträgt 16px.
 `REM`:wird immer relative zum Root Element (HTML tag) (1rem = 16px)
 `EM`: wird relative zum Elternelement berechnet. Achtung durch nesting der Elemente kann es mit `em` sehr unübersichtlich werden
 
-<img src="rem-vs-em.png" alt="rem-vs-em" width="50%"> 
+<img src="rem-vs-em.png" alt="rem-vs-em" width="60%"> 
 
 ---
 ### Text ausrichten
@@ -29,7 +29,7 @@ CSS `text-align` richtet Texte und Inline-Elemente wie Bilder innerhalb eines Bl
 
 Mit der Eigenschaft `font-family` können wir die zu verwendende Schriftart bestimmen. 
 
-<img src="font-family.png" alt="font-family" width="30%"> 
+<img src="font-family.png" alt="font-family" width="60%"> 
 
 ---
 
