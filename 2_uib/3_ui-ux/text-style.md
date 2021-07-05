@@ -2,7 +2,7 @@
 
 ### Schriftgröße
 
-Die CSS-Eigenschaft `font-size` spezifiziert die Schriftgöße. Wir können die Schrift in absoluten oder in relativen Einheiten bestimmen. Am häufigsten werden pixel (`px`), rem (`rem`) und em (`em`) genutzt.
+Die CSS-Eigenschaft `font-size` spezifiziert die Schriftgöße. Wir können die Schrift in absoluten oder in relativen Einheiten bestimmen. Am häufigsten werden pixel (`px`), `rem` und `em` genutzt.
 
 
 
