@@ -82,6 +82,7 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 ```
 Die Eigenschaft `value` ist nicht unbedingt erforderlich. Wenn beim Senden kein `value`-Attribut verwendet wird, wird der Wert auf 'on' gesetzt, wenn die checkbox ausgewählt wurde. In diesem Fall ist es jedoch wichtig, das wir die einzelnen checkboxen, durch unterschiedliche `name`-Attribute wieder voneinander unterscheiden können. So das wir, wenn das Formular abgeschickt wird, auch auslesen können, welche checkbox auf 'on' gesetzt wurde.
 
+---
 
 **mehr Lesematerial**
 
