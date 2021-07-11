@@ -34,7 +34,7 @@
      * [ui-ux](https://github.com/D02-1/help-and-reference/tree/main/2_uib/3_ui-ux)
         * [font und text-style](https://github.com/D02-1/help-and-reference/blob/main/2_uib/3_ui-ux/text-style.md)
     * [date](https://github.com/D02-1/help-and-reference/tree/main/2_uib/4_data)
-        * [font und text-style](https://github.com/D02-1/help-and-reference/blob/main/2_uib/4_data/input.md)
+        * [inputs](https://github.com/D02-1/help-and-reference/blob/main/2_uib/4_data/input.md)
 * Programming Basics
 * SPA
 * Backend
