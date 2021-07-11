@@ -43,6 +43,10 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 </form> 
 ``` 
 
+## Brauchen wir für checkbox auch einen `value`-Attribut? 
+
+Die Eigenschaft `value` ist nicht unbedingt erforderlich. Wenn beim Senden kein `value`-Attribut verwendet wird, wird der Wert auf 'on' gesetzt, wenn die checkbox ausgewählt wurde. In diesem Fall ist es jedoch wichtig, das wir die einzelnen checkboxen, durch unterschiedliche `name`-Attribute wieder voneinander unterscheiden können. So das wir wenn das Formular abgeschickt wird, auch auslesen können, welche checkbox auf 'on' gesetzt wurde.
+
 
 **mehr Lesematerial**
 
@@ -50,6 +54,5 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 :point_right:[mdn inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)\
 :point_right:[w3 forms](https://www.w3.org/TR/html401/interact/forms.html)\
 :point_right:[html5-tutorial checkboxen](https://html5-tutorial.net/de/338/formulare/checkboxen/)
-
 
 
