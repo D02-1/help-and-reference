@@ -15,7 +15,7 @@ Default `type`-Attribut ist `text`.
 * es vergrößert den klickbaren Bereich für Benutzer mit der Maus. (erhöht damit die Nutzerfreundlichkeit)
 * wird vom Screenreader genutzt
 
-<img src="label.jpeg" alt="label" width="60%"> 
+<img src="label.jpeg" alt="label" width="80%"> 
 
 Das `input` muss entweder im `label`eingebettet sein **oder** aber das `for`-Attribut verbindet das `label` Tag mit dem `input`.
 In dem Fall muss das `for`-Attribut des `label`-Tags denselben Wert wie das `id`-Attribut des Eingabefelds (input, textarea, button, select) aufweisen. Jedes Eingabefeld kann nur ein label-Tag haben.
@@ -44,6 +44,7 @@ So würden wir bspw. das Formular abschicken `color`:`red`. Wenn der value red a
 ``` 
 
 **mehr Lesematerial**
+
 :point_right:[w3schools Attribute inputs](https://www.w3schools.com/html/html_form_attributes.asp)\
 :point_right:[mdn inputs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)\
 :point_right:[w3 forms](https://www.w3.org/TR/html401/interact/forms.html)
