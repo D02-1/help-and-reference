@@ -30,7 +30,7 @@ Es wird verwendet, um die Formulardaten nach dem Absenden des Formulars zu refer
 ## Besonderheiten `name`-Attribut für `type="radio"`
 
 Eine Gruppe wird durch das gleiche `name`-Attribut definiert. Zusätzlich brauchen wir einen `value`.
-So würden wir bspw. das Formular abschicken `color`:`red`. Wenn der value red angeklickt wurde.
+So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value red angeklickt wurde.
 
 ```css
 <form>  
