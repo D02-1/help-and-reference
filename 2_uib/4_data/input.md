@@ -11,7 +11,7 @@ Default `type`-Attribut ist `text`.
 
 ## Wozu brauchen wir das label? ##
 
-* label gibt nicht nur die Bezeichnung des Inputfelds für den User an
+* label gibt die Bezeichnung des Inputfelds für den User an
 * es vergrößert den klickbaren Bereich für Benutzer mit der Maus. (erhöht damit die Nutzerfreundlichkeit)
 * wird vom Screenreader genutzt
 
