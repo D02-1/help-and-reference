@@ -47,7 +47,7 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 
 **Bei Checkboxen gibt es verschiedene Möglichkeiten**
 
-### Beispiel 1
+* ### Beispiel 1
 ```css
 <form>
 <fieldset>
@@ -65,7 +65,7 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 ```
 zum Beispiel wird gesendet: `interest`:`coding`
 
-### Beispiel 2
+* ### Beispiel 2
 
 ```css
 <form>
