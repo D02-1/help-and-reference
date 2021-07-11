@@ -43,7 +43,41 @@ So würden wir bspw. das Formular abschicken mit `color`:`red`. Wenn der value r
 </form> 
 ``` 
 
-## Brauchen wir für checkbox auch einen `value`-Attribut? 
+## Checkboxen
+
+**Bei Checkboxen gibt es verschiedene Möglichkeiten**
+
+## Beispiel 1
+```css
+<form>
+<fieldset>
+  <legend>Choose your interests</legend>
+  <div>
+    <input type="checkbox" id="coding" name="interest" value="coding">
+    <label for="coding">Coding</label>
+  </div>
+  <div>
+    <input type="checkbox" id="music" name="interest" value="music">
+    <label for="music">Music</label>
+  </div>
+</fieldset>
+</form>
+```
+## Beispiel 2
+
+<form>
+<fieldset>
+  <legend>Choose your interests</legend>
+  <div>
+    <input type="checkbox" id="coding" name="coding">
+    <label for="coding">Coding</label>
+  </div>
+  <div>
+    <input type="checkbox" id="music" name="music">
+    <label for="music">Music</label>
+  </div>
+</fieldset>
+</form>
 
 Die Eigenschaft `value` ist nicht unbedingt erforderlich. Wenn beim Senden kein `value`-Attribut verwendet wird, wird der Wert auf 'on' gesetzt, wenn die checkbox ausgewählt wurde. In diesem Fall ist es jedoch wichtig, das wir die einzelnen checkboxen, durch unterschiedliche `name`-Attribute wieder voneinander unterscheiden können. So das wir, wenn das Formular abgeschickt wird, auch auslesen können, welche checkbox auf 'on' gesetzt wurde.
 
