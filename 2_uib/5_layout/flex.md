@@ -2,7 +2,7 @@
 
 Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. Das Modell arbeitet mit zwei Achsen (horizontale und vertikale) auf denen Inhalte verteilt werden können.
 
-<img src="flexbox.png" alt="flexbox" width="30%"> 
+<img src="flexbox.png" alt="flexbox" width="45%"> 
 
 ### **Elternteil ist unser flex-container, in welchem wir mit folgenden properies bestimmen können, wie sich dessen Kinder (boxen /flex-items)verhalten sollen**
 
