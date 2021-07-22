@@ -23,6 +23,8 @@ Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. 
 
 ### **Ausrichtung auf den x/y Achsen**
 **`bei flex-direction:row mit:`**
+
+
 <div>
 
 ```css
@@ -32,11 +34,14 @@ justify-content:(richtet die Kinder auf der x-Achse aus => Bild 1)
 align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 ```
 </div>
+__________________ **`x-Achse`** __________________________________________ **`y-Achse`**________________________
 
 <div>
 <img src="justify-content.png" alt="justify-content" width="28%"> 
 <img src="align-items.png" alt="align-items" width="35%"> 
 </div>
+
+
 
 ---
 **:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung um. Dort übernimmt:**\
@@ -62,5 +67,5 @@ Der `default` Wert ist `no-wrap`, das heißt, das alle Kinder des flex-container
 :point_right:[flexbox tutorial](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
  **CSS Game**
- 
+
 :point_right:[css flexbox game froggy](https://flexboxfroggy.com/)
