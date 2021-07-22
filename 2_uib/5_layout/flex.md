@@ -39,11 +39,11 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 <div>
 
 <img src="justify-content.png" alt="justify-content" width="28%"> 
-<span> <-- x-Achse</span>
+<span> <-- x</span>
 
 
 <img src="align-items.png" alt="align-items" width="35%"> 
-<span> <-- y-Achse</span>
+<span> <-- y</span>
 
 </div>
 
