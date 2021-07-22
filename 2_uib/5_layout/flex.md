@@ -34,17 +34,23 @@ justify-content:(richtet die Kinder auf der x-Achse aus => Bild 1)
 align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 ```
 </div>
-___________ **`x-Achse`** _______________ **`y-Achse`**_________
+
 
 <div>
+
 <img src="justify-content.png" alt="justify-content" width="28%"> 
+<span> <-- x-Achse</span>
+
+
 <img src="align-items.png" alt="align-items" width="35%"> 
+<span> <-- y-Achse</span>
+
 </div>
 
 
 
 ---
-**:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung um. Dort übernimmt:**\
+**:exclamation::exclamation::exclamation: ACHTUNG VORSICHT bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung um. Dort übernimmt:**\
  `justify-content` die y-Achse und
   `align-items` die x-Achse.
 
