@@ -73,5 +73,8 @@ display:none;
 :point_right:[CSS Box Modell für inline Elemente](https://www.edv-lehrgang.de/css-box-modell-fuer-inline-elemente/)\
 :point_right:[w3schools box model](https://www.w3schools.com/css/css_boxmodel.asp)\
 :point_right:[MDN box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)\
-:point_right:[boxes and borders Cheat sheet](https://learn-the-web.algonquindesign.ca/topics/boxes-borders-cheat-sheet/)
+:point_right:[boxes and borders Cheat sheet](https://learn-the-web.algonquindesign.ca/topics/boxes-borders-cheat-sheet/)\
+:point_right:[digitalocean - display-inline-vs-inline-block](https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block)
+
+
 
