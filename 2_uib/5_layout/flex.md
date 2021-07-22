@@ -54,7 +54,9 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
  `justify-content` die y-Achse und
   `align-items` die x-Achse.
 
-:point_right:[alignment main-axis abhängig von der flex-direction](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)\
+
+:point_right:[alignment main-axis abhängig von der flex-direction](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+
 ---
 ### **flex-wrap**
 
