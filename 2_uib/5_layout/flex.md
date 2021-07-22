@@ -34,7 +34,7 @@ justify-content:(richtet die Kinder auf der x-Achse aus => Bild 1)
 align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 ```
 </div>
-______________ **`x-Achse`** _______________________________ **`y-Achse`**_________
+___________ **`x-Achse`** _______________ **`y-Achse`**_________
 
 <div>
 <img src="justify-content.png" alt="justify-content" width="28%"> 
