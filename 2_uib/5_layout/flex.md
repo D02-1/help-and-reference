@@ -39,7 +39,7 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 </div>
 
 ---
-**:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung um. Dort übernimmt:**
+**:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung um. Dort übernimmt:**\
  `justify-content` die y-Achse und
   `align-items` die x-Achse.
 
