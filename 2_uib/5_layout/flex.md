@@ -4,7 +4,7 @@ Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. 
 
 <img src="flexbox.png" alt="flexbox" width="45%"> 
 
-### **Elternteil ist unser flex-container, in welchem wir mit folgenden properies bestimmen können, wie sich dessen Kinder (boxen / flex-items)verhalten sollen**
+### **Elternteil ist unser flex-container, in welchem wir mit folgenden properies bestimmen können, wie sich dessen Kinder (boxen / flex-items) verhalten sollen**
 
 ```css
 .flex-container{
