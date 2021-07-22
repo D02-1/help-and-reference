@@ -50,7 +50,7 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 
 
 ---
-**:exclamation::exclamation::exclamation: ACHTUNG VORSICHT bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung mit. Es übernimmt:**\
+**:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung mit. Es übernimmt:**\
  `justify-content` die y-Achse und
   `align-items` die x-Achse.
 
@@ -75,11 +75,7 @@ Der `default` Wert ist `no-wrap`, das heißt, das alle Kinder des flex-container
 :point_right:[flexbox tutorial](https://marina-ferreira.github.io/tutorials/css/flexbox/)\
 :point_right:[flexbox tutorial css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
 :point_right:[flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-align-content)\
-:point_right:[interaktiver flexbox playground](https://codepen.io/enxaneta/full/adLPwv)\
-
-
-
-
+:point_right:[interaktiver flexbox playground](https://codepen.io/enxaneta/full/adLPwv)
 
 
 
