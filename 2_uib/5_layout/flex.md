@@ -73,7 +73,7 @@ Der `default` Wert ist `no-wrap`, das heißt, das alle Kinder des flex-container
 
 :point_right:[flexbox-aligning with auto margins](https://dev.to/samanthaming/flexbox-aligning-with-auto-margins-4gfh)\
 :point_right:[flexbox tutorial](https://marina-ferreira.github.io/tutorials/css/flexbox/)\
-:point_right:[flexbox tutorial](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
+:point_right:[flexbox tutorial css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
 :point_right:[flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-align-content)\
 :point_right:[interaktiver flexbox playground](https://codepen.io/enxaneta/full/adLPwv)\
 
