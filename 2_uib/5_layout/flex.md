@@ -17,7 +17,7 @@ Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. 
 ```
 ---
 ### **flex-direction**
-<img src="flex-direction.jpg" alt="flex-direction" width="50%"> 
+<img src="flex-direction.jpg" alt="flex-direction" width="60%"> 
 
 ---
 
