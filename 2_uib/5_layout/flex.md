@@ -28,7 +28,7 @@ Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. 
 <div>
 
 ```css
-justify-content:(richtet die Kinder auf der x-Achse aus => Bild 1)
+justify-content:(richtet die Kinder auf der x-Achse (main axis) aus => Bild 1)
 ```
 ```css
 align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
@@ -51,7 +51,7 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 
 ---
 **:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung mit. Es übernimmt:**\
- `justify-content` die y-Achse und
+ `justify-content` die y-Achse (main-axis) und
   `align-items` die x-Achse.
 
 
