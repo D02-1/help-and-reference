@@ -84,14 +84,18 @@ flex-shrink legt fest, um welchen Faktor ein Flex-Item gegenüber den anderen Fl
 }
 ```
 ---
+**wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width & min-width Angabe überschreiben die angegebene flex-basis.
 
+content —> width —> flex-basis (limted by max-width & min-width)
+
+:point_right:[Unterschied zwischen width und flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)\
+:point_right:[freecodecamp width und flex-basis](https://www.freecodecamp.org/news/flexboxs-flex-basis-explained-83d1a01413b7/)
 
  **mehr Lesematerial**
 
-:point_right:[Unterschied zwischen width und flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)\
+
 :point_right:[W3schools flex-grow visualizer](https://www.w3schools.com/cssref/playit.asp?filename=playcss_flex-grow&preval=1)\
 :point_right:[css tricks flex-grow|flex-shrink|flex-basis](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)\
-:point_right:[freecodecamp width und flex-basis](https://www.freecodecamp.org/news/flexboxs-flex-basis-explained-83d1a01413b7/)\
 :point_right:[warum gibt es keine justify-items und justify-self-properties](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties)
 
 
