@@ -40,7 +40,9 @@ mit `flex-basis` können wir die Basisbreite eines flex-items angeben. Wobei sic
 
 ### flex-basis
 
-flex-basis ist die anfängliche Breite der Flex-Items, bevor freier Platz unter den Items verteilt wird. flex-basis kann ein absoluter Wert oder ein Anteil in % sein.
+flex-basis ist die ideale Breite eines Flex-Items. Wir können flex-basis mit einem absoluten Wert oder einem Anteil in % angeben.
+
+<img src="flex-basis.png" alt="flex-basis" width="55%"> 
 
 ### flex-grow
 
@@ -73,6 +75,7 @@ flex-shrink legt fest, um welchen Faktor ein Flex-Item gegenüber den anderen Fl
     flex-shrink:1
 }
 ```
+---
 **Shorthand für flex-grow | flex-shrink | flex-basis**
 
 ```css
