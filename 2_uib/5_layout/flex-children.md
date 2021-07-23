@@ -48,9 +48,10 @@ flex-basis ist die anfängliche Breite der Flex-Items, bevor freier Platz unter 
 
 Das Element bekommt eine Breite relativ zu den anderen flexiblen Geschwisterelementen und in Abhängigkeit vom zur Verfügung stehenden Platz.
 
+<div>
 <img src="flex-grow2.webp" alt="flex-grow2" width="40%"> 
 <img src="flex-grow-calc.png" alt="flex-grow-calc" width="40%"> 
-
+</div>
 
 
 ```css
