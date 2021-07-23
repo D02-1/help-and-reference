@@ -9,7 +9,7 @@ Nicht nur der umgebende Container, sondern auch die einzelnen Kind-Elemente (eng
 order platziert jedes einzelne Element einer Flexbox in ein Feld der Wahl, ohne dabei die Reihenfolge des Inhalts im Markup zu ändern.
 
 
-<img src="order.jpg" alt="order" width="55%"> \
+<img src="order.jpg" alt="order" width="55%"> 
 
 default Wert ist 0.
 
