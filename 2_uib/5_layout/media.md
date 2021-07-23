@@ -32,7 +32,7 @@ html { background: red; }
 ---
 ### Breakpoints Orientierung
 
-<img src="common-breakpoints.jpg" alt="breakpoints" width="45%"> 
+<img src="common-breakpoints.jpg" alt="breakpoints" width="55%"> 
 
 ---
 
