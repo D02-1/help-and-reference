@@ -84,7 +84,7 @@ flex-shrink legt fest, um welchen Faktor ein Flex-Item gegenüber den anderen Fl
 }
 ```
 ---
-**wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width & min-width Angabe überschreiben die angegebene flex-basis.
+:point_up: **wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis anstelle von width und height, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width & min-width Angabe überschreiben die angegebene flex-basis wiederum.**
 
 content —> width —> flex-basis (limted by max-width & min-width)
 
