@@ -9,7 +9,7 @@ Nicht nur der umgebende Container, sondern auch die einzelnen Kind-Elemente (eng
 order platziert jedes einzelne Element einer Flexbox in ein Feld der Wahl, ohne dabei die Reihenfolge des Inhalts im Markup zu ändern.
 
 
-<img src="order.jpg" alt="order" width="45%"> \
+<img src="order.jpg" alt="order" width="55%"> \
 
 default Wert ist 0.
 
@@ -24,7 +24,7 @@ default Wert ist 0.
 
 Mit align-self bekommt das flex-item eine andere Eigenschaft als die anderen Schwesterelemente, die durch die Eigenschaft align-items innerhalb des Eltern-Containers angeordnet wurden.
 
-<img src="align-self.png" alt="align-self" width="45%"> 
+<img src="align-self.png" alt="align-self" width="55%"> 
 
 ```css
 .item {
@@ -47,6 +47,7 @@ flex-basis ist die anfängliche Breite der Flex-Items, bevor freier Platz unter 
 `Default value:0` - das Element verändert seine Breite nicht
 
 Das Element bekommt eine Breite relativ zu den anderen flexiblen Geschwisterelementen und in Abhängigkeit vom zur Verfügung stehenden Platz.
+
 <img src="flex-grow2.webp" alt="flex-grow2" width="40%"> 
 <img src="flex-grow-calc.png" alt="flex-grow-calc" width="40%"> 
 
