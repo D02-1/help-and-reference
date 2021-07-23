@@ -1,6 +1,6 @@
 # Flexbox (flex-container)
 
-Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. Das Modell arbeitet mit zwei Achsen (horizontale und vertikale) auf denen Inhalte verteilt werden können.
+Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. Das Modell arbeitet mit zwei Achsen (horizontale und vertikale) auf denen Inhalte verteilt werden können. Im engl. Hauptachse (main axis) und Querachse (cross axis). Tatsächlich ist es einfacher, wenn wir uns an der "Hauptachse" orientieren. Da wir an dieser immer ausrichten. Bei `direction:row` ist x - die Hauptachse, bei `direction:column` wird y - zur Hauptachse.
 
 <img src="flexbox.png" alt="flexbox" width="45%"> 
 
@@ -28,7 +28,7 @@ Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. 
 <div>
 
 ```css
-justify-content:(richtet die Kinder auf der x-Achse aus => Bild 1)
+justify-content:(richtet die Kinder auf der x-Achse (main axis) aus => Bild 1)
 ```
 ```css
 align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
@@ -39,7 +39,7 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 <div>
 
 <img src="justify-content.png" alt="justify-content" width="28%"> 
-<span> <-- x</span>
+<span> <-- x (main axis)</span>
 
 
 <img src="align-items.png" alt="align-items" width="35%"> 
@@ -51,7 +51,7 @@ align-items:(richtet die Kinder auf der y-Achse aus => Bild 2)
 
 ---
 **:exclamation::exclamation::exclamation: ACHTUNG bei `flex-direction:column` drehen sich die Befehle für die Ausrichtung mit. Es übernimmt:**\
- `justify-content` die y-Achse und
+ `justify-content` die y-Achse (main-axis) und
   `align-items` die x-Achse.
 
 
