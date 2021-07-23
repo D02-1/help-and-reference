@@ -1,4 +1,6 @@
 # Hilfe und Referenzen zu bisherigen Themen
+<!-- Used for the "back to top" links within the document -->
+<div id="contents"></div>
 
 * [Basic digital Literacy](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/)
     * [Slack](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/1_slack)
@@ -39,6 +41,10 @@
         * [media queries](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/media.md)
         * [flexbox parent](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/flex.md)
         * [flexbox children (flex-basis/grow/shrink ...)](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/flex-children.md)
+        
+
+<sub>[⇧ back to top](#contents)</sub>
+
 * Programming Basics
 * SPA
 * Backend
