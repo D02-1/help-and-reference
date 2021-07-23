@@ -28,7 +28,7 @@ Mit align-self bekommt das flex-item eine andere Eigenschaft als die anderen Sch
 
 ```css
 .item {
-  align-self: auto | flex-start | flex-end | center | baseline | stretch;
+  align-self: auto | flex-start | flex-end | center | stretch | baseline |;
 }
 ```
 ---
@@ -40,9 +40,9 @@ mit `flex-basis` können wir die Basisbreite eines flex-items angeben. Wobei sic
 
 ### flex-basis
 
-flex-basis ist die ideale Breite eines Flex-Items. Wir können flex-basis mit einem absoluten Wert oder einem Anteil in % angeben.
+`flex-basis` ist die ideale Breite eines Flex-Items fest. Wir können flex-basis mit einem absoluten Wert oder einem Anteil in % angeben.
 
-<img src="flex-basis.png" alt="flex-basis" width="55%"> 
+<img src="flex-basis.png" alt="flex-basis" width="65%"> 
 
 ### flex-grow
 
