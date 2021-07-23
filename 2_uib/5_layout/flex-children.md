@@ -40,9 +40,16 @@ mit `flex-basis` können wir die Basisbreite eines flex-items angeben. Wobei sic
 
 ### flex-basis
 
-`flex-basis` ist die ideale Breite eines Flex-Items fest. Wir können flex-basis mit einem absoluten Wert oder einem Anteil in % angeben.
+Mit `flex-basis` legen wir die ideale Breite eines Flex-Items fest. Wir können flex-basis mit einem absoluten Wert oder einem Anteil in % angeben.
 
 <img src="flex-basis.png" alt="flex-basis" width="65%"> 
+
+:point_up: **wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis anstelle von width und height, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width & min-width Angabe überschreiben die angegebene flex-basis wiederum.**
+
+content —> width —> flex-basis (limted by max-width & min-width)
+
+:point_right:[Unterschied zwischen width und flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)\
+:point_right:[freecodecamp width und flex-basis](https://www.freecodecamp.org/news/flexboxs-flex-basis-explained-83d1a01413b7/)
 
 ### flex-grow
 
@@ -84,12 +91,7 @@ flex-shrink legt fest, um welchen Faktor ein Flex-Item gegenüber den anderen Fl
 }
 ```
 ---
-:point_up: **wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis anstelle von width und height, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width & min-width Angabe überschreiben die angegebene flex-basis wiederum.**
 
-content —> width —> flex-basis (limted by max-width & min-width)
-
-:point_right:[Unterschied zwischen width und flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)\
-:point_right:[freecodecamp width und flex-basis](https://www.freecodecamp.org/news/flexboxs-flex-basis-explained-83d1a01413b7/)
 
  **mehr Lesematerial**
 
