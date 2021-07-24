@@ -44,7 +44,7 @@ Mit `flex-basis` legen wir die ideale Breite eines Flex-Items fest. Wir können 
 
 <img src="flex-basis.png" alt="flex-basis" width="65%"> 
 
-:point_up: **wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis anstelle von width und height, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width und min-width Angaben überschreiben die angegebene flex-basis wiederum.**
+:point_up: **wenn wir mit Flexbox arbeiten, verwenden wir immer flex-basis anstelle von width und height, zum einen, weil die flex-basis, sowohl für Höhe als auch für Breite gilt, je nach Richtung und weil flex-grow und flex-shrink so ohne Überraschungen funktionieren. Max-width und min-width Angaben überschreiben die angegebene flex-basis wiederum.**
 
 content —> width —> flex-basis (limted by max-width & min-width)
 

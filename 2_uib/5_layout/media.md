@@ -8,7 +8,7 @@ Für die Darstellung auf Mobilgeräten nutzen wir das viewport Meta-Tag (auf Deu
 
 ### Mobile First - min-width media queries
 
-Eine “Mobile-first”-Herangehensweise bezeichnet beim Entwurf einer Website mit der mobilen Version zu starten, die dann an größere Bildschirme angepasst wird. Für "mobile-first" nutzen wir min-width media queries.
+Eine “Mobile-first”-Herangehensweise bezeichnet beim Entwurf einer Website mit der mobilen Version zu starten, die dann an größere Bildschirme angepasst wird. Für "mobile-first" nutzen wir `min-width` media queries.
 
 ```css
 html { background: red; }
@@ -20,7 +20,7 @@ html { background: red; }
 
 ### Desktop First - max-width media queries
 
-Der Ansatz „Desktop First“ bedeutet, zuerst die Desktop-Version einer Website zu entwerfen und ausgehend davon Konzepte für kleinere Bildschirme abzuleiten. Für "desktop-first" nutzen wir max-width media queries.
+Der Ansatz „Desktop First“ bedeutet, zuerst die Desktop-Version einer Website zu entwerfen und ausgehend davon Konzepte für kleinere Bildschirme abzuleiten. Für "desktop-first" nutzen wir `max-width` media queries.
 
 ```css
 html { background: red; }
