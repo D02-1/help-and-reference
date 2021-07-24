@@ -2,8 +2,10 @@
 
 Mit Flexbox können wir unkompliziert variable und responsive Layouts erzeugen. Das Modell arbeitet mit zwei Achsen (horizontale und vertikale) auf denen Inhalte verteilt werden können. Im engl. Hauptachse (main axis) und Querachse (cross axis). Tatsächlich ist es einfacher, wenn wir uns an der "Hauptachse" orientieren. Da wir an dieser immer ausrichten. Bei `direction:row` ist x - die Hauptachse, bei `direction:column` wird y - zur Hauptachse.
 
+<div>
 <img src="flexbox.png" alt="flexbox" width="45%"> 
 <img src="main-axis.png" alt="main-axis" width="45%">
+</div>
 
 ### **Elternteil ist unser flex-container, in welchem wir mit folgenden properies bestimmen können, wie sich dessen Kinder (boxen / flex-items) verhalten sollen**
 
