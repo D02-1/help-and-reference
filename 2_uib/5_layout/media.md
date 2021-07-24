@@ -20,7 +20,7 @@ html { background: red; }
 
 ### Desktop First - max-width media queries
 
-Der Ansatz „Desktop First“ bedeutet, zuerst die Desktop-Version einer Website zu entwerfen und ausgehend davon Konzepte für kleinere Bildschirme abzuleiten. Für "desktop-first" nutzen wir `max-width media queries.
+Der Ansatz „Desktop First“ bedeutet, zuerst die Desktop-Version einer Website zu entwerfen und ausgehend davon Konzepte für kleinere Bildschirme abzuleiten. Für "desktop-first" nutzen wir `max-width` media queries.
 
 ```css
 html { background: red; }
