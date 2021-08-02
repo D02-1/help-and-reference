@@ -63,7 +63,7 @@ Für einen Screenreader macht es jedoch keinen Unterschied.
 </style>
 
 ```
-<img src="table-extras.jpeg" alt="table-extras" width="40%"> 
+<img src="table-extras.jpeg" alt="table-extras" width="60%"> 
 
 - durch das `<caption>-Element` wird eine Tabellenüberschrift definiert. Die Deklaration muss unmittelbar nach dem einleitenden `<table>-Tag` erfolgen
 - Das `<colgroup>-Tag` gibt eine Gruppe von einer oder mehreren Spalten in einer Tabelle zur Formatierung an. Es ist nützlich, um Stile auf ganze Spalten anzuwenden, anstatt die Stile für jede Zelle für jede Zeile zu wiederholen.
