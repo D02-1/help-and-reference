@@ -4,7 +4,7 @@ HTML-Tabellen sind die semantisch passende Struktur, um tabellarische Daten in Z
 
 ### Einfache Tabellen
 
-<img src="table-simple.png" alt="table-simple" width="40%">
+<img src="table-simple.png" alt="table-simple" width="60%">
 
 - das `th`-Element definiert eine Kopfzelle, die eine Überschrift für eine Gruppe von Zellen einer Tabelle ist. 
 - das `tr`-Element repräsentiert eine Tabellenzeile. 
@@ -17,7 +17,7 @@ HTML-Tabellen sind die semantisch passende Struktur, um tabellarische Daten in Z
 Für komplexere Tabellen bietet sich eine Struktur mit `thead`, `tbody` und `tfoot` an. Übersichtlicher und zusätzliche Hooks für das Styling im CSS.
 Für einen Screenreader macht es jedoch keinen Unterschied.
 
-<img src="table1.png" alt="table" width="40%"> 
+<img src="table1.png" alt="table" width="60%"> 
 
 - im Tabellenkopf `<thead></thead>` die Zeilen der einfachen Tabelle, die ausschließlich Kopfzellen enthalten, 
 - im Tabellenkörper `<tbody></tbody>` die Zeilen enthält, die ausschließlich oder hauptsächlich Datenzellen enthalten
