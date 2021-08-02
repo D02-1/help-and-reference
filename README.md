@@ -36,6 +36,7 @@
      * [ui-ux](https://github.com/D02-1/help-and-reference/tree/main/2_uib/3_ui-ux)
         * [font und text-style](https://github.com/D02-1/help-and-reference/blob/main/2_uib/3_ui-ux/text-style.md)
     * [data](https://github.com/D02-1/help-and-reference/tree/main/2_uib/4_data)
+        * [tables](https://github.com/D02-1/help-and-reference/blob/main/2_uib/4_data/table.md)
         * [inputs](https://github.com/D02-1/help-and-reference/blob/main/2_uib/4_data/input.md)
     * [layout](https://github.com/D02-1/help-and-reference/tree/main/2_uib/5_layout)
         * [media queries](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/media.md)
