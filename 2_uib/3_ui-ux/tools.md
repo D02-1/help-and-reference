@@ -6,12 +6,17 @@
 
 :point_right:[Neumorphism Generator](https://neumorphism.io/#c2c2c2)\
 :point_right:[css (e.g. tables, shadow, gradient, border-radius ...) Generator](https://html-css-js.com/css/generator/box-shadow/)\
-:point_right:[favicon Generator](https://favicon.io/)
+:point_right:[favicon Generator](https://favicon.io/)\
+:point_right:[gradient palette](https://aeroxer.net/color/multi-gradient-palette)
+
 
 ### free pics
 :point_right:[freepik](https://www.freepik.com/)\
 :point_right:[unsplash](https://unsplash.com/)\
-:point_right:[pixabay](https://pixabay.com/de/)
+:point_right:[pixabay](https://pixabay.com/de/)\
+:point_right:[free PNG´s](https://www.pngarts.com/)
+
+
 
 
 ## Artikel
