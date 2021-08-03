@@ -75,6 +75,7 @@ Für einen Screenreader macht es jedoch keinen Unterschied.
 ---
 **mehr Lesematerial**
 
+:point_right:[css-tricks Complete guide to tables](https://css-tricks.com/complete-guide-table-element)\
 :point_right:[w3schools tables](https://www.w3schools.com/html/html_tables.asp)\
 :point_right:[w3schools colgroup](https://www.w3schools.com/tags/tag_colgroup.asp)\
 :point_right:[w3schools scope](https://www.w3schools.com/tags/att_th_scope.asp)\
