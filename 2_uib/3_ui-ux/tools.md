@@ -14,7 +14,7 @@
 :point_right:[freepik](https://www.freepik.com/)\
 :point_right:[unsplash](https://unsplash.com/)\
 :point_right:[pixabay](https://pixabay.com/de/)\
-:point_right:[free PNG´s](https://www.pngarts.com/)
+:point_right:[PNG´s](https://www.pngarts.com/)
 
 
 
