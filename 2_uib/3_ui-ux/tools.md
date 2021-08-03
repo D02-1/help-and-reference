@@ -7,7 +7,9 @@
 :point_right:[Neumorphism Generator](https://neumorphism.io/#c2c2c2)\
 :point_right:[css (e.g. tables, shadow, gradient, border-radius ...) Generator](https://html-css-js.com/css/generator/box-shadow/)\
 :point_right:[favicon Generator](https://favicon.io/)\
-:point_right:[gradient palette](https://aeroxer.net/color/multi-gradient-palette)
+:point_right:[gradient palette](https://aeroxer.net/color/multi-gradient-palette)\
+:point_right:[ui gradient](https://uigradients.com/#Dull)
+
 
 
 ### free pics
