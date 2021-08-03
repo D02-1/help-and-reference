@@ -6,6 +6,7 @@ HTML-Tabellen sind die semantisch passende Struktur, um tabellarische Daten in Z
 
 <img src="table-simple.png" alt="table-simple" width="60%">
 
+- das HTML-Tag `<table>` wird zum Definieren einer Tabelle verwendet. Es enthält weitere Tags, die die Struktur der Tabelle definieren.
 - das `th`-Element definiert eine Kopfzelle, die eine Überschrift für eine Gruppe von Zellen einer Tabelle ist. 
 - das `tr`-Element repräsentiert eine Tabellenzeile. 
 - das `td`-Element definiert eine Zelle einer Tabelle, die Daten enthält. 
