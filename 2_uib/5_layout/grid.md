@@ -36,7 +36,7 @@ Im CSS wandeln wir die Klasse `.container` ganz einfach in ein Grid, indem wir `
 ---
 
 
-Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit Hilfe der Grid Linen unsere Kinder innerhalb des Containers plazieren.
+Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit Hilfe der Grid Linien unsere Kinder innerhalb des Containers plazieren.
 
 
 ```css
