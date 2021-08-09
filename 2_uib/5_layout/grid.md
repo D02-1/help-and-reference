@@ -53,7 +53,7 @@ Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit 
 }
 ```
 
-<img src="grid-positioning.jpeg" alt="grid-positioning" width="100%">
+<img src="grid-positioning.jpeg" alt="grid-positioning" width="85%">
 
 
 
