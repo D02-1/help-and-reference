@@ -4,14 +4,40 @@ Ein CSS Grid Layout bietet dem Webdesigner zwei Dimensionen zur Platzierung der 
 
 <img src="grid-vs-flexbox.jpg" alt="grid-vs-flexbox" width="45%">
 
-
+---
 ## Grundlage: Grid, Columns und Rows festlegen
+
+```html
+    <div class="container">
+        <div id="one">1.Kind Grid Container</div>
+        <div id="two">2.Kind Grid Container</div>
+        <div id="three">3.Kind Grid Container</div>
+        <div id="four">4.Kind Grid Container</div>
+        <div id="five">5.Kind Grid Container</div>
+        <div id="six">6.Kind Grid Container</div>
+        <div id="seven">7.Kind Grid Container</div>
+        <div id="eight">8.Kind Grid Container</div>
+    </div>
+```
 
 Im CSS wandeln wir die Klasse `.container` ganz einfach in ein Grid, indem wir `display:grid` hinzufügen. Mit `grid-template-columns` aktivieren wir die gewünschten Spalten, in diesem Fall 5 Spalten mit je 250px und mit `grid-template-rows` können wir die Höhe der Zeile einstellen, in diesem Fall 150px. Und das war’s, unser Raster ist fertig!
 
-<img src="grid-raster.jpeg" alt="grid-raster" width="85%">
+```css
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 250px);
+    grid-template-rows:repeat(3, 150px);
+    grid-gap: 30px;
+}
+```
+
+<img src="raster.jpeg" alt="grid-raster" width="85%">
+
+---
+
 
 Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit Hilfe der Grid Linen unsere Kinder innerhalb des Containers plazieren.
+
 
 ```css
 #five{
