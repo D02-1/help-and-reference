@@ -31,7 +31,7 @@ Im CSS wandeln wir die Klasse `.container` ganz einfach in ein Grid, indem wir `
 }
 ```
 
-<img src="raster.jpeg" alt="grid-raster" width="85%">
+<img src="raster.jpeg" alt="grid-raster" width="100%">
 
 ---
 
@@ -53,7 +53,7 @@ Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit 
 }
 ```
 
-<img src="grid-positioning.jpeg" alt="grid-positioning" width="85%">
+<img src="grid-positioning.jpeg" alt="grid-positioning" width="100%">
 
 
 
