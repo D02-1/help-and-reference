@@ -44,6 +44,8 @@
         * [flexbox parent](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/flex.md)
         * [flexbox children (flex-basis/grow/shrink ...)](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/flex-children.md)
          * [grid](https://github.com/D02-1/help-and-reference/blob/main/2_uib/5_layout/grid.md)
+    * [interaction](https://github.com/D02-1/help-and-reference/tree/main/2_uib/6_interaction)
+        * [animation](https://github.com/D02-1/help-and-reference/blob/main/2_uib/6_interaction/animation.md)
         
 
 <sub>[⇧ back to top](#contents)</sub>
