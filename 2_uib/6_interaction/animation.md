@@ -71,7 +71,7 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 
 - `animation-iteration-count`: legt fest, wie oft die Animation wiederholt werden soll.
     * `numerische Zahl` (Standardwert ist 1)
-    * `infinite`: Endlosschleife 
+    * `infinite` Endlosschleife 
 
 - `animation-direction` :legt fest, welchen Verlauf die Animation nehmen soll. 
     * `normal`(Standardwert), 
@@ -81,14 +81,14 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 
 - `animation-fill-mode` :legt fest, welchen Zustand das animierte Element nach Beendigung der Animation haben soll.
     * `none`: (Standardwert)
-    * `forwards`: Der Endzustand wird weiterhin angezeigt
-    * `backwards`: Das Element springt nach Beenden der Animation zum Anfangszustand zurück
-    * `both`:Das Element übernimmt sowohl die Regeln die am Anfang der Animation definiert wurden, als auch die am Ende
+    * `forwards` Der Endzustand wird weiterhin angezeigt
+    * `backwards` Das Element springt nach Beenden der Animation zum Anfangszustand zurück
+    * `both` Das Element übernimmt sowohl die Regeln die am Anfang der Animation definiert wurden, als auch die am Ende
 
 
 - `animation-play-state` :legt fest, ob Animation läuft oder pauserien soll. 
-    * `running`:
-    * `paused`: Animation ist gestoppt
+    * `running`
+    * `paused` Animation ist gestoppt
     Die Animation ist gestoppt, kann aber z.B. durch JavaScript aktiviert werden, indem der Wert auf running gesetzt wird.
 
  **Tools**
