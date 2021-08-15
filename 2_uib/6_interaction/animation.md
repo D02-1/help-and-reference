@@ -39,8 +39,8 @@ Beim hovern des elementes wird Hintergrundfarbe geändert und es wird um 180 Gra
 
 **transition-timing-function steps() und cubic-bezier**
 
-- `steps(nr, [start|end])`: benötigt immer zwei Parameter, bestimmt keinen fließenden, sondern einen schrittweisen Übergang
-- `cubic-bezier(x1, y1, x2, y2)`: steuert die Transition nach eigenen Angaben. Die ersten zwei Werte bestimmen die Startgeschwindigkeit, der dritte und vierte Wert die Endgeschwindigkeit. Der Geschwindigkeitsverlauf ergibt sich aus der Kurve, welche Start- und Endpunkt verbindet. Alle vier Parameter sind Pflichtparameter
+- `steps(nr, [start|end])` benötigt immer zwei Parameter, bestimmt keinen fließenden, sondern einen schrittweisen Übergang
+- `cubic-bezier(x1, y1, x2, y2)` steuert die Transition nach eigenen Angaben. Die ersten zwei Werte bestimmen die Startgeschwindigkeit, der dritte und vierte Wert die Endgeschwindigkeit. Der Geschwindigkeitsverlauf ergibt sich aus der Kurve, welche Start- und Endpunkt verbindet. Alle vier Parameter sind Pflichtparameter
 
 --- 
 ### Animation
