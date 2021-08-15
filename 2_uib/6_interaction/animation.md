@@ -97,10 +97,8 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 :point_right:[freie Animationen (lottiefiles)](https://lottiefiles.com/featured)\
 :point_right:[clippy](https://bennettfeely.com/clippy/)\
 :point_right:[animated loading spinner](https://loading.io/css/)\
+:point_right:[cubic-bezier tool](https://cubic-bezier.com/#.87,-0.03,.77,.47)\
 :point_right:[CSS Animations Generator](https://www.theappguruz.com/tag-tools/web/CSSAnimations/)
-
-
-
 
 
 **mehr Lesematerial**
