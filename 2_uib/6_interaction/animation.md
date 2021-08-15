@@ -6,6 +6,8 @@ Transition werden benutzt, zum Erstellen eines reibungslosen Übergangs von eine
 
 <img src="transition-vs-animation.jpg" alt="align-items" width="50%"> 
 
+---
+
 ### Transition
 
 Transitions müssen immer getriggert werden (bspw. durch ein hover):
@@ -116,8 +118,7 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 
 **Youtube Videos**
 
-:point_right:[css King zu transitions](https://www.youtube.com/watch?v=Nloq6uzF8RQ)\
-
+:point_right:[css King zu transitions](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
 
 
 
