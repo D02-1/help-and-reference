@@ -10,7 +10,7 @@ Transition werden benutzt, zum Erstellen eines reibungslosen Übergangs von eine
 
 ### Transition
 
-Transitions müssen immer getriggert werden (bspw. durch ein hover):
+Transitions müssen immer getriggert werden (bspw. durch ein hover, focus, ...):
 
 Die CSS Eigenschaft `transition` ist die shorthand property für `transition-property`, `transition-duration`, `transition-timing-function` und `transition-delay`.
 
