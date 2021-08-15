@@ -4,7 +4,7 @@
 
 Transition werden benutzt, zum Erstellen eines reibungslosen Übergangs von einem Zustand in einen anderen. Animationen für komplexere Bewegungsfolgen.
 
-![Transitions vs Animations](transition-vs-animation.jpg)
+<img src="transition-vs-animation.jpg" alt="align-items" width="50%"> 
 
 ### Transition
 
@@ -33,7 +33,7 @@ Beim hovern des elementes wird Hintergrundfarbe geändert und es wird um 180 Gra
 **transition-timing-function**
 `linear`ist default
 
-<img src="transition-timing.gif" alt="align-items" width="35%"> 
+<img src="transition-timing.gif" alt="align-items" width="50%"> 
 
 **transition-timing-function steps() und cubic-bezier**
 
@@ -112,10 +112,6 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 :point_right:[css-animation-libraries](https://css-tricks.com/css-animation-libraries/)\
 :point_right:[transition vs animation](https://blog.hubspot.com/website/css-transition-vs-animation)\
 :point_right:[selfhtml Animationen](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Animation/Animation)
-
-
-
-
 
 
 **Youtube Videos**
