@@ -24,7 +24,7 @@
 ## Artikel
 
 :point_right:[Beginners Guide to Learning UI Design](https://www.mockplus.com/blog/post/learn-ui-design)\
-:point_right:[Nerd's Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
+
 
 
 to be continued ...
