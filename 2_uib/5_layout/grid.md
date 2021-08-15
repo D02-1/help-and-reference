@@ -67,7 +67,10 @@ Auf unserem erstellten Grid Raster (5 Spalten und 3 Zeilen) können wir nun mit 
 :point_right:[grid in 5 Minuten verstehen (deutsch)](https://medium.com/sketch-app-sources/css-grid-einf%C3%BChrung-in-5-minuten-verstehen-und-in-sketch-umsetzen-9e9e8a16b07e)\
 :point_right:[practice grid mit Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)\
 :point_right:[grid by example](https://gridbyexample.com/examples/)\
+:point_right:[grid-auto-fill-vs-auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)\
 :point_right:[flexbox vs grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
+
+
 
 
 
