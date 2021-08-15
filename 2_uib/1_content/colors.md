@@ -61,6 +61,22 @@ das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 a
 :point_right:[Wie designe ich für Farbblinde? (engl)](https://usabilla.com/blog/how-to-design-for-color-blindness/)\
 :point_right:[Testtool wie meine Seite auf unterschiedliche Farbblindheiten wirkt](https://www.toptal.com/designers/colorfilter/)
 
+**Webseiten von Camila`s Vortrag über Farben**
+
+:point_right:[Webseite zur Überprüfung vom contrast-ratio](https://contrast-ratio.com/)\
+:point_right:[Color Scheme Designer](https://www.colorspire.com/)\
+:point_right:[Color Palette Generator](https://colors.muz.li/)\
+:point_right:[lighten & darken colors](https://www.0to255.com/ff0015)\
+:point_right:[psychology-color-web-design](https://en.99designs.de/blog/creative-inspiration/psychology-color-web-design/)
+
+
+
+
+
+
+
+
+
 
 
 
