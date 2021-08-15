@@ -119,6 +119,8 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 **Youtube Videos**
 
 :point_right:[css King zu transitions](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
+:point_right:[Traversy Media animations & transitions](https://www.youtube.com/watch?v=zHUpx90NerM&t=130s)
+
 
 
 
