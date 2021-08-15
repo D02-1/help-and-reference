@@ -69,24 +69,24 @@ Hier wechselt die Farbe auch von grün auf rot, jedoch mit einem Zwischenstop ü
 ```
 Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transition-timing-function` und `transition-delay`, können wir bei der animation noch den `animation-iteration-count`, die `animation-direction`, den `animation-fill-mode`, sowie den `animation-play-state` bestimmen.
 
-- ` ` legt fest, wie oft die Animation wiederholt werden soll.
+- `animation-iteration-count`: legt fest, wie oft die Animation wiederholt werden soll.
     * `numerische Zahl` (Standardwert ist 1)
     * `infinite`: Endlosschleife 
 
-- `animation-direction` legt fest, welchen Verlauf die Animation nehmen soll. 
+- `animation-direction` :legt fest, welchen Verlauf die Animation nehmen soll. 
     * `normal`(Standardwert), 
     * `reverse`, 
     * `alternate` und 
     * `alternate-reverse`
 
-- `animation-fill-mode` legt fest, welchen Zustand das animierte Element nach Beendigung der Animation haben soll.
+- `animation-fill-mode` :legt fest, welchen Zustand das animierte Element nach Beendigung der Animation haben soll.
     * `none`: (Standardwert)
     * `forwards`: Der Endzustand wird weiterhin angezeigt
     * `backwards`: Das Element springt nach Beenden der Animation zum Anfangszustand zurück
     * `both`:Das Element übernimmt sowohl die Regeln die am Anfang der Animation definiert wurden, als auch die am Ende
 
 
-- `animation-play-state` legt fest, ob Animation läuft oder pauserien soll. 
+- `animation-play-state` :legt fest, ob Animation läuft oder pauserien soll. 
     * `running`:
     * `paused`: Animation ist gestoppt
     Die Animation ist gestoppt, kann aber z.B. durch JavaScript aktiviert werden, indem der Wert auf running gesetzt wird.
