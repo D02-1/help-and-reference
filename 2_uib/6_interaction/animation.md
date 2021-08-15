@@ -113,7 +113,10 @@ Zusätzlich zu den Eigenschaften der transition `transition-duration`, `transiti
 :point_right:[animation mit clip-path](https://css-tricks.com/animating-with-clip-path/)\
 :point_right:[css-animation-libraries](https://css-tricks.com/css-animation-libraries/)\
 :point_right:[transition vs animation](https://blog.hubspot.com/website/css-transition-vs-animation)\
+:point_right:[mdn animatable CSS properties](https://blog.hubspot.com/website/css-transition-vs-animation)\
 :point_right:[selfhtml Animationen](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Animation/Animation)
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties
 
 
 **Youtube Videos**
