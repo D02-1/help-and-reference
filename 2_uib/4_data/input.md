@@ -97,7 +97,11 @@ Die Eigenschaft `value` ist nicht unbedingt erforderlich. Wenn beim Senden kein 
 :point_right:[html5-tutorial checkboxen](https://html5-tutorial.net/de/338/formulare/checkboxen/)\
 :point_right:[style forms with css](https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/)\
 :point_right:[formspree (Formulare senden ohne Backend)](https://formspree.io/)\
+:point_right:[mdn Formular Validierung (engl.)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)\
+:point_right:[selfhtml Formular Validierung (deutsch)](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Formulare/browsereigene_Validierung)\
 :point_right:[How to create a nice toggle button](https://habr.com/en/post/490744/)
+
+
 
 
 
