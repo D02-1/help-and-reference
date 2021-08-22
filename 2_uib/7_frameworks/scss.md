@@ -17,7 +17,7 @@ Stylesheets werden immer größer, komplexer und schwieriger zu pflegen. Hier ka
 
 Mit Sass können wir Features verwenden, die in CSS nicht existieren, wie z.b. Variablen, nesting, mixins, imports, Extend/Inheritance und built-in functions.
 
-<img src="scss.jpg" alt="scss-superman" width="60%"> 
+<img src="scss.jpg" alt="scss-superman" width="40%"> 
 
 ### SASS vs SCSS
 
