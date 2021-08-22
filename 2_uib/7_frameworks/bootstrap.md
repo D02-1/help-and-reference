@@ -16,7 +16,7 @@
 
 
  **Youtube Tutorial**
- 
-point_right:[bootstrap 5 crash course (engl.)](https://www.youtube.com/watch?v=1nxSE0R27Gg)
+
+:point_right:[bootstrap 5 crash course (engl.)](https://www.youtube.com/watch?v=1nxSE0R27Gg)
 
 
