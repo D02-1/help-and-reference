@@ -31,7 +31,7 @@ Mit Sass können wir Features verwenden, die in CSS nicht existieren, wie z.b. V
 --- | --- | ---
 
 
-<img src="sass-vs-scss.png" alt="sass-vs-scss" width="50%"> 
+<img src="sass-vs-scss.png" alt="sass-vs-scss" width="80%"> 
 
 
 
