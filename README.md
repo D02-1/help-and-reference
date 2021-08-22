@@ -48,7 +48,7 @@
         * [animation](https://github.com/D02-1/help-and-reference/blob/main/2_uib/6_interaction/animation.md)
     * [frameworks](https://github.com/D02-1/help-and-reference/tree/main/2_uib/7_frameworks)
         * [Bootstrap](https://github.com/D02-1/help-and-reference/blob/main/2_uib/7_frameworks/bootstrap.md)
-        * [SCSS](https://github.com/D02-1/help-and-reference/blob/main/2_uib/7_frameworks/scss.md)
+        * [SASS](https://github.com/D02-1/help-and-reference/blob/main/2_uib/7_frameworks/scss.md)
         
 
 <sub>[⇧ back to top](#contents)</sub>
