@@ -25,7 +25,7 @@
 
 - Die am häufigsten verwendete Syntax ist als „SCSS“ (für „Sassy CSS“) bekannt. SCSS-Dateien verwenden die Dateiendung .scss.
 
-- Die ältere Syntax ist als SASS bekannt. SASS kommt ohne geschweifte Klammern und Semikolons aus. Es werden Einrückungen von Zeilen verwendet, um Blöcke anzugeben. Dateien in der eingerückten Syntax verwenden die Erweiterung .sass.
+- Die ältere Syntax ist als SASS bekannt. SASS kommt ohne geschweifte Klammern und Semikolons aus. Es werden Einrückungen von Zeilen verwendet, um Blöcke anzugeben. Dateien in der eingerückten Syntax verwenden die Dateiendung .sass.
 
  --------------- SASS --------------- | --------------- SCSS --------------- | --------------- CSS ---------------
 --- | --- | ---
