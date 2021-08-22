@@ -28,6 +28,8 @@ der browser füllt unsere box mit image, ohne dabei auf das image selbst zu acht
 
  **Youtube Tutorial**
 
-:point_right:[controlling bg-images (engl.)](https://www.youtube.com/watch?v=3T_Jy1CqH9k)
+:point_right:[controlling bg-images (engl.)](https://www.youtube.com/watch?v=3T_Jy1CqH9k)\
+:point_right:[bg-images for beginners (engl.)](https://www.youtube.com/watch?v=33IinMVJf-M)
+
 
 
