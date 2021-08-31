@@ -13,11 +13,11 @@
 
 ### Warum Sass verwenden?
 
-Stylesheets werden immer größer, komplexer und schwieriger zu pflegen. Hier kann ein css-pre-processor helfen.
+- Stylesheets werden immer größer, komplexer und schwieriger zu pflegen. Hier kann ein css-pre-processor helfen.
 
-Mit Sass können wir Features verwenden, die in CSS nicht existieren, wie z.b. Variablen, nesting, mixins, imports, Extend/Inheritance und built-in functions.
+- Mit Sass können wir Features verwenden, die in CSS nicht existieren, wie z.b. Variablen, nesting, mixins, imports, Extend/Inheritance und built-in functions.
 
-<img src="scss.jpg" alt="scss-superman" width="40%"> 
+<img src="scss.jpg" alt="scss-superman" width="60%"> 
 
 ### SASS vs SCSS
 
@@ -25,7 +25,7 @@ Mit Sass können wir Features verwenden, die in CSS nicht existieren, wie z.b. V
 
 - Die am häufigsten verwendete Syntax ist als „SCSS“ (für „Sassy CSS“) bekannt. SCSS-Dateien verwenden die Dateiendung .scss.
 
-- Die ältere Syntax ist als SASS bekannt. SASS kommt ohne geschweifte Klammern und Semikolons aus. Es werden Einrückungen von Zeilen verwendet, um Blöcke anzugeben. Dateien in der eingerückten Syntax verwenden die Erweiterung .sass.
+- Die ältere Syntax ist als SASS bekannt. SASS kommt ohne geschweifte Klammern und Semikolons aus. Es werden Einrückungen von Zeilen verwendet, um Blöcke anzugeben. Dateien in der eingerückten Syntax verwenden die Dateiendung .sass.
 
  --------------- SASS --------------- | --------------- SCSS --------------- | --------------- CSS ---------------
 --- | --- | ---

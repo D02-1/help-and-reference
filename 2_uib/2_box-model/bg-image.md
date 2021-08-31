@@ -26,4 +26,10 @@ der browser füllt unsere box mit image, ohne dabei auf das image selbst zu acht
 :point_right:[html-img vs css-bg-image](https://buildawesomewebsites.com/html-img-vs-css-background-image/)\
 :point_right:[flexible Hintergründe mit background-size gestalten](https://kulturbanause.de/blog/flexible-css-hintergrunde-mit-background-size-gestalten-responsive-web-design/)
 
+ **Youtube Tutorial**
+
+:point_right:[controlling bg-images (engl.)](https://www.youtube.com/watch?v=3T_Jy1CqH9k)\
+:point_right:[bg-images for beginners (engl.)](https://www.youtube.com/watch?v=33IinMVJf-M)
+
+
 
