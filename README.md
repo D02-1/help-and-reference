@@ -53,7 +53,14 @@
 
 <sub>[⇧ back to top](#contents)</sub>
 
-* Programming Basics
+  * [Programming-Basics](https://github.com/D02-1/help-and-reference/tree/main/3_pb/)
+    + [Lanugage](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language)
+      - [Comments](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/1_comments.md)
+      - [Strings](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/2_strings.md)
+      - [Numbers](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/3_numbers.md)
+      - [Booleans](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/4_booleans.md)
+      - [Variables](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/5_variables.md)
+      - [Primitives](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/6_primitives.md)
+
 * SPA
 * Backend
-
