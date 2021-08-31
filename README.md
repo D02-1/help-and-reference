@@ -55,12 +55,12 @@
 
   * [Programming-Basics](https://github.com/D02-1/help-and-reference/tree/main/3_pb/)
     * [Lanugage](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language)
-      * [Comments](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/comments.md)
-      * [Strings](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/strings.md)
-      * [Numbers](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/numbers.md)
-      * [Booleans](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/booleans.md)
-      * [Variables](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/variables.md)
-      * [Primitives](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language/primitives.md)
+      * [Comments](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/comments.md)
+      * [Strings](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/strings.md)
+      * [Numbers](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/numbers.md)
+      * [Booleans](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/booleans.md)
+      * [Variables](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/variables.md)
+      * [Primitives](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/primitives.md)
 
 * SPA
 * Backend
