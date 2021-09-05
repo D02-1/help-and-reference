@@ -65,7 +65,7 @@ Geschrieben in Single-Quotes:
 - express: 92% des codes
 - React: 90% des codes
 
-
+---
 **mehr Lesematerial**
 
 :point_right:[26-string-methods-in-javascript (engl.)](https://betterprogramming.pub/26-string-methods-in-javascript-6957500cf03f)
