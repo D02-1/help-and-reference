@@ -1,6 +1,6 @@
 # Primitives
 
-<img src="js-data-types.png" alt="selektor" width="45%">
+<img src="js-data-types.png" alt="data-types" width="45%">
 
 **In JavaScript kannst du, abgesehen von Objekten, 6 verschiedene Arten von Werten nutzen, diese sind:**
 
