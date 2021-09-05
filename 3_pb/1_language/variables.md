@@ -10,3 +10,9 @@ Der kurz zusammengefasste Unterschied zwischen den 3 Variablentypen:
 | `var`   | JA                         | JA                         |
 | `let`   | NEIN                       | JA                         |
 | `const` | NEIN                       | NEIN                       |
+
+---
+
+## Gültigkeitsbereich (Scope) von Variablen
+
+<img src="variables.png" alt="variables" width="45%">
