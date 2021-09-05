@@ -1,5 +1,5 @@
 # Comments
-Du kannst auf verschiedenste Weise Kommentare in deinen Code einfügen, das hilft dir bei der Übersichtlichkeit und Strukturierung, aber auch beim Erklären, was in deinem Code alles passiert. Kommentare helfen auch anderen menschen, deinen Code zu lesen.
+Du kannst auf verschiedenste Weise Kommentare in deinen Code einfügen, das hilft dir bei der Übersichtlichkeit und Strukturierung, aber auch beim Erklären, was in deinem Code alles passiert. Kommentare helfen auch anderen Menschen, deinen Code zu lesen.
 
 Es gibt 3 verschiedene Kommentar-arten:
 
