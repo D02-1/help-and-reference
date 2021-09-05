@@ -71,6 +71,8 @@ Bei `„-“`, `„*“` und `„/“` wird die Zeichenkette in eine Zahl konver
 
 Bei `"+“` wird aber die Zahl in eine Zeichenkette konvertiert, da das Pluszeichen in diesem Fall als Operator zum Zusammenfügen von Zeichenketten interpretiert wird. 
 
+---
+
 **mehr Lesematerial**
 
 :point_right:[how to check the type of a variable or object (engl.)](https://www.freecodecamp.org/news/javascript-typeof-how-to-check-the-type-of-a-variable-or-object-in-js/)\
