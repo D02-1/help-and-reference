@@ -10,9 +10,9 @@ Ein Javascript Array ist eine Datenstruktur, die mehrere Werte unter einem gemei
 
 ---
 
-## Zugriff auf ein Arrayelement (mit Index)
+## Zugriff auf ein Element im Array (mit Index)
 
-```
+```javascript
 const fruits = ['Apple', 'Banana'];
 
 const first = fruits[0];
@@ -34,7 +34,7 @@ Javascript Array-Methoden sind vorfertigte Funktionen, die etwas mit dem Array m
 
 `array.slice(from, until)` :heavy_exclamation_mark: das letzte Element wird jedoch inkludiert, schneide ab vor element (until)
 
-```
+```javascript
 let array = [1, 2, 3, "Hello World", 4, 12, true]
 let newArray = array.slice(1,3)
 
@@ -48,7 +48,7 @@ array
 
 `array.splice(index, number of elements)` von welchem index, wieviele Elemente?;
 
-```
+```javascript
 let array = [1, 2, 3, "Hello World", 4, 12, true]
 array.splice(2, 1);
 > [1, 2, "Hello World", 4, 12, true]
