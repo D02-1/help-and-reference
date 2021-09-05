@@ -15,4 +15,4 @@ Der kurz zusammengefasste Unterschied zwischen den 3 Variablentypen:
 
 ## Gültigkeitsbereich (Scope) von Variablen
 
-<img src="variables.png" alt="variables" width="45%">
+<img src="variables.png" alt="variables" width="65%">
