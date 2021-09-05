@@ -6,7 +6,7 @@ Ein Javascript Array ist eine Datenstruktur, die mehrere Werte unter einem gemei
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: 
 ## length vs index
 
-<img src="array-length-vs-index.png" alt="length-vs-index" width="50%">
+<img src="array-length-vs-index.png" alt="length-vs-index" width="60%">
 
 ---
 
@@ -64,7 +64,7 @@ array.splice(2, 1);
 
 **Array explorer - Tool zum finden der richtigen Methode**
 
-:point_right:[array explorer](https://arrayexplorer.netlify.app/)
+:point_right::fire:[array explorer](https://arrayexplorer.netlify.app/)
 
 
 
