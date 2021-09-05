@@ -58,6 +58,7 @@ Bei der Initialisierung von Variablen mit einem Anfangswert nimmt die jeweilige 
 - `parseInt` parst einen String und gibt einen Integer zurück
 - `Boolean()` übergibt man ihr einen der falsy-Werte, erhält man false, sonst true. 
 
+:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: 
 
 JavaScript ist eine dynamisch typisierte Sprache – das bedeutet, dass kein Datentyp bei der Deklaration einer Variablen angegeben wird und der Javascript-Interpreter während der Ausführung des Programms bei Bedarf Datentypen automatisch konvertiert.
 
@@ -65,7 +66,6 @@ JavaScript ist eine dynamisch typisierte Sprache – das bedeutet, dass kein Dat
 let num = "42" + 2 // gibt 422 zurück
 let num = "42" - 2 // gibt 40 zurück
 ```
-:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: 
 
 Bei `„-“`, `„*“` und `„/“` wird die Zeichenkette in eine Zahl konvertiert.
 
