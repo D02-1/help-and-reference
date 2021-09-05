@@ -28,6 +28,7 @@ Javascript Array-Methoden sind vorfertigte Funktionen, die etwas mit dem Array m
 
 <img src="array-cheatsheet.jpg" alt="array-cheatsheet" width="90%">
 
+---
 ## slice vs splice
 
 ### `slice()` kopiert einen Teil des Arrays und returns den kopierten Teil als ein neues Array. Das Orginal Array wird nicht verändert.
