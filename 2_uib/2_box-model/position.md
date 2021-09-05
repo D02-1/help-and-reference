@@ -49,4 +49,4 @@ wenn Elemente sich überlappen, hilft der z-index dabei zu bestimmen, in welcher
 
 **Game to learn positioning**
 
-:point_right:[Learn CSS Positioning by Building an Ice Cream Sundae ](https://www.codeanalogies.com/csssundae/)
+:point_right:[learn CSS positioning by Building an Ice Cream Sundae ](https://www.codeanalogies.com/csssundae/)
