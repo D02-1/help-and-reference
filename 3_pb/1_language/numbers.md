@@ -57,3 +57,10 @@ Oft muss dein Code aber anders rechnen, Wenn in bestimmten  Fällen andere Werte
 // Ergebnis: 1
 (1 + 8) / (4 + 5);
 ```
+
+---
+**mehr Lesematerial**
+
+:point_right:[10-javascript-methods-of-the-math-object (engl.)](https://javascript.plainenglish.io/top-10-javascript-methods-of-the-math-object-ac69951386a5)\
+:point_right:[how-to-do-math-in-javascript-with-operators (engl.)](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-javascript-with-operators)
+
