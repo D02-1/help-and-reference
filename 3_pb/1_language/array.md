@@ -62,6 +62,11 @@ array.splice(2, 1);
 :point_right:[confusion-around-the-slice-splice-split-methods-in-javascript (engl.)](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)\
 :point_right:[w3schools javascript array methods](https://www.w3schools.com/js/js_array_methods.asp)\
 
+**Array explorer - Tool zum finden der richtigen Methode**
+:point_right:[array explorer](https://arrayexplorer.netlify.app/)\
+
+
+
 
 
 
