@@ -31,7 +31,7 @@ let b;
 
 ## typeof Operator
 
-Mit dem Operator typeof können Sie den Variablentyp eines Ausdrucks ermitteln. 
+Mit dem Operator typeof können wir den Variablentyp eines Ausdrucks ermitteln. 
 
 ```
 typeof "John"                 // Returns string
