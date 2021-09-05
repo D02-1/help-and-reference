@@ -1,5 +1,5 @@
 # Comments
-Du kannst auf verschiedenste weise Kommentare in deinen Code einfügen, das hilft dir bei der übersichtlichkeit und strukturierung, aber auch beim erklären, was in deinem code alles passiert. Kommentare helfen auch anderen menschen, deinen code zu lesen.
+Du kannst auf verschiedenste Weise Kommentare in deinen Code einfügen, das hilft dir bei der Übersichtlichkeit und Strukturierung, aber auch beim Erklären, was in deinem Code alles passiert. Kommentare helfen auch anderen menschen, deinen Code zu lesen.
 
 Es gibt 3 verschiedene Kommentar-arten:
 
@@ -19,7 +19,7 @@ Es gibt 3 verschiedene Kommentar-arten:
     */
 ```
 
-Eine weitere, speziellere Kommentar-art ist das sogenannte JSDoc layout. Hiermit können wir in mehreren zeilen verschiedenste informationen einfügen, die wir dann mit der software jsdoc in einer HTML datei ausgeben können.
+Eine weitere, speziellere Kommentar-art ist das sogenannte JSDoc layout. Hiermit können wir in mehreren Zeilen verschiedenste Informationen einfügen, die wir dann mit der Software jsdoc in einer HTML Datei ausgeben können.
 
 JSDoc könnt ihr [hier](https://jsdoc.app/) herunterladen.
 
@@ -33,7 +33,7 @@ JSDoc könnt ihr [hier](https://jsdoc.app/) herunterladen.
      */
 ```
 
-Probiert gerne ein paar JSDoc parameter aus, zum beispiel:
+Probiert gerne ein paar JSDoc Parameter aus, zum Beispiel:
 - @see - Hiermit könnt ihr einen link einfügen
 - @description - Eine beschreibung des kommentars
 - @example - hier könnt ihr beispiele zur nutzung eures codes einfügen.
