@@ -26,7 +26,7 @@ const last = fruits[fruits.length - 1];
 
 Javascript Array-Methoden sind vorfertigte Funktionen, die etwas mit dem Array machen
 
-<img src="array-cheatsheet.jpg" alt="array-cheatsheet" width="90%">
+<img src="array-cheatsheet.jpg" alt="array-cheatsheet" width="100%">
 
 ---
 ## slice vs splice
