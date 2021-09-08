@@ -6,7 +6,7 @@ Ein Javascript Array ist eine Datenstruktur, die mehrere Werte unter einem gemei
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: 
 ## length vs index
 
-<img src="array-length-vs-index.png" alt="length-vs-index" width="50%">
+<img src="array-length-vs-index.png" alt="length-vs-index" width="60%">
 
 ---
 
@@ -26,7 +26,7 @@ const last = fruits[fruits.length - 1];
 
 Javascript Array-Methoden sind vorfertigte Funktionen, die etwas mit dem Array machen
 
-<img src="array-cheatsheet.jpg" alt="array-cheatsheet" width="90%">
+<img src="array-cheatsheet.jpg" alt="array-cheatsheet" width="100%">
 
 ---
 ## slice vs splice
@@ -60,7 +60,13 @@ array.splice(2, 1);
 **mehr Lesematerial**
 
 :point_right:[confusion-around-the-slice-splice-split-methods-in-javascript (engl.)](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)\
-:point_right:[w3schools javascript array methods](https://www.w3schools.com/js/js_array_methods.asp)\
+:point_right:[w3schools javascript array methods](https://www.w3schools.com/js/js_array_methods.asp)
+
+**Array explorer - Tool zum finden der richtigen Methode**
+
+:point_right::fire:[array explorer](https://arrayexplorer.netlify.app/)
+
+
 
 
 
