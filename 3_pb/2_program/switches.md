@@ -32,7 +32,7 @@ switch (testValue) {
 
 :point_right:[w3schools switch](https://www.w3schools.com/js/js_switch.asp)\
 :point_right:[javascript.info switch](https://javascript.info/switch)\
-:point_right:[switch vs if else](https://www.geeksforgeeks.org/switch-vs-else/)
+:point_right:[switch vs if else wann benutze ich was?](https://www.geeksforgeeks.org/switch-vs-else/)
 
 
 
