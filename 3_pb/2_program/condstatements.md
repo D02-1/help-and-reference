@@ -7,7 +7,7 @@ Es gibt gibt 3 verschiedene Arten von Conditional Statements in Javascript:
 - `else if`: Wenn auf eine weitere Kondition getestet wird, und die erste Kondition false ist, wird dieser block ausgeführt.
 - `else`: Wenn die oben angegebene Kondition `false` ergibt wird der Code innerhalb des "else-Blocks" ausgeführt.
 
-<img src="if_else_syntax.png" alt="align-items" width="40%">
+<img src="if_else_syntax.png" alt="align-items" width="60%">
 
 Beispiel:
 
