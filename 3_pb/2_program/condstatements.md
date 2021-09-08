@@ -54,6 +54,7 @@ Um mehrere Werte zu vergleichen, kann man einen Operator mit in seine if-clause 
 - `||` Der oder Operator
 - `&&` Der und Operator
 
+---
 
 **mehr Lesematerial**
 
