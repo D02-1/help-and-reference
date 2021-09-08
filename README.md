@@ -64,6 +64,9 @@
       * [Booleans](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/booleans.md)
       * [Primitives](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/primitives.md)
       * [Arrays](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/array.md)
+    * [Program](https://github.com/D02-1/help-and-reference/tree/main/3_pb/2_program)
+      * [Conditional Statements](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/condstatements.md)
+      * [Switches](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/switches.md)
 
 * SPA
 * Backend
