@@ -1,7 +1,7 @@
 # Switches
 Ein Switch kann mehrere blocks mit Code ausführen, und kann außerdem, wenn keine Kondition eintrifft, auf einen default code-block springen.
 
-<img src="switch.jpg" alt="align-items" width="40%">
+<img src="switch.jpg" alt="align-items" width="60%">
 
 ## Wozu dient break;?
 
