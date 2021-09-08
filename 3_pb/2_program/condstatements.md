@@ -57,5 +57,5 @@ Um mehrere Werte zu vergleichen, kann man einen Operator mit in seine if-clause 
 
 **mehr Lesematerial**
 
-:point_right:[confusion-around-the-slice-splice-split-methods-in-javascript (engl.)](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)\
-:point_right:[w3schools javascript array methods](https://www.w3schools.com/js/js_array_methods.asp)
+:point_right:[javascript.info if / else](https://javascript.info/ifelse)\
+:point_right:[javascript.info logical-operators](https://javascript.info/logical-operators)
