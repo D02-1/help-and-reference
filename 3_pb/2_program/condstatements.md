@@ -7,6 +7,8 @@ Es gibt gibt 3 verschiedene Arten von Conditional Statements in Javascript:
 - `else if`: Wenn auf eine weitere Kondition getestet wird, und die erste Kondition false ist, wird dieser block ausgeführt.
 - `else`: Wenn die oben angegebene Kondition `false` ergibt wird der Code innerhalb des "else-Blocks" ausgeführt.
 
+<img src="if_else_syntax.png" alt="align-items" width="40%">
+
 Beispiel:
 
 ```js
@@ -51,3 +53,9 @@ else
 Um mehrere Werte zu vergleichen, kann man einen Operator mit in seine if-clause einfügen.
 - `||` Der oder Operator
 - `&&` Der und Operator
+
+
+**mehr Lesematerial**
+
+:point_right:[confusion-around-the-slice-splice-split-methods-in-javascript (engl.)](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)\
+:point_right:[w3schools javascript array methods](https://www.w3schools.com/js/js_array_methods.asp)
