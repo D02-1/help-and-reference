@@ -59,4 +59,7 @@ Um mehrere Werte zu vergleichen, kann man einen Operator mit in seine if-clause 
 **mehr Lesematerial**
 
 :point_right:[javascript.info if / else](https://javascript.info/ifelse)\
+:point_right:[if -- else if // if-- else if -- else](https://www.javascript.com/learn/conditionals)\
 :point_right:[javascript.info logical-operators](https://javascript.info/logical-operators)
+
+
