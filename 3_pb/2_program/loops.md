@@ -6,7 +6,7 @@ Eine Schleife (auch „Wiederholung“ oder englisch loop) ist eine Kontrollstru
 
 Der Schleifenkopf einer for-Schleife enthält eine Zählvariable, eine Fortführungsbedingung sowie eine Anweisung zur Änderung der Zählvariable. 
 
-<img src="for-loop1.jpg" alt="for-loop1" width="65%">
+<img src="for-loop1.jpg" alt="for-loop1" width="85%">
 
 <img src="for-loop2.webp" alt="for-loop2" width="20%">
 
