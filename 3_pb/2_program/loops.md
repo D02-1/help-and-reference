@@ -8,7 +8,7 @@ Der Schleifenkopf einer for-Schleife enthält eine Zählvariable, eine Fortführ
 
 <img src="for-loop1.jpg" alt="for-loop1" width="70%">
 
-<img src="for-loop2.webp" alt="for-loop2" width="20%">
+<img src="for-loop2.webp" alt="for-loop2" width="15%">
 
 ---
 
