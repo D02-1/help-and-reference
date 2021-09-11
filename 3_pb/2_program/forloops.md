@@ -14,7 +14,7 @@ Der Schleifenkopf einer for-Schleife enthält eine Zählvariable, eine Fortführ
 
 ## break und continue
 
-Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`
+**Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`.**
 
 - Mit `break` können wir eine Schleife sofort beenden, unabhängig von der Abbruchbedingung im Schleifenkopf.  
 
@@ -29,7 +29,7 @@ for (let i = 1; i < 10; i++) {
 console.log(i); // 3
 ```
 
-- Mit `continue` können wir die aktuelle Iteration beenden
+- Mit `continue` können wir die aktuelle Iteration beenden.
 
 <img src="continue.png" alt="continue" width="45%">
 
