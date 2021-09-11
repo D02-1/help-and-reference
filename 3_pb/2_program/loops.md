@@ -6,9 +6,9 @@ Eine Schleife (auch „Wiederholung“ oder englisch loop) ist eine Kontrollstru
 
 Der Schleifenkopf einer for-Schleife enthält eine Zählvariable, eine Fortführungsbedingung sowie eine Anweisung zur Änderung der Zählvariable. 
 
-<img src="for-loop1.jpg" alt="for-loop1" width="65%">
+<img src="for-loop1.jpg" alt="for-loop1" width="85%">
 
-<img src="for-loop2.webp" alt="for-loop2" width="25%">
+<img src="for-loop2.webp" alt="for-loop2" width="20%">
 
 ---
 
@@ -18,7 +18,7 @@ Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`
 
 - Mit `break` können wir eine Schleife sofort beenden, unabhängig von der Abbruchbedingung im Schleifenkopf.  
 
-<img src="break.png" alt="break" width="35%">
+<img src="break.png" alt="break" width="55%">
 
 ```javascript
 for (let i = 1; i < 10; i++) {
@@ -31,7 +31,7 @@ console.log(i); // 3
 
 - Mit `continue` können wir die aktuelle Iteration beenden
 
-<img src="continue.png" alt="continue" width="35%">
+<img src="continue.png" alt="continue" width="45%">
 
 ```javascript
 let s = 'This is a JavaScript continue statement demo.';
@@ -46,9 +46,7 @@ for (let i = 0; i < s.length; i++) {
 console.log('The number of s found in the string is ' + counter);
 ```
 
-
-
-
+---
 
 **mehr Lesematerial**
 
