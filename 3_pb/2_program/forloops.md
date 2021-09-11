@@ -29,7 +29,7 @@ for (let i = 1; i < 10; i++) {
 console.log(i); // 3
 ```
 
-- Mit `continue` können wir die aktuelle Iteration beenden
+- Mit `continue` können wir die aktuelle Iteration beenden.
 
 <img src="continue.png" alt="continue" width="45%">
 
