@@ -18,7 +18,7 @@ Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`
 
 - Mit `break` können wir eine Schleife sofort beenden, unabhängig von der Abbruchbedingung im Schleifenkopf.  
 
-<img src="break.png" alt="break" width="45%">
+<img src="break.png" alt="break" width="55%">
 
 ```javascript
 for (let i = 1; i < 10; i++) {
