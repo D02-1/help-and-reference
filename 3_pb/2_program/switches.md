@@ -1,7 +1,7 @@
 # Switches
 Ein Switch kann mehrere blocks mit Code ausführen, und kann außerdem, wenn keine Kondition eintrifft, auf einen default code-block springen.
 
-<img src="switch.jpg" alt="align-items" width="40%">
+<img src="switch.jpg" alt="align-items" width="60%">
 
 ## Wozu dient break;?
 
@@ -27,12 +27,13 @@ switch (testValue) {
 }
 // ergibt: "No Value Found";
 ```
+---
 
 **mehr Lesematerial**
 
 :point_right:[w3schools switch](https://www.w3schools.com/js/js_switch.asp)\
 :point_right:[javascript.info switch](https://javascript.info/switch)\
-:point_right:[switch vs if else](https://www.geeksforgeeks.org/switch-vs-else/)
+:point_right:[switch vs if else - wann benutze ich was?](https://www.geeksforgeeks.org/switch-vs-else/)
 
 
 
