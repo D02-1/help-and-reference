@@ -46,9 +46,7 @@ for (let i = 0; i < s.length; i++) {
 console.log('The number of s found in the string is ' + counter);
 ```
 
-
-
-
+---
 
 **mehr Lesematerial**
 
