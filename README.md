@@ -57,16 +57,17 @@
 
   * [Programming-Basics](https://github.com/D02-1/help-and-reference/tree/main/3_pb/)
     * [Lanugage](https://github.com/D02-1/help-and-reference/tree/main/3_pb/1_language)
-      * [Comments](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/comments.md)
-      * [Variables](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/variables.md)
-      * [Strings](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/strings.md)
-      * [Numbers](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/numbers.md)
-      * [Booleans](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/booleans.md)
-      * [Primitives](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/primitives.md)
-      * [Arrays](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/array.md)
+      * [comments](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/comments.md)
+      * [variables](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/variables.md)
+      * [strings](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/strings.md)
+      * [numbers](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/numbers.md)
+      * [booleans](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/booleans.md)
+      * [primitives](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/primitives.md)
+      * [arrays](https://github.com/D02-1/help-and-reference/blob/main/3_pb/1_language/array.md)
     * [Program](https://github.com/D02-1/help-and-reference/tree/main/3_pb/2_program)
-      * [Conditional Statements](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/condstatements.md)
-      * [Switches](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/switches.md)
+      * [conditional statements](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/condstatements.md)
+      * [switches](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/switches.md)
+      * [loops](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/for-loops.md)
 
 * SPA
 * Backend
