@@ -14,7 +14,7 @@ Der Schleifenkopf einer for-Schleife enthält eine Zählvariable, eine Fortführ
 
 ## break und continue
 
-Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`
+**Bei der Kontrolle innerhalb von Schleifen helfen uns `break` und `continue`.**
 
 - Mit `break` können wir eine Schleife sofort beenden, unabhängig von der Abbruchbedingung im Schleifenkopf.  
 
