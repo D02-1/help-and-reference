@@ -67,7 +67,7 @@
     * [Program](https://github.com/D02-1/help-and-reference/tree/main/3_pb/2_program)
       * [conditional statements](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/condstatements.md)
       * [switches](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/switches.md)
-      * [loops](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/loops.md)
+      * [for-loops](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/forloops.md)
 
 * SPA
 * Backend
