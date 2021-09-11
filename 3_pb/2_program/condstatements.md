@@ -56,10 +56,25 @@ Um mehrere Werte zu vergleichen, kann man einen Operator mit in seine if-clause 
 
 ---
 
+## Ternary-Operator
+
+Der Ternary-Operator ist die bedingte Zuweisung eines Werts an eine Variable. 
+Wir verwenden diesen als kürzere Schreibweise einer einfachen if-else Bedingung. 
+
+```javascript
+const myVariable = condition? true : false
+```
+
+---
+
 **mehr Lesematerial**
 
 :point_right:[javascript.info if / else](https://javascript.info/ifelse)\
 :point_right:[if -- else if // if-- else if -- else](https://www.javascript.com/learn/conditionals)\
-:point_right:[javascript.info logical-operators](https://javascript.info/logical-operators)
+:point_right:[javascript.info logical-operators](https://javascript.info/logical-operators)\
+:point_right:[ternary-operator freecodecamp](https://www.freecodecamp.org/news/ternary-operator-javascript-if-statement-tutorial/)
+
+
+
 
 
