@@ -16,3 +16,8 @@ Der kurz zusammengefasste Unterschied zwischen den 3 Variablentypen:
 ## Gültigkeitsbereich (Scope) von Variablen
 
 <img src="variables.png" alt="variables" width="65%">
+
+---
+**mehr Lesematerial**
+
+:point_right:[javascript-variables-best-practices (engl.)](https://dmitripavlutin.com/javascript-variables-best-practices/)
