@@ -68,7 +68,7 @@ wenn der Code ausgeführt wird, bekommen wir folgenden Error
 "TypeError: add is not a function"
 ```
 ---
-<div id="#contents"></div>
+<div id="contents"></div>
 
 ## Hoisting 
 
