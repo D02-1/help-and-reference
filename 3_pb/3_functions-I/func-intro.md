@@ -71,7 +71,7 @@ wenn der Code ausgeführt wird, bekommen wir folgenden Error
 
 ## Hoisting
 
-<img src="hoisting.png" alt="hoisting" width="50%">
+<img src="hoisting.png" alt="hoisting" width="70%">
 
 Wenn der JS-Engine unser Skript erhält, richtet er als erstes Speicher für die Daten in unserem Code ein. Zu diesem Zeitpunkt wird kein Code ausgeführt, es wird einfach alles für die Ausführung vorbereitet. 
 
