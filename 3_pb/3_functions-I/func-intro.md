@@ -12,7 +12,7 @@ Funktionen geben immer einen Wert zurück. Wenn wir keinen return Wert angegeben
 
 ---
 
-## **verschiedene Funktionsschreibweisen und <sub>[Hoisting](#contents)</sub>**
+## **verschiedene Funktionsschreibweisen und Hoisting <sub>[go to Hoisting here](#contents)</sub>**
 
 - ## als  function declaration
 
