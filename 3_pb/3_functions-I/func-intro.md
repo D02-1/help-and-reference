@@ -12,7 +12,7 @@ Funktionen geben immer einen Wert zurück. Wenn wir keinen return Wert angegeben
 
 ---
 
-## **Wir können Funktionen auf verschiedene Arten schreiben**
+## **verschiedene Funktionsschreibweisen und <sub>[Hoisting](#contents)</sub>**
 
 - ## als  function declaration
 
@@ -68,8 +68,8 @@ wenn der Code ausgeführt wird, bekommen wir folgenden Error
 "TypeError: add is not a function"
 ```
 ---
-
-## Hoisting
+<div id="#contents"></div>
+## Hoisting 
 
 <img src="hoisting.png" alt="hoisting" width="70%">
 
