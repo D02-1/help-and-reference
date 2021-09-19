@@ -69,6 +69,7 @@ wenn der Code ausgeführt wird, bekommen wir folgenden Error
 ```
 ---
 <div id="#contents"></div>
+
 ## Hoisting 
 
 <img src="hoisting.png" alt="hoisting" width="70%">
