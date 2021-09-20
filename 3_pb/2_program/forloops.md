@@ -52,7 +52,10 @@ console.log('The number of s found in the string is ' + counter);
 
 :point_right:[freecodecamp loops](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)\
 :point_right:[javascripttutorial break](https://www.javascripttutorial.net/javascript-break/)\
-:point_right:[javascripttutorial continue](https://www.javascripttutorial.net/javascript-continue/)
+:point_right:[javascripttutorial continue](https://www.javascripttutorial.net/javascript-continue/)\
+:point_right:[When-do-I-use-a-for-loop-and-when-do-I-use-a-while-loop](https://support.khanacademy.org/hc/en-us/articles/203327020-When-do-I-use-a-for-loop-and-when-do-I-use-a-while-loop-in-the-JavaScript-challenges-)
+
+
 
 
 
