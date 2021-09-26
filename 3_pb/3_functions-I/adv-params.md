@@ -3,7 +3,7 @@
 
 Wir können beim Aufrufen einer Funktion weniger oder mehr Argumente übergeben, als wie wir Parameter definiert haben. 
 
-- wenn wir weniger Argumente übergeben, sind die restlichen Parameter undefined
+- wenn wir weniger Argumente übergeben, sind die restlichen Parameter `undefined`
 - wenn wir mehr Argumente übergeben, werden zusätzliche Argumente ignoriert.
 
 ```javascript
