@@ -1,4 +1,4 @@
-# arguments object 
+# advanced parameters
 
 
 Wir können beim Aufrufen einer Funktion weniger oder mehr Argumente übergeben, als wie wir Parameter definiert haben. 
@@ -16,6 +16,7 @@ ShowMessage("Bill"); // output: Hello Bill undefined
 ShowMessage(); // output: Hello undefined undefined
 ```
 ---
+## arguments object 
 
 Das arguments-object ist ein Array-ähnliches Objekt, das auf die übergebenen Parameter einer Funktion verweist.
 Es ist eine lokal verfügbare Variable, welche wir aber nur in allen (Nicht-Pfeil-) Funktionen :exclamation:nutzen können. Das Objekt enthält einen Eintrag für jeden übergebenen Parameter der Funktion. 
@@ -63,7 +64,7 @@ function testFunktion(paramA, paramB, paramC) {
   
   testFunktion('Test1', 'Test2', 3);
 ```
-# rest-parameter vs arguments object
+## rest-parameter vs arguments object
 
 - in Pfeil Funktionen können wir nur mit dem rest-paramter arbeiten:exclamation:
 - das Arguments-object enthält alle an die Funktion übergebenen Argumente, während der rest-parameter nur diejenigen sind, die keinen anderen Namen erhalten.
@@ -94,7 +95,7 @@ xyz("hey", "hello", "wassup", "goodmorning", "hi", "howdy")
 ```
 
 ---
-# default parameter
+## default parameter
 
 Wenn eine Funktion in JavaScript mit fehlenden Argumenten (weniger als deklariert) aufgerufen wird, werden die fehlenden Werte auf `undefined` gesetzt. 
 Mit default parametern können wir die benannten Paramter der Funktion mit Standartwerten (default Werten) initialisieren. Diese werden genutzt, wenn keine Werte oder undefined an die Funktion übergeben werden. Es kann uns helfen, Fehler im code zu vermeiden.
