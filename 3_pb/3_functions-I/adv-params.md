@@ -120,7 +120,7 @@ Der Standardwert wird nur aktiviert, wenn kein Wert oder undefined übergeben wi
 :point_right:[medium -parameters-and-arguments-in-javascript](https://medium.com/swlh/parameters-and-arguments-in-javascript-2260bcbc8d4f)\
 :point_right:[javascript-rest-parameters](https://www.javascripttutorial.net/es6/javascript-rest-parameters/)\
 :point_right:[setting-default-parameters](https://www.samanthaming.com/tidbits/11-setting-default-parameters/)\
-:point_right:[digitalocean understanding-default-parameters-in-javascript](https://www.digitalocean.com/community/tutorials/understanding-default-parameters-in-javascript)\
+:point_right:[digitalocean understanding-default-parameters-in-javascript](https://www.digitalocean.com/community/tutorials/understanding-default-parameters-in-javascript)
 
 
 
