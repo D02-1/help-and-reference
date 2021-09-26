@@ -12,7 +12,11 @@ Funktionen geben immer einen Wert zurück. Wenn wir keinen return Wert angegeben
 
 ---
 
+<<<<<<< HEAD
 ## **verschiedene Funktionsschreibweisen und Hoisting**
+=======
+## **verschiedene Funktionsschreibweisen und Hoisting <sub>[:point_right: Hoisting](#contents)</sub>**
+>>>>>>> dd2945839dd058b449649cf67b0c30682c527ab7
 
 - ## als  function declaration
 
@@ -68,10 +72,11 @@ wenn der Code ausgeführt wird, bekommen wir folgenden Error
 "TypeError: add is not a function"
 ```
 ---
+<div id="contents"></div>
 
-## Hoisting
+## Hoisting 
 
-<img src="hoisting.png" alt="hoisting" width="50%">
+<img src="hoisting.png" alt="hoisting" width="70%">
 
 Wenn der JS-Engine unser Skript erhält, richtet er als erstes Speicher für die Daten in unserem Code ein. Zu diesem Zeitpunkt wird kein Code ausgeführt, es wird einfach alles für die Ausführung vorbereitet. 
 
