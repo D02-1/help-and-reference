@@ -66,10 +66,10 @@ function testFunktion(paramA, paramB, paramC) {
 ```
 ## rest-parameter vs arguments object
 
-- in Pfeil Funktionen können wir nur mit dem rest-paramter arbeiten:exclamation:
+- in Pfeil Funktionen können wir nur mit dem rest-paramter arbeiten:exclamation:(sie haben kein arguments object)
 - das Arguments-object enthält alle an die Funktion übergebenen Argumente, während der rest-parameter nur diejenigen sind, die keinen anderen Namen erhalten.
 - der rest-paramter muss immer am Ende stehen:exclamation:
-- rest parameter werden als ein Array representiert, auf dem wir Array Methoden anwenden können :exclamation:
+- rest parameter werden als ein Array representiert, auf dem wir auch Array Methoden anwenden können :exclamation:
 
 ```javascript
 function sumOfNumbers(name , ...numbers){
