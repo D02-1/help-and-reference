@@ -116,6 +116,7 @@ Der Standardwert wird nur aktiviert, wenn kein Wert oder undefined übergeben wi
 
 :point_right:[the-arguments-object-in-javascript](https://dev.to/shahab570/the-arguments-object-in-javascript-1a37)\
 :point_right:[What-is-the-difference-between-rest-parameters-and-the-arguments-object-in-Javascript](https://www.tutorialspoint.com/What-is-the-difference-between-rest-parameters-and-the-arguments-object-in-Javascript)\
+:point_right:[convert arguments object to a "real array"](https://stackguides.com/questions/960866/how-can-i-convert-the-arguments-object-to-an-array-in-javascript)\
 :point_right:[medium -parameters-and-arguments-in-javascript](https://medium.com/swlh/parameters-and-arguments-in-javascript-2260bcbc8d4f)\
 :point_right:[javascript-rest-parameters](https://www.javascripttutorial.net/es6/javascript-rest-parameters/)\
 :point_right:[setting-default-parameters](https://www.samanthaming.com/tidbits/11-setting-default-parameters/)\
