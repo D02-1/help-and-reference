@@ -12,11 +12,7 @@ Funktionen geben immer einen Wert zurück. Wenn wir keinen return Wert angegeben
 
 ---
 
-<<<<<<< HEAD
-## **verschiedene Funktionsschreibweisen und Hoisting**
-=======
 ## **verschiedene Funktionsschreibweisen und Hoisting <sub>[:point_right: Hoisting](#contents)</sub>**
->>>>>>> dd2945839dd058b449649cf67b0c30682c527ab7
 
 - ## als  function declaration
 
