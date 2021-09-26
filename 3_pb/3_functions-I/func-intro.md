@@ -12,7 +12,7 @@ Funktionen geben immer einen Wert zurück. Wenn wir keinen return Wert angegeben
 
 ---
 
-## **Wir können Funktionen auf verschiedene Arten schreiben**
+## **verschiedene Funktionsschreibweisen und Hoisting**
 
 - ## als  function declaration
 
@@ -50,7 +50,7 @@ let name = (parameters) => {
 }
 ```
 Ein Funktionsausdruck (engl. function expression) definiert eine benannte oder anonyme Funktion. Eine anonyme Funktion ist eine Funktion ohne Namen. Funktionsausdrücke werden nicht "hochgehoben" (engl. hoisted) und können daher nicht verwendet werden, bevor sie definiert wurden.
-Es wird nur die Variable "hochgehoben" (hoisted). Die Funktion wird der Variable erst zugewiesen, wenn die betreffende Codezeile ausgeführt wird.
+Es wird nur die Variable "hochgehoben" (hoisted). Die Funktion wird der Variable erst zugewiesen, erfolgt erst, wenn die betreffende Codezeile ausgeführt wird.
 
 ```javascript
 let x = 20,

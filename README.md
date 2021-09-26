@@ -70,6 +70,7 @@
       * [for-loops](https://github.com/D02-1/help-and-reference/blob/main/3_pb/2_program/forloops.md)
     * [Functions-I](https://github.com/D02-1/help-and-reference/tree/main/3_pb/3_functions-I)
       * [functions](https://github.com/D02-1/help-and-reference/blob/main/3_pb/3_functions-I/func-intro.md)
+      * [advanced parameters](https://github.com/D02-1/help-and-reference/blob/main/3_pb/3_functions-I/adv-params.md)
 
 * SPA
 * Backend
