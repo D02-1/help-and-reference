@@ -43,4 +43,4 @@ Probiert gerne ein paar JSDoc Parameter aus, zum Beispiel:
 
 **Youtube Videos**
 
-:point_right:[Steve Griffith - Enhance your Coding with JSDoc](https://www.youtube.com/watch?v=3RIaH0NnG64)\
+:point_right:[Steve Griffith - Enhance your Coding with JSDoc](https://www.youtube.com/watch?v=3RIaH0NnG64)
