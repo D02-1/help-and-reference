@@ -43,9 +43,9 @@ Probiert gerne ein paar JSDoc Parameter aus, zum Beispiel:
 
 **mehr Lesematerial**
 
-:point_right:[JSDoc Dokumentation](https://jsdoc.app/index.html)
+:point_right:[JSDoc documentation](https://jsdoc.app/index.html)
 
-https://jsdoc.app/index.html
+
 
 **Youtube Videos**
 
