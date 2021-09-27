@@ -37,3 +37,10 @@ Probiert gerne ein paar JSDoc Parameter aus, zum Beispiel:
 - @see - Hiermit könnt ihr einen link einfügen
 - @description - Eine beschreibung des kommentars
 - @example - hier könnt ihr beispiele zur nutzung eures codes einfügen.
+
+
+---
+
+**Youtube Videos**
+
+:point_right:[Steve Griffith - Enhance your Coding with JSDoc](https://www.youtube.com/watch?v=3RIaH0NnG64)\
