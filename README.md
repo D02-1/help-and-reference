@@ -71,6 +71,8 @@
     * [Functions-I](https://github.com/D02-1/help-and-reference/tree/main/3_pb/3_functions-I)
       * [functions](https://github.com/D02-1/help-and-reference/blob/main/3_pb/3_functions-I/func-intro.md)
       * [advanced parameters](https://github.com/D02-1/help-and-reference/blob/main/3_pb/3_functions-I/adv-params.md)
+    * [Data-Structure](https://github.com/D02-1/help-and-reference/tree/main/3_pb/4_data-structure)
+      * [objects](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/objects.md)
 
 * SPA
 * Backend
