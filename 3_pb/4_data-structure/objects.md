@@ -25,7 +25,7 @@ objekt[variable]//mit Quotes würde JS nach einer Eigenschaft im Objekt suchen, 
 delete object.property;
 ```
 
-## in Methoden nutzen wir das this keyword um auf Eigenschaften innerhalb des Objektes zuzugreifen
+## in Methoden nutzen wir das `this` keyword um auf Eigenschaften innerhalb des Objektes zuzugreifen
 
 ```javascript
 method(){
@@ -66,6 +66,8 @@ console.log('hello' in object);//true
 :point_right:[object-property-shorthand-es6](https://alligator.io/js/object-property-shorthand-es6/)\
 :point_right:[javascript.info/object-copy](https://javascript.info/object-copy)\
 :point_right:[how-to-use-object-methods-in-javascript](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript)
+
+
 
 
 
