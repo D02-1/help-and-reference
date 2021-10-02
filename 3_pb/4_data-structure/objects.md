@@ -16,7 +16,7 @@ object["hello"]; //Array-like notation
 
 ```javascript
 const variable = "some value"
-objekt[variable]//ohne Quotes würde JS nach einer Eigenschaft im Objekt suchen, welche variable heißt
+objekt[variable]//mit Quotes würde JS nach einer Eigenschaft im Objekt suchen, welche variable heißt
 ```
 
 ## delete operator - um Eigenschaften eines Objektes zu löschen
