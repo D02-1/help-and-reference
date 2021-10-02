@@ -73,6 +73,10 @@
       * [advanced parameters](https://github.com/D02-1/help-and-reference/blob/main/3_pb/3_functions-I/adv-params.md)
     * [Data-Structure](https://github.com/D02-1/help-and-reference/tree/main/3_pb/4_data-structure)
       * [objects](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/objects.md)
+      * [objects - value vs reference](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/value-vs-reference.md)
 
 * SPA
 * Backend
+
+
+value-vs-reference
