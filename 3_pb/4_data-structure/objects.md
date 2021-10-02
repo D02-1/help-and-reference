@@ -25,7 +25,7 @@ objekt[variable]//mit Quotes würde JS nach einer Eigenschaft im Objekt suchen, 
 delete object.property;
 ```
 
-## innerhalb von Methoden nutzen wir das this keyword um auf Eigenschaften innerhalb des Objektes zuzugreifen
+## in Methoden nutzen wir das this keyword um auf Eigenschaften innerhalb des Objektes zuzugreifen
 
 ```javascript
 method(){
