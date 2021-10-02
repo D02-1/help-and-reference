@@ -74,6 +74,13 @@
     * [Data-Structure](https://github.com/D02-1/help-and-reference/tree/main/3_pb/4_data-structure)
       * [objects](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/objects.md)
       * [objects - value vs reference](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/value-vs-reference.md)
+      * [destructuring](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/destructuring.md)
+
+
+
+
+<sub>[⇧ back to top PB](#contents)</sub>
+
 
 * SPA
 * Backend
