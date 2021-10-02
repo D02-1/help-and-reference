@@ -1,4 +1,4 @@
-# Functions
+# functions
 
 Funktionen sind die wichtigsten „Bausteine“ des Programms. In einer Programmiersprache ohne Funktionen müssten Anweisungen zigfach wiederholt werden. 
 
