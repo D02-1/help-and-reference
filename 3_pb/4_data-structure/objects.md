@@ -3,7 +3,7 @@
 Objekte sind Behälter für logisch zusammen gehörende Variablen und Funktionen, die als Eigenschaften und Methoden des Objekts bezeichnet werden. Ein Javascript Object organisiert Daten, kapselt Daten und Logik nach außen ab und bietet eine einfache Schnittstelle zu seinen Elementen über seinen Namen. 
 
 
-<img src="obj.png" alt="obj" width="40%">
+<img src="obj.png" alt="obj" width="50%">
 
 ## auf Objekteigenschaften zugreifen
 
@@ -43,7 +43,7 @@ for (const key in object) {
 
 ## prüfen ob Objekt eine bestimmte Eigenschaft hat
 
-<img src="obj-hasaprop.png" alt="hasprop" width="40%">
+<img src="obj-hasaprop.png" alt="hasprop" width="50%">
 
 ```javascript
 console.log('name' in object);//false
