@@ -37,3 +37,16 @@ Probiert gerne ein paar JSDoc Parameter aus, zum Beispiel:
 - @see - Hiermit könnt ihr einen link einfügen
 - @description - Eine beschreibung des kommentars
 - @example - hier könnt ihr beispiele zur nutzung eures codes einfügen.
+
+
+---
+
+**mehr Lesematerial**
+
+:point_right:[JSDoc documentation](https://jsdoc.app/index.html)
+
+
+
+**Youtube Videos**
+
+:point_right:[Steve Griffith - Enhance your Coding with JSDoc](https://www.youtube.com/watch?v=3RIaH0NnG64)
