@@ -74,6 +74,12 @@ console.log('hello' in object);//true
 :point_right:[javascript.info/object-copy](https://javascript.info/object-copy)\
 :point_right:[how-to-use-object-methods-in-javascript](https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript)
 
+**Object explorer - Tool zum finden der richtigen Methode**
+
+:point_right::fire:[object explorer](https://objectexplorer.netlify.app/)
+
+
+
 
 
 
