@@ -1,12 +1,12 @@
 # value vs reference
 
-<img src="value-vs-reference.png" alt="value-vs-reference" width="60%">
+<img src="value-vs-reference.png" alt="value-vs-reference" width="80%">
 
 Beim Programmieren gibt es zwei Möglichkeiten, Dinge zu übergeben oder zu kopieren. Das eine ist nach Wert und das andere nach Referenz.
 
-<img src="value.png" alt="value" width="40%">
+<img src="value.png" alt="value" width="50%">
 
-<img src="reference.png" alt="reference" width="40%">
+<img src="reference.png" alt="reference" width="50%">
 
 :exclamation::exclamation::exclamation:
 
@@ -16,7 +16,7 @@ Alle Objekte werden als Verweis auf ihren Wert übergeben. Diese Referenz verwei
 
 ## shallow clone objects
 
-<img src="shallow-clone.png" alt="shallow-clone" width="50%">
+<img src="shallow-clone.png" alt="shallow-clone" width="60%">
 
 Beispiel: `Object.assign()`
 
@@ -55,9 +55,9 @@ Um dieses Problem zu lösen, muss ein deep clone anstelle eines shallow clones d
 **mehr Lesematerial**
 
 
-:point_right:[object references and copying](https://javascript.info/object-copy#:~:text=One%20of%20the%20fundamental%20differences,%E2%80%9Cas%20a%20whole%20value%E2%80%9D.)
-:exclamation:[javascripttutorial.net/javascript-pass-by-value](https://www.javascripttutorial.net/javascript-pass-by-value/)
-:exclamation:[methods-for-deep-cloning-objects-in-javascript](https://blog.logrocket.com/methods-for-deep-cloning-objects-in-javascript/)\
+:point_right:[object references and copying](https://javascript.info/object-copy#:~:text=One%20of%20the%20fundamental%20differences,%E2%80%9Cas%20a%20whole%20value%E2%80%9D.)\
+:exclamation:[javascripttutorial.net/javascript-pass-by-value](https://www.javascripttutorial.net/javascript-pass-by-value/)\
+:exclamation:[methods-for-deep-cloning-objects-in-javascript](https://blog.logrocket.com/methods-for-deep-cloning-objects-in-javascript/)
 
 
 
@@ -69,4 +69,4 @@ Um dieses Problem zu lösen, muss ein deep clone anstelle eines shallow clones d
 
 **Youtube Videos**
 
-:point_right:[Reference Vs Value In JavaScript](https://www.youtube.com/watch?v=-hBJz2PPIVE)\
+:point_right:[Reference Vs Value In JavaScript](https://www.youtube.com/watch?v=-hBJz2PPIVE)
