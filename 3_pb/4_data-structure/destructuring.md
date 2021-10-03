@@ -69,7 +69,7 @@ const name;
 
 console.log(name); // => 'Batman
 ```
-
+---
 
 <img src="destructuring-example.png" alt="destructuring-example" width="60%">
 
@@ -81,7 +81,7 @@ console.log(name); // => 'Batman
 
 :point_right:[es6-in-depth-destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)\
 :point_right:[jeffdevslife es6-destructuring-array-and-object](es6-destructuring-array-and-object/)\
-:point_right:[javascript-object-destructuring-spread-operator-rest-parameter](https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/)
+:point_right::fire:[javascript-object-destructuring-spread-operator-rest-parameter](https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/)
 
 
 
