@@ -58,6 +58,7 @@ Um dieses Problem zu lösen, muss ein deep clone anstelle eines shallow clones d
 
 :point_right:[object references and copying](https://javascript.info/object-copy#:~:text=One%20of%20the%20fundamental%20differences,%E2%80%9Cas%20a%20whole%20value%E2%80%9D.)\
 :exclamation:[javascripttutorial.net/javascript-pass-by-value](https://www.javascripttutorial.net/javascript-pass-by-value/)\
+:point_right:[javascript-deep-cloning-and-value-vs-reference](https://medium.com/irrelevant-code/javascript-deep-cloning-and-value-vs-reference-5bf09bf980d6)\
 :exclamation:[methods-for-deep-cloning-objects-in-javascript](https://blog.logrocket.com/methods-for-deep-cloning-objects-in-javascript/)
 
 
