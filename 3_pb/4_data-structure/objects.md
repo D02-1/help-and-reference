@@ -5,26 +5,28 @@ Objekte sind Behälter für logisch zusammen gehörende Variablen und Funktionen
 
 <img src="obj.png" alt="obj" width="50%">
 
+---
+
 ## auf Objekteigenschaften zugreifen
 
 ```javascript
 object.hello; //dot notation
 object["hello"]; //Array-like notation
 ```
-
+---
 ## Variablen als Eigenschaften hinzufügen
 
 ```javascript
 const variable = "some value"
 objekt[variable]//mit Quotes würde JS nach einer Eigenschaft im Objekt suchen, welche variable heißt
 ```
-
+---
 ## delete operator - um Eigenschaften eines Objektes zu löschen
 
 ```javascript
 delete object.property;
 ```
-
+---
 ## in Methoden nutzen wir das `this` keyword um auf Eigenschaften innerhalb des Objektes zuzugreifen
 
 ```javascript
@@ -32,7 +34,7 @@ method(){
     return `${this.key}`
 }
 ```
-
+---
 ## mit for...in können wir über die Eigenschaften eines Objektes iterieren
 
 ```javascript
@@ -40,7 +42,7 @@ for (const key in object) {
     console.log(key, object[key]);//hello, world
 }
 ```
-
+---
 ## prüfen ob Objekt eine bestimmte Eigenschaft hat
 
 <img src="obj-hasaprop.png" alt="hasprop" width="50%">
@@ -49,11 +51,16 @@ for (const key in object) {
 console.log('name' in object);//false
 console.log('hello' in object);//true
 ```
+---
+## Object.freeze vs Object.seal
+
+<img src="sealed-vs-freeze.png" alt="sealed-vs-freeze" width="50%">
+
+---
 
 ## Objekt in Array umwandeln, um Array Methoden zu nutzen
 
 <img src="obj-to-arr.png" alt="objToArr" width="60%">
-
 
 
 ---
