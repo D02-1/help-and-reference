@@ -54,13 +54,13 @@ console.log('hello' in object);//true
 ---
 ## Object.freeze vs Object.seal
 
-<img src="sealed-vs-freeze.png" alt="sealed-vs-freeze" width="50%">
+<img src="sealed-vs-freeze.png" alt="sealed-vs-freeze" width="60%">
 
 ---
 
 ## Objekt in Array umwandeln, um Array Methoden zu nutzen
 
-<img src="obj-to-arr.png" alt="objToArr" width="60%">
+<img src="obj-to-arr.png" alt="objToArr" width="70%">
 
 
 ---
