@@ -31,12 +31,12 @@ const [first, second, third] = someArray;
 ## ohne Destrukturierung
 
 ```javascript
-var hero = {
+const hero = {
   name: 'Batman',
   realName: 'Bruce Wayne'
 };
-var name     = hero.name;
-var realName = hero.realName;
+const name     = hero.name;
+const realName = hero.realName;
 name;     // => 'Batman',
 realName; // => 'Bruce Wayne'
 ```
