@@ -48,6 +48,7 @@ Bei einem shallow clone können wir den ersten Layer des Objektes verändern, oh
 
 
 Um dieses Problem zu lösen, muss ein deep clone anstelle eines shallow clones durchgeführt werden.
+
 :point_right:[methods-for-deep-cloning-objects-in-javascript](https://blog.logrocket.com/methods-for-deep-cloning-objects-in-javascript/)
 
 ---
