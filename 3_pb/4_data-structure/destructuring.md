@@ -54,7 +54,24 @@ realName; // => 'Bruce Wayne'
 ```
 ---
 
-<img src="object-destructuring.png" alt="obj-destructuring" width="70%">
+Die keywords let oder const sind in der Syntax der Objektdestrukturierung von Bedeutung:exclamation:
+Wenn wir die Variable im Voraus deklarieren und dann versuchen, den Schlüssel desselben Namens aus dem Objekt zu destrukturieren, bekommen wir einen Fehler. 
+Die korrekte Syntax hierfür, ist den Destrukturierungsausdruck in Klammern ((...)) zu setzen.
+
+```javascript
+const hero = { 
+    name: 'Batman',
+}
+
+const name;
+{ name  } = hero; // Uncaught SyntaxError: Unexpected token '='
+({ name  } = hero);
+
+console.log(name); // => 'Batman
+```
+
+
+<img src="destructuring-example.png" alt="destructuring-example" width="60%">
 
 
 ---
@@ -63,4 +80,9 @@ realName; // => 'Bruce Wayne'
 
 
 :point_right:[es6-in-depth-destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)\
+:point_right:[jeffdevslife es6-destructuring-array-and-object](es6-destructuring-array-and-object/)\
+:point_right:[javascript-object-destructuring-spread-operator-rest-parameter](https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/)
+
+
+
 
