@@ -76,6 +76,11 @@
       * [objects](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/objects.md)
       * [objects - value vs reference](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/value-vs-reference.md)
       * [destructuring](https://github.com/D02-1/help-and-reference/blob/main/3_pb/4_data-structure/destructuring.md)
+    * [Functions II](https://github.com/D02-1/help-and-reference/tree/main/3_pb/5_functionsTwo)
+      * [callbacks](https://github.com/D02-1/help-and-reference/blob/main/3_pb/5_functionsTwo/callbacks.md)
+      * [closure](https://github.com/D02-1/help-and-reference/blob/main/3_pb/5_functionsTwo/closure.md)
+    * [Classes](https://github.com/D02-1/help-and-reference/tree/main/3_pb/6_classes)
+      * [classes](https://github.com/D02-1/help-and-reference/blob/main/3_pb/6_classes/classes.md)
 
 
 
