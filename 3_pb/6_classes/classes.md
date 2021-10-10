@@ -58,7 +58,7 @@ class Cheesecake extends Cake {
 
 ## getters und setters
 
-`getters` - um auf Eigenschaften eines Objektes zuzugreifen - 
+`getters` - um auf Eigenschaften eines Objektes zuzugreifen\
 `setters` - um Eigenschaften eines Objektes zu ändern bzw. zu verwandeln
 
 Mit den Schlüsselwörtern `get`(read only/ function ohne Argumente) und `set` (function mit einem Argument) erstellen wir Methoden.
