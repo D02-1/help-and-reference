@@ -1,7 +1,6 @@
 # classes
 
 Wenn wir mehrere Objekte erstellen wollen, können uns Klassen dabei helfen, das wir unseren Code nicht ständig wiederholen müssen.
-
 Mit Klassen können wir einen Bauplan anlegen, welche Eigenschaften und Methoden unser Objekt haben soll.
 
 
@@ -57,8 +56,48 @@ class Cheesecake extends Cake {
 
 ## getters und setters
 
+`getters` - um auf Eigenschaften eines Objektes zuzugreifen - 
+`setters` - um Eigenschaften eines Objektes zu ändern bzw. zu verwandeln
+
+Mit den Schlüsselwörtern `get`(read only/ function ohne Argumente) und `set` (function mit einem Argument) erstellen wir Methoden.
+Mit getters und setters können wir Logic ausführen. So können wir Inputs bspw. erst auf Richtigkeit Kontrollieren bzw Daten zur Rausgabe aufbereiten.
+Sie sind im Wesentlichen Funktionen, die beim Abrufen und Setzen eines Werts ausgeführt werden, aber für einen externen Code wie normale Eigenschaften aussehen.
+
+```javascript
+let user = {
+  name: "John",
+  surname: "Smith",
+
+  get fullName() {
+    return `${this.name} ${this.surname}`;
+  }
+};
+
+alert(user.fullName); // John Smith
+```
+---
 ## static methods
 
+Statische Methoden werden von allen Instanzen einer Klasse gemeinsam genutzt. Somit sind sie der Klasse zugeordnet, nicht einer bestimmten Instanz dieser Klasse. Die statischen Methoden werden über den Klassennamen aufgerufen, nicht über die Instanzen der Klasse. 
+
+```javascript
+class Person {
+	constructor(name) {
+		this.name = name;
+	}
+	getName() {
+		return this.name;
+	}
+	static createAnonymous(gender) {
+		let name = gender == "male" ? "John Doe" : "Jane Doe";
+		return new Person(name);
+	}
+}
+
+let anonymous = Person.createAnonymous("male");
+console.log(anonymous);
+//Person { name: 'John Doe' }
+```
 ---
 
 :exclamation:Anders als die meisten Deklaration in Javascript werden Klasse nicht nach oben gehoben (hoisted) und müssen darum vor der ersten Benutzung deklariert werden.
@@ -67,22 +106,15 @@ class Cheesecake extends Cake {
 ---
 **mehr Lesematerial**
 
-new keyword to create the object via the constructor (calls the constructor
-)
-getters and setters control who people can access my property
-
 :point_right:[javascripttutorial - class](https://www.javascripttutorial.net/es6/javascript-class/)\
-
-he constructor() is where you can initialize the properties of an instance. JavaScript automatically calls the constructor() method when you instantiate an object of the class.
-
-static 
-called by class prototype
-
 
 **Youtube Videos**
 
-:point_right:[Web Dev Simplified - What are Classes, Objects, and Constructors?](https://www.youtube.com/watch?v=5AWRivBk0Gw)
-:point_right:[Steve Griffith - JavaScript Classes in 2021](https://www.youtube.com/watch?v=tqBP5ZX8F0c)
+:point_right:[Web Dev Simplified - What are Classes, Objects, and Constructors?](https://www.youtube.com/watch?v=5AWRivBk0Gw)\
+:point_right:[Steve Griffith - Intro to JavaScript Classes](https://www.youtube.com/watch?v=_D6ilsRB9tw)\
+:point_right:[JavaScript Getters and Setters | Mosh](https://www.youtube.com/watch?v=bl98dm7vJt0&t=314s)\
+
+
 
 
 
