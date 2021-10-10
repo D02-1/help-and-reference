@@ -36,6 +36,7 @@ Wenn wir unserer Klasse noch weitere Eigenschaften hinzufügen würden, würden 
 ## Extends
 
 Eine weitere Klasse, die um Eigenschaften und Methoden erweitert werden soll, kennzeichnet diese mit dem Schlüsselwort extends. Das stellt sicher, dass die neue Klasse dieselben Eigenschaften wie ihr Prototyp hat und dazu ihre individuellen Eigenschaften und Methoden.
+`super` verweist dabei auf den Kontext von der übergeordneten Klasse.
 
 ```javascript
 class Cheesecake extends Cake {
@@ -52,8 +53,6 @@ class Cheesecake extends Cake {
 }
 //Dieser Käsekuchen wird als Tarte kaltgestellt und schmeckt gut mit Himbeeren.
 ```
-`super` verweist dabei auf den Kontext von der übergeordneten Klasse.
-
 ---
 
 ## getters und setters
