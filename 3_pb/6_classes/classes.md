@@ -80,7 +80,7 @@ alert(user.fullName); // John Smith
 
 ## private properties
 
-`private fields` werden mit # gekennzeichnet und sind Variablen innerhalb einer Klasse. Das heißt, sie sind für Objektreferenzen nicht sichtbar oder zugänglich. Sie sind ausschließlich innerhalb der Klasse zugänglich.
+`private fields` werden mit `#` gekennzeichnet und sind Variablen innerhalb einer Klasse. Das heißt, sie sind für Objektreferenzen nicht sichtbar oder zugänglich. Sie sind ausschließlich innerhalb der Klasse zugänglich.
 
 ```javascript
 class Employee {
