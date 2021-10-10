@@ -21,7 +21,7 @@ class Cake {
 ## Erstellen einer Instanz
 
 mit dem Keyword `new` können wir eine `Instanz` aus unserem `Prototyp` (Bauplan) erzeugen
-Es wird die `constructor`Methode aufgerufen und dieser werden die Werte übergeben für das neue Objekt übergeben
+Es wird die `constructor`Methode aufgerufen und dieser werden die Werte für das neue Objekt übergeben
 
 ```javascript
 const schoko = new Cake ("Schoko", "gebacken", "Kastenform", 4);
