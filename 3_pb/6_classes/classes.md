@@ -13,7 +13,8 @@ class Cake {
       this.eggs = eggs;
    }
    cakeRecipe() {
-      return `Dieser Kuchen ist wird mit ${this.flavor} und ${this.eggs} Eiern zubereitet, ${this.method} und als ${this.form} serviert.`;
+      return `Dieser Kuchen ist wird mit ${this.flavor} und ${this.eggs} Eiern zubereitet, 
+      ${this.method} und als ${this.form} serviert.`;
    }
 }
 ```
@@ -45,7 +46,8 @@ class Cheesecake extends Cake {
    }
 	
    cakeGarnish () {
-      return console.log (`Dieser ${this.type} wird als ${this.form} ${this.method} und schmeckt gut mit ${this.cover}`);
+      return console.log (`Dieser ${this.type} wird als ${this.form} ${this.method} 
+      und schmeckt gut mit ${this.cover}`);
    }
 }
 //Dieser Käsekuchen wird als Tarte kaltgestellt und schmeckt gut mit Himbeeren.
