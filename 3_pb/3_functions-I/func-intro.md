@@ -2,6 +2,8 @@
 
 Funktionen sind die wichtigsten „Bausteine“ des Programms. In einer Programmiersprache ohne Funktionen müssten Anweisungen zigfach wiederholt werden. 
 
+In JavaScript Funktionen sind Objekte erster Klasse, das bedeutet, dass wir wie andere Objekte eine Funktion als Argument an eine andere Funktion übergeben können, einer Variablen eine Funktion zuweisen können und auch eine Funktion von einer andere Funktion zurückgegeben werden kann.
+
 <img src="function.png" alt="function" width="50%">
 
 Funktionen verfügen über Parameter, darunter versteht man eine Liste von Variablennamen, die während der Ausführung wie lokale Variablen zur Verfügung stehen und deren Werte – Argumente genannt – vom Aufrufer bereitgestellt werden. 
