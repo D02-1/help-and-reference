@@ -108,13 +108,13 @@ console.log(anonymous);
 ---
 **mehr Lesematerial**
 
-:point_right:[javascripttutorial - class](https://www.javascripttutorial.net/es6/javascript-class/)\
+:point_right:[javascripttutorial - class](https://www.javascripttutorial.net/es6/javascript-class/)
 
 **Youtube Videos**
 
 :point_right:[Web Dev Simplified - What are Classes, Objects, and Constructors?](https://www.youtube.com/watch?v=5AWRivBk0Gw)\
 :point_right:[Steve Griffith - Intro to JavaScript Classes](https://www.youtube.com/watch?v=_D6ilsRB9tw)\
-:point_right:[JavaScript Getters and Setters | Mosh](https://www.youtube.com/watch?v=bl98dm7vJt0&t=314s)\
+:point_right:[JavaScript Getters and Setters | Mosh](https://www.youtube.com/watch?v=bl98dm7vJt0&t=314s)
 
 
 
