@@ -102,7 +102,7 @@ console.log(anonymous);
 ```
 ---
 
-:exclamation:Anders als die meisten Deklaration in Javascript werden Klasse nicht nach oben gehoben (hoisted) und müssen darum vor der ersten Benutzung deklariert werden.
+:exclamation::exclamation::exclamation:Anders als die meisten Deklaration in Javascript werden Klasse nicht nach oben gehoben (hoisted) und müssen darum vor der ersten Benutzung deklariert werden.
 
 
 ---
