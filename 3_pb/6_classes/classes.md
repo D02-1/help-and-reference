@@ -1,7 +1,7 @@
 # classes
 
 Wenn wir mehrere Objekte erstellen wollen, können uns Klassen dabei helfen, das wir unseren Code nicht ständig wiederholen müssen.
-Mit Klassen können wir einen Bauplan anlegen, welche Eigenschaften und Methoden unser Objekt haben soll.
+Mit der Hilfe von Klassen können wir einfach einen Bauplan anlegen, welche Eigenschaften und Methoden unser Objekt haben soll.
 
 
 ```javascript
