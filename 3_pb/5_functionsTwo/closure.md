@@ -46,4 +46,4 @@ closure hat drei scope-chains:
 
 **Youtube Videos**
 
-:point_right:[Javascript Closure Tutorial | Closures Explained](https://www.youtube.com/watch?v=1S8SBDhA7HA)\
+:point_right:[Javascript Closure Tutorial | Closures Explained](https://www.youtube.com/watch?v=1S8SBDhA7HA)
