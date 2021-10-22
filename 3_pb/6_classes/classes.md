@@ -1,7 +1,7 @@
 # classes
 
 Wenn wir mehrere Objekte erstellen wollen, können uns Klassen dabei helfen, das wir unseren Code nicht ständig wiederholen müssen.
-Mit Klassen können wir einen Bauplan anlegen, welche Eigenschaften und Methoden unser Objekt haben soll.
+Mit der Hilfe von Klassen können wir einfach einen Bauplan anlegen, welche Eigenschaften und Methoden unser Objekt haben soll.
 
 
 ```javascript
@@ -80,7 +80,7 @@ alert(user.fullName); // John Smith
 
 ## private properties
 
-`private fields` werden mit # gekennzeichnet und sind Variablen innerhalb einer Klasse. Das heißt, sie sind für Objektreferenzen nicht sichtbar oder zugänglich. Sie sind ausschließlich innerhalb der Klasse zugänglich.
+`private fields` werden mit `#` gekennzeichnet und sind Variablen innerhalb einer Klasse. Das heißt, sie sind für Objektreferenzen nicht sichtbar oder zugänglich. Sie sind ausschließlich innerhalb der Klasse zugänglich.
 
 ```javascript
 class Employee {
