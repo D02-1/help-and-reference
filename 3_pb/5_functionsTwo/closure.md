@@ -2,7 +2,7 @@
 
 Die Variablen innerhalb der Funktionen entstehen nur, wenn die Funktion ausgeführt wird, und hören auf zu existieren, sobald die Ausführung der Funktion abgeschlossen ist. Die Lebensdauer einer Variablen, die innerhalb einer Funktion definiert ist, ist die Lebensdauer der Funktionsausführung.
 
-**Aber was ist closure?**
+## **Aber was ist closure?**
 
 
 ```javascript
