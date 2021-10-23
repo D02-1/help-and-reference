@@ -1,10 +1,8 @@
 # closure
 
-Die Variablen innerhalb der Funktionen entstehen nur, wenn die Funktion ausgeführt wird, und hören auf zu existieren, sobald die Ausführung der Funktion abgeschlossen ist.
+Die Variablen innerhalb der Funktionen entstehen nur, wenn die Funktion ausgeführt wird, und hören auf zu existieren, sobald die Ausführung der Funktion abgeschlossen ist. Die Lebensdauer einer Variablen, die innerhalb einer Funktion definiert ist, ist die Lebensdauer der Funktionsausführung.
 
-Die Lebensdauer einer Variablen, die innerhalb einer Funktion definiert ist, ist die Lebensdauer der Funktionsausführung.
-
-**Aber was ist closure?**
+## **Aber was ist closure?**
 
 
 ```javascript
@@ -48,4 +46,4 @@ closure hat drei scope-chains:
 
 **Youtube Videos**
 
-:point_right:[Javascript Closure Tutorial | Closures Explained](https://www.youtube.com/watch?v=1S8SBDhA7HA)\
+:point_right:[Javascript Closure Tutorial | Closures Explained](https://www.youtube.com/watch?v=1S8SBDhA7HA)
