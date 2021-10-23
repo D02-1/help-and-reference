@@ -66,6 +66,12 @@ array.splice(2, 1);
 
 :point_right::fire:[array explorer](https://arrayexplorer.netlify.app/)
 
+**Youtube Videos**
+
+:point_right:[Array Functions: map() and fill() - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=EnYlhbpzhU4&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=7)\
+
+
+
 
 
 
