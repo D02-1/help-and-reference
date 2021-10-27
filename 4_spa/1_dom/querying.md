@@ -35,6 +35,6 @@ gibt uns eine statische `NodeList` von Elementen zurück, die dem CSS-Selektor e
 **mehr Lesematerial**
 
 :point_right::fire:[mediaevent - NodeList / HTML-Collection](https://www.mediaevent.de/javascript/DOM-Nodes.html)\
-:point_right::fire:[javascripttutorial - selecting Elements](https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/)
+:point_right:[javascripttutorial - selecting Elements](https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/)
 
 
