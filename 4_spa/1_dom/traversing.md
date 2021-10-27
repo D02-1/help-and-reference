@@ -16,7 +16,7 @@ Es gibt Eigenschaften, mit denen wir alle Nodes (Textknoten und Elementknoten) b
 
 ---
 
-## Kinder
+## Kinder 
 
 **als Knoten (mit Text, Kommentaren etc.)**
 
@@ -28,7 +28,7 @@ Es gibt Eigenschaften, mit denen wir alle Nodes (Textknoten und Elementknoten) b
 
 ---
 
-## Vorfahren nach bestimmten Suchkriterien (id, class, etc….) finden 
+## Vorfahren nach bestimmten Suchkriterien (id, class, etc….) 
 
 `const vorgänger = start.closest('CSS Selektor')`
 
@@ -46,7 +46,7 @@ Es gibt Eigenschaften, mit denen wir alle Nodes (Textknoten und Elementknoten) b
 
 ---
 
-## Geschwister
+## Geschwister 
 
 **als Knoten (mit Text, Kommentaren etc.)**
 
