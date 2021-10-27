@@ -20,7 +20,9 @@ gibt uns eine Live-`HTML-Collection` von Elementen mit dem passenden Tag-Namen i
 gibt uns eine Live-`HTML-Collection` von Elementen mit dem angegebenen Klassennamen zurück.
 
 
-<u>Elemente mit einem CSS Selector auswählen</u>
+
+Elemente mit einem CSS Selector auswählen
+
 
 - `const element = document.querySelector('a[target]')`;
 diese Methode akzeptiert ganze CSS Regeln. wir bekommen das erste `<a>` element mit einem `target` `attribute` hat
