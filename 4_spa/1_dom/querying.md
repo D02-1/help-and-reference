@@ -1,4 +1,4 @@
-# DOM - `Document Object Model`
+# DOM - Document Object Model
 
 ist die Repräsentation eines HTML-Dokuments, das an den Browser ausgeliefert wird. Der Browser analysiert das HTML-Dokument und erstellt das Document Object Model. Auf dieses können wir dann mit JavaScript zugreifen.
 
