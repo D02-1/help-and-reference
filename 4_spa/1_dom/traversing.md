@@ -10,7 +10,7 @@ Es gibt Eigenschaften, mit denen wir alle Nodes (Textknoten und Elementknoten) b
 
 
 ---
-## von einem Element aus, das wir bereits gewählt haben
+## vom "start Element" aus
 
 `const start = document.querySelector('xxx')`
 
