@@ -13,10 +13,10 @@ gibt uns das HTML Element, mit der angegebenen ID zurück, (eine ID sollte eigen
 wird keine passende ID im DOM gefunden, erhalten wir `null` zurück
 
 
-- `const elementList = document.getElementsByTagName('tagName')`
+- `const elementList = document.getElementsByTagName('tagName')`\
 gibt uns eine Live-`HTML-Collection` von Elementen mit dem passenden Tag-Namen in der Reihenfolge zurück, in der sie im Dokument erscheinen. 
 
-- `const elementList = document.getElementsByClassName('class')`;
+- `const elementList = document.getElementsByClassName('class')`;\
 gibt uns eine Live-`HTML-Collection` von Elementen mit dem angegebenen Klassennamen zurück.
 
 
@@ -24,11 +24,11 @@ gibt uns eine Live-`HTML-Collection` von Elementen mit dem angegebenen Klassenna
 Elemente mit einem CSS Selector auswählen
 
 
-- `const element = document.querySelector('a[target]')`;
+- `const element = document.querySelector('a[target]')`;\
 diese Methode akzeptiert ganze CSS Regeln. wir bekommen das erste `<a>` element mit einem `target` `attribute` hat
 wenn kein passendes Element gefunden wird, gibt uns die Methode `null` zurück.
 
-- `const elementList = document.querySelectorAll('p.example')`;
+- `const elementList = document.querySelectorAll('p.example')`;\
 gibt uns eine statische `NodeList` von Elementen zurück, die dem CSS-Selektor entsprechen. Wenn kein Element gefunden wird, wird eine leere NodeList zurückgegeben.
 
 ---
