@@ -40,7 +40,7 @@ div.classList.replace('info','warning');
 div.classList.contains('warning'); // true
 ```
 
-**Toggle einer Klasse (umschalten) **\
+**Toggle einer Klasse (umschalten)**
 
 wenn die Klassenliste eines Elements einen angegebenen Klassennamen enthält, wird dieser entfernt.\
 Wenn die Klassenliste den Klassennamen nicht enthält, wird dieser der Klassenliste hinzugefügt.
