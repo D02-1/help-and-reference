@@ -23,24 +23,24 @@ for (let cssClass of div.classList) {
 div.classList.add('info');
 div.classList.add('info','visible','block');
 ```
-**Remove (entfernen) Klassen von der classList eines Elementes**
+**Remove Klassen von der classList eines Elementes (entfernen)**
 
 ```javascript
 div.classList.remove('visible');
 div.classList.remove('block','red');
 ``` 
-**Replace (ersetzen von) eine existierende Klasse durch eine andere Klasse**
+**Replace eine existierende Klasse durch eine andere Klasse (ersetzen von)**
 
 ```javascript
 div.classList.replace('info','warning');
 ```
-**contains (beinhaltet) ein Element eine bestimmte Klasse?**
+**contains ein Element eine bestimmte Klasse? (beinhaltet)**
 
 ```javascript
 div.classList.contains('warning'); // true
 ```
 
-**Toggle (umschalten) einer Klasse**\
+**Toggle einer Klasse (umschalten) **\
 wenn die Klassenliste eines Elements einen angegebenen Klassennamen enthält, wird dieser entfernt.\
 Wenn die Klassenliste den Klassennamen nicht enthält, wird dieser der Klassenliste hinzugefügt.
 ```javascript
