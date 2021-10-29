@@ -50,12 +50,14 @@ Es gibt Eigenschaften, mit denen wir alle Nodes (Textknoten und Elementknoten) b
 
 **als Knoten (mit Text, Kommentaren etc.)**
 
-`const jüngere = start.previousElementSibling`
-`const ältere = start.nextElementSibling`
+`const jüngere = start.previousSibling`
+
+`const ältere = start.nextSibling`
 
 **alle Elemente (nur HTML – Elemente)**
 
 `const jüngere = start.previousElementSibling`
+
 `const ältere = start.nextElementSibling`
 
 ---

@@ -29,12 +29,12 @@ div.classList.add('info','visible','block');
 div.classList.remove('visible');
 div.classList.remove('block','red');
 ``` 
-**Replace (ersetzen) eine existierende Klasse durch eine andere Klasse**
+**Replace (ersetzen von) eine existierende Klasse durch eine andere Klasse**
 
 ```javascript
 div.classList.replace('info','warning');
 ```
-**contains (beinhaltet) ein Element eine bestimmte Klasse besitzt**
+**contains (beinhaltet) ein Element eine bestimmte Klasse?**
 
 ```javascript
 div.classList.contains('warning'); // true
@@ -49,3 +49,12 @@ div.classList.toggle('visible');
 ---
 
 ## creating Elements
+
+
+
+---
+**mehr Lesematerial**
+
+:point_right:[javascripttutorial - innerhtml-vs-createelement](https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml-vs-createelement/)\
+
+
