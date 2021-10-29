@@ -29,12 +29,12 @@ div.classList.add('info','visible','block');
 div.classList.remove('visible');
 div.classList.remove('block','red');
 ``` 
-**Replace eine existierende Klasse durch eine andere Klasse (ersetzen von)**
+**Replace eine existierende Klasse durch eine andere Klasse (ersetzen)**
 
 ```javascript
 div.classList.replace('info','warning');
 ```
-**contains ein Element eine bestimmte Klasse? (beinhaltet)**
+**contains ein Element eine bestimmte Klasse? (beinhaltet?)**
 
 ```javascript
 div.classList.contains('warning'); // true
