@@ -88,13 +88,12 @@
 <sub>[⇧ back to top pb](#pb)</sub>
 
 ---
-
   * [Single-Page-Application](https://github.com/D02-1/help-and-reference/tree/main/4_spa/)
     * [DOM](https://github.com/D02-1/help-and-reference/tree/main/4_spa/1_dom)
       * [querying](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/querying.md)
       * [manipulating](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/manipulating.md)
       * [traversing](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/traversing.md)   
-
+      * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)   
 
 * Backend
 
