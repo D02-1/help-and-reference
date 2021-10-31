@@ -66,7 +66,7 @@ e.appendChild(textnode);
 document.body.appendChild(e)
 ```
 ---
-## innerHTML, innerText und textContent
+- ## innerHTML, innerText und textContent
 
 In Javascript gibt es drei Eigenschaften, die verwendet werden können, um den Inhalt eines HTML-Elements im DOM zu setzen oder zurückzugeben: `innerHTML`, `innerText` und `textContent`.
 
@@ -86,6 +86,7 @@ document.getElementById(“example”).innerHTML = “And <strong> NOW </strong>
 - gibt den Text von Elementen zurück, die mit CSS versteckt sind
 
 Alle `Node-Objekte` haben `textContent`, während **nur** `HTMLElement-Objekte` `innerText` haben.
+
 ---
 **mehr Lesematerial**
 
