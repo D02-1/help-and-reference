@@ -93,7 +93,7 @@ Alle `Node-Objekte` haben `textContent`, während **nur** `HTMLElement-Objekte` 
 :point_right:[javascripttutorial - innerhtml-vs-createelement](https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml-vs-createelement/)\
 :point_right:[javascript.info - document](https://javascript.info/document)\
 :point_right:[javascript.info - insertion methods](https://javascript.info/modifying-document)\
-:point_right:[wiki.selfhtml.org (deutsch) - Was_ist_das_DOM](https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/DOM/Was_ist_das_DOM)
+:point_right:[wiki.selfhtml.org (deutsch) - Was ist das DOM](https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/DOM/Was_ist_das_DOM)
 
 
 
