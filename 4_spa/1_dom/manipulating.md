@@ -1,5 +1,7 @@
 # Manipulating - Changing the DOM tree
 
+---
+
 - ## classList
 
 Die `classList` ist ein `DOMTokenList`-Objekt, welche als Inhalt die Klassenattribute von Elementen darstellt.
