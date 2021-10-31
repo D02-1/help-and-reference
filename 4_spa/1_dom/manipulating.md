@@ -51,11 +51,50 @@ div.classList.toggle('visible');
 
 ## creating Elements
 
+```javascript
+const e = document.createElement('div');//=> erstellt ein div
+e.innerHTML = '<strong>Hi there!</strong> JavaScript DOM';//=> füllt das div mit text
+document.body.appendChild(e);//=> hängt das neue Element im DOM-Tree an
+```
 
+**Alternativ zu innerHTML können wir auch die createTextNode() Methode nutzen**
 
+```javascript
+const e = document.createElement('div')
+const textnode = document.createTextNode('Hi there! JavaScript DOM');
+e.appendChild(textnode); 
+document.body.appendChild(e)
+```
+---
+## innerHTML, innerText und textContent
+
+In Javascript gibt es drei Eigenschaften, die verwendet werden können, um den Inhalt eines HTML-Elements im DOM zu setzen oder zurückzugeben: `innerHTML`, `innerText` und `textContent`.
+
+`innerHTML`
+
+```javascript
+document.getElementById(“example”).innerHTML = “And <strong> NOW </strong> the contents have been changed!”;
+```
+***Da mit innerHTML der Inhalt einer Seite verändert werden kann, können gefährliche `<script>`-Tags und andere JavaScript-Angriffe ausgeführt werden.***
+
+`innerText` 
+- wenn Elemente mit CSS ausgeblendet werden (indem Sie so etwas wie die Eigenschaften "display" oder "visibility" verwenden), kann innerText nicht darauf zugreifen
+- innerText gibt NICHT den Inhalt von `<script>`- oder `<style>`-Elementen zurück
+
+`textContent`
+- gibt den Textinhalt aller Elemente zurück, einschließlich `<script>` und `<style>`
+- gibt den Text von Elementen zurück, die mit CSS versteckt sind
+
+Alle `Node-Objekte` haben `textContent`, während **nur** `HTMLElement-Objekte` `innerText` haben.
 ---
 **mehr Lesematerial**
 
 :point_right:[javascripttutorial - innerhtml-vs-createelement](https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml-vs-createelement/)\
+:point_right:[javascript.info - document](https://javascript.info/document)\
+:point_right:[javascript.info - insertion methods](https://javascript.info/modifying-document)\
+
+
+
+
 
 
