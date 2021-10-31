@@ -1,6 +1,6 @@
 # Manipulating - Changing the DOM tree
 
-## classList
+- ## classList
 
 Die `classList` ist ein `DOMTokenList`-Objekt, welche als Inhalt die Klassenattribute von Elementen darstellt.
 Die enthaltenen Klassen dieser `classList`, können wir mit verschiedenen Methoden bearbeiten.
@@ -49,7 +49,7 @@ div.classList.toggle('visible');
 ```
 ---
 
-## creating Elements
+- ## creating Elements
 
 ```javascript
 const e = document.createElement('div');//=> erstellt ein div
