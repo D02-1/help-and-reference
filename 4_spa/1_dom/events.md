@@ -27,7 +27,7 @@ function handleClick(event){
 
 In dieser Handler-Funktion ist es meistens nötig, auf die näheren Umstände des Ereignisses zu reagieren. Bspw. sind bei einem Mausklick die Koordinaten des Mauszeigers interessant oder bei einem Tastendruck die gedrückte Taste.
 
-All diese Informationen sind im Event-Objekt gespeichert.(dieses wird standardmäßig als erster Parameter an die Handler-Funktion übergeben) Dieses Objekt repräsentiert das individuelle Ereignis, das der Handler gerade verarbeitet. Es bietet zahlreiche Eigenschaften mit Informationen zum Ereignis und einige Methoden, um das Verhalten des Ereignisses zu steuern.
+All diese Informationen sind im Event-Objekt gespeichert. (dieses wird standardmäßig als erster Parameter an die Handler-Funktion übergeben) Dieses Objekt repräsentiert das individuelle Ereignis, das der Handler gerade verarbeitet. Es bietet zahlreiche Eigenschaften mit Informationen zum Ereignis und einige Methoden, um das Verhalten des Ereignisses zu steuern.
 
 ## preventDefault()
 
