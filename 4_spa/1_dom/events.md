@@ -6,7 +6,7 @@
 Mit einem Event Handler können wir genau steuern, was im Programm geschehen soll, wenn ein bestimmtes Ereignis eintritt.
 
 - der erste Parameter ist das event auf welches gehört werden soll
-- der zweite Parameter, ist die Funktion die immer dann ausgeführt, wenn das jeweilige Ereignis beim jeweiligen Element eintritt
+- der zweite Parameter, ist die Funktion die immer dann ausgeführt wird, wenn das jeweilige Ereignis beim jeweiligen Element eintritt
 
 
 ```html
