@@ -14,6 +14,7 @@ Mit einem Event Handler können wir genau steuern, was im Programm geschehen sol
 ```
 
 ```javascript
+const link = document.querySelector('#my-link')
 link.addEventListener('click', handleClick) 
 
 function handleClick(event){
