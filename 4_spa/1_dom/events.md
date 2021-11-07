@@ -46,7 +46,7 @@ link.removeEventListener('click', handleClick)
 ---
 **mehr Lesematerial**
 
-:point_right::fire:[javascripttutorial - javascript-mouse-events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)\
+:point_right:[javascripttutorial - javascript-mouse-events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)\
 :point_right:[MDN - Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)\
 :point_right:[W3schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
