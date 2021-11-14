@@ -74,7 +74,8 @@ event.eventPhase;
     </div>
 </body>
 ```
-Die Ereignisse werden im DOM-Tree weitergegeben Von oben nach durch `event-capturing` und von unten nach oben durch `event-bubbling`.
+Die Ereignisse werden im DOM-Tree weitergegeben Von oben nach durch `event-capturing` \
+und von unten nach oben durch `event-bubbling`.
 
 ---
 ## Event Delegation
@@ -83,7 +84,7 @@ Bei der Event-Delegation (englisch delegation für Übertragung von Aufgaben) wi
 
 Event-Delegation eignet sich insbesondere dann, wenn viele gleichförmige Elemente in Menüs, Link-Listen, Formularen oder Tabellen JavaScript-Interaktivität benötigen. Ohne Event-Delegation müssten wir jedes Element einzeln ansprechen, um dort immer denselben Event-Handler registrieren.
 
-<img src="event-delegation.png" alt="delegation" width="40%">
+<img src="event-delegation.png" alt="delegation" width="60%">
 
 Vorteile Event delegation: 
 - dynamisch
@@ -92,7 +93,7 @@ Vorteile Event delegation:
 
 **mehr Lesematerial**
 
-:point_right::fire:[javascripttutorial - javascript-mouse-events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)\
+:point_right:[javascripttutorial - javascript-mouse-events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)\
 :point_right:[MDN - Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)\
 :point_right:[W3schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)\
 :point_right:[javascript.info - event-delegation](https://javascript.info/event-delegation)\
@@ -101,8 +102,8 @@ Vorteile Event delegation:
 
 **Youtube Videos**
 
-:point_right:[Web Dev Simplified - Event Listeners](https://www.youtube.com/watch?v=XF1_MlZ5l6M&t=74s)
-:point_right:[Wes Bos - JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE)
+:point_right:[Web Dev Simplified - Event Listeners](https://www.youtube.com/watch?v=XF1_MlZ5l6M&t=74s)\
+:point_right:[Wes Bos - JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE)\
 :point_right:[Zac Gordon - Event Propagation Explained (w Bubbling and Capturing)](https://www.youtube.com/watch?v=BtOrr7oTH_8)
 
 
