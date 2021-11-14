@@ -43,16 +43,69 @@ link.removeEventListener('click', handleClick)
 
 
 ---
+
+# Event Flow
+
+Bei einem Klick auf einem Button entsteht das Event nicht etwa auf dem Button, sondern Events entstehen immer auf dem window-Element und reisen dann durch den DOM-Tree nach unten (»Capturing Phase). Auf dem Weg nach unten informieren sie jedes HTML-Element: »Hi, hier ist ein Klick! Hast du auf mich gewartet?«.
+
+Dann reist das Event in der Bubbling-Phase wieder nach oben bis zum ROOT. `event.stopPropagation()` verhindert die Weiterreise des Events. 
+
+```javascript
+event.eventPhase;
+1=Capturing
+2=Target
+3=Bubbling
+```
+
+
+<img src="event-flow.png" alt="event-flow" width="40%">
+<img src="event-phases.png" alt="event-phases" width="40%">
+
+```javascript
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Event Demo</title>
+</head>
+<body>
+    <div id="container">
+        <button id='btn'>Click Me!</button>
+    </div>
+</body>
+```
+Die Ereignisse werden im DOM-Tree weitergegeben Von oben nach durch `event-capturing` und von unten nach oben durch `event-bubbling`.
+
+---
+## Event Delegation
+
+Bei der Event-Delegation (englisch delegation für Übertragung von Aufgaben) wird einem zentralen Element die Aufgabe übertragen, die Ereignisse zu verarbeiten, die bei seinen Nachfahrenelementen auftreten. Dafür nutzen wir die Verschachtelung im DOM-Tree, sowie das event-bubbling. Durch die Abfrage des event.targets im Event Handler können wir das eigentliche target zurückverfolgen.
+
+Event-Delegation eignet sich insbesondere dann, wenn viele gleichförmige Elemente in Menüs, Link-Listen, Formularen oder Tabellen JavaScript-Interaktivität benötigen. Ohne Event-Delegation müssten wir jedes Element einzeln ansprechen, um dort immer denselben Event-Handler registrieren.
+
+<img src="event-delegation.png" alt="delegation" width="40%">
+
+Vorteile Event delegation: 
+- dynamisch
+- braucht weniger Speicherplatz -> bessere performance
+---
+
 **mehr Lesematerial**
 
 :point_right::fire:[javascripttutorial - javascript-mouse-events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)\
 :point_right:[MDN - Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)\
-:point_right:[W3schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+:point_right:[W3schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)\
+:point_right:[javascript.info - event-delegation](https://javascript.info/event-delegation)\
+:point_right:[tutorialrepublic - event-propagation](https://www.tutorialrepublic.com/javascript-tutorial/javascript-event-propagation.php)
 
 
 **Youtube Videos**
 
 :point_right:[Web Dev Simplified - Event Listeners](https://www.youtube.com/watch?v=XF1_MlZ5l6M&t=74s)
+:point_right:[Wes Bos - JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE)
+:point_right:[Zac Gordon - Event Propagation Explained (w Bubbling and Capturing)](https://www.youtube.com/watch?v=BtOrr7oTH_8)
+
+
+
 
 
 
