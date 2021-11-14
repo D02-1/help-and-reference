@@ -6,7 +6,7 @@
 Mit einem Event Handler können wir genau steuern, was im Programm geschehen soll, wenn ein bestimmtes Ereignis eintritt.
 
 - der erste Parameter ist das event auf welches gehört werden soll
-- der zweite Parameter, ist die Funktion die immer dann ausgeführt, wenn das jeweilige Ereignis beim jeweiligen Element eintritt
+- der zweite Parameter, ist die Funktion die immer dann ausgeführt wird, wenn das jeweilige Ereignis beim jeweiligen Element eintritt
 
 
 ```html
@@ -14,6 +14,7 @@ Mit einem Event Handler können wir genau steuern, was im Programm geschehen sol
 ```
 
 ```javascript
+const link = document.querySelector('#my-link')
 link.addEventListener('click', handleClick) 
 
 function handleClick(event){
@@ -26,11 +27,11 @@ function handleClick(event){
 
 In dieser Handler-Funktion ist es meistens nötig, auf die näheren Umstände des Ereignisses zu reagieren. Bspw. sind bei einem Mausklick die Koordinaten des Mauszeigers interessant oder bei einem Tastendruck die gedrückte Taste.
 
-All diese Informationen sind im Event-Objekt gespeichert.(dieses wird standardmäßig als erster Parameter an die Handler-Funktion übergeben) Dieses Objekt repräsentiert das individuelle Ereignis, das der Handler gerade verarbeitet. Es bietet zahlreiche Eigenschaften mit Informationen zum Ereignis und einige Methoden, um das Verhalten des Ereignisses zu steuern.
+All diese Informationen sind im Event-Objekt gespeichert. (dieses wird standardmäßig als erster Parameter an die Handler-Funktion übergeben) Dieses Objekt repräsentiert das individuelle Ereignis, das der Handler gerade verarbeitet. Es bietet zahlreiche Eigenschaften mit Informationen zum Ereignis und einige Methoden, um das Verhalten des Ereignisses zu steuern.
 
 ## preventDefault()
 
-Der Browser behandelt standardmäßig gewisse Ereignisse und führt die sogenannte Standardaktion (englisch default action) aus. Bspw.wenn wir, ein Formular submitten, wird die Seite neu geladen oder wenn wir auf einen Link klicken, werden wir vom Browser zur angegebenen URL weitergeleitet. Mit `preventDefault()`können wir solche Standartereignisse unterbinden.
+Der Browser behandelt standardmäßig gewisse Ereignisse und führt die sogenannte Standardaktion (englisch default action) aus. Bspw. wenn wir ein Formular submitten, wird die Seite neu geladen oder wenn wir auf einen Link klicken, werden wir vom Browser zur angegebenen URL weitergeleitet. Mit `preventDefault()` können wir solche Standardereignisse unterbinden.
 
 ## removeEventListener()
 
