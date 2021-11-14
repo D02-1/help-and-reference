@@ -58,9 +58,8 @@ event.eventPhase;
 3=Bubbling
 ```
 
-
-<img src="event-flow.png" alt="event-flow" width="40%">
 <img src="event-phases.png" alt="event-phases" width="40%">
+<img src="event-flow.png" alt="event-flow" width="40%">
 
 ```javascript
 <!DOCTYPE html>
@@ -80,7 +79,7 @@ und von unten nach oben durch `event-bubbling`.
 ---
 ## Event Delegation
 
-Bei der Event-Delegation (englisch delegation für Übertragung von Aufgaben) wird einem zentralen Element die Aufgabe übertragen, die Ereignisse zu verarbeiten, die bei seinen Nachfahrenelementen auftreten. Dafür nutzen wir die Verschachtelung im DOM-Tree, sowie das event-bubbling. Durch die Abfrage des event.targets im Event Handler können wir das eigentliche target zurückverfolgen.
+Bei der Event-Delegation (englisch delegation für Übertragung von Aufgaben) wird einem zentralen Element die Aufgabe übertragen, die Ereignisse zu verarbeiten, die bei seinen Nachfahrenelementen auftreten. Dafür nutzen wir die Verschachtelung im DOM-Tree, sowie das event-bubbling. Durch die Abfrage des event.targets im Event-Handler können wir das eigentliche target zurückverfolgen.
 
 Event-Delegation eignet sich insbesondere dann, wenn viele gleichförmige Elemente in Menüs, Link-Listen, Formularen oder Tabellen JavaScript-Interaktivität benötigen. Ohne Event-Delegation müssten wir jedes Element einzeln ansprechen, um dort immer denselben Event-Handler registrieren.
 
