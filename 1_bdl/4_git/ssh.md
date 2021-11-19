@@ -14,8 +14,8 @@
 - Enter same passphrase again: 
 
 ---
-2. :woman_technologist: im terminal eingeben => `$ eval "$(ssh-agent -s)"`\
-3. :woman_technologist: im terminal eingeben => `$ ssh-add ~/.ssh/id_ed25519`\
+2. :woman_technologist: im terminal eingeben => `$ eval "$(ssh-agent -s)"`
+3. :woman_technologist: im terminal eingeben => `$ ssh-add ~/.ssh/id_ed25519`
 4. :woman_technologist: im terminal eingeben => `cat ~/.ssh/id_ed25519.pub`
 
 ---
