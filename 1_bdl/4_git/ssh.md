@@ -9,8 +9,8 @@
 ---
 **danach, bei den folgenden prompts, einfach Enter:**
 
-- Enter file in which to save the key (/home/dci/.ssh/id_ed25519):\
-- Enter passphrase (empty for no passphrase):\
+- Enter file in which to save the key (/home/dci/.ssh/id_ed25519):
+- Enter passphrase (empty for no passphrase):
 - Enter same passphrase again: 
 
 ---
