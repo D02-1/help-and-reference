@@ -94,7 +94,9 @@
       * [querying](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/querying.md)
       * [manipulating](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/manipulating.md)
       * [traversing](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/traversing.md)   
-      * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)   
+      * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)  
+  * [Module](https://github.com/D02-1/help-and-reference/tree/main/4_spa/2_module) 
+    * [module](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_module/module.md)
     * [Asynchronous programming](https://github.com/D02-1/help-and-reference/tree/main/4_spa/2_asynchronous)
       * [promises](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_asynchronous/promise.md)
 
