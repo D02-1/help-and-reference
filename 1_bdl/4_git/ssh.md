@@ -21,6 +21,8 @@
 ---
 nun sollte ein ssh key im Terminal ausgegeben werden, kopiere diesen und hinterlege diesen auf deinem GitHub Konto, wie folgt:
 
+Beispiel::point_right: ssh-ed25519 AAAAC4NzaC1lZDI1NTE5AAAAIDUskq6niRTVtwsrWocBxlabsCGE4BKiZY50QY5Gh0HY your_email@example.com
+
 - gehe auf settings 
 - SSH and GPG keys 
 - drücke auf new SSH key 
