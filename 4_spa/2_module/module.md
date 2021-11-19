@@ -110,7 +110,7 @@ export function printAge(user) {
   console.log(`${user.name} is ${user.age} years old`)
 }
 ```
-
+---
 ## Importing
 
 ```javascript
@@ -166,4 +166,4 @@ Das Umbenennen von named exports ist etwas schwieriger, da JavaScript den Namen 
 
 **mehr Lesematerial**
 
-:point_right:[webdevsimplified - es6-modules](https://blog.webdevsimplified.com/2021-11/es6-modules/)\
+:point_right:[webdevsimplified - es6-modules](https://blog.webdevsimplified.com/2021-11/es6-modules/)
