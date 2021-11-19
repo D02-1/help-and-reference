@@ -18,6 +18,7 @@
 3. im terminal eingeben => `$ ssh-add ~/.ssh/id_ed25519`
 4. im terminal eingeben => `cat ~/.ssh/id_ed25519.pub`
 
+---
 nun sollte ein ssh key im Terminal ausgegeben werden, kopiere diesen und hinterlege diesen auf deinem GitHub Konto, wie folgt:\
 
 - gehe auf settings 
