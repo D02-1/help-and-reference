@@ -166,4 +166,7 @@ Das Umbenennen von named exports ist etwas schwieriger, da JavaScript den Namen 
 
 **mehr Lesematerial**
 
-:point_right:[webdevsimplified - es6-modules](https://blog.webdevsimplified.com/2021-11/es6-modules/)
+:point_right:[webdevsimplified - es6-modules](https://blog.webdevsimplified.com/2021-11/es6-modules/)\
+:point_right:[medium - how-to-use-npm-and-import-export-modules-in-javascript](https://javascript.plainenglish.io/how-to-use-npm-and-import-export-modules-in-javascript-31a7f66a2064)
+
+
