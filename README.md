@@ -94,6 +94,9 @@
       * [manipulating](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/manipulating.md)
       * [traversing](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/traversing.md)   
       * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)   
+    * [Asynchronous programming](https://github.com/D02-1/help-and-reference/tree/main/4_spa/2_asynchronous)
+      * [promise](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_asynchronous/promise.md)
 
 * Backend
+
 
