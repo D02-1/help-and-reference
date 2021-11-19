@@ -26,5 +26,5 @@ nun sollte ein ssh key im Terminal ausgegeben werden, kopiere diesen und hinterl
 - drücke auf new SSH key 
 - gebe einen title ein und kopiere den ssh key ins key feld
 
-<img src="ssh-github.png" alt="ssh-github" width="60%"> 
+<img src="ssh-github.png" alt="ssh-github" width="80%"> 
 
