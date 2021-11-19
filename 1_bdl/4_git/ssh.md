@@ -14,8 +14,8 @@
 - Enter same passphrase again: 
 
 ---
-:woman_technologist: 2. im terminal eingeben => `$ eval "$(ssh-agent -s)"`
-:woman_technologist: 3. im terminal eingeben => `$ ssh-add ~/.ssh/id_ed25519`
+:woman_technologist: 2. im terminal eingeben => `$ eval "$(ssh-agent -s)"`\
+:woman_technologist: 3. im terminal eingeben => `$ ssh-add ~/.ssh/id_ed25519`\
 :woman_technologist: 4. im terminal eingeben => `cat ~/.ssh/id_ed25519.pub`
 
 ---
@@ -23,10 +23,10 @@ nun sollte ein ssh key im Terminal ausgegeben werden, kopiere diesen und hinterl
 
 Beispiel::point_right: ssh-ed25519 AAAAC4NzaC1lZDI1NTE5AAAAIDUskq6niRTVtwsrWocBxlabsCGE4BKiZY50QY5Gh0HY your_email@example.com
 
-:diamonds: gehe auf dein GitHub Profil
-:diamonds: gehe auf settings 
-:diamonds: SSH and GPG keys 
-:diamonds: drücke auf new SSH key 
+:diamonds: gehe auf dein GitHub Profil\
+:diamonds: gehe auf settings\
+:diamonds: SSH and GPG keys\
+:diamonds: drücke auf new SSH key\
 :diamonds: gebe einen title ein und kopiere den ssh key ins key feld
 
 <img src="ssh-github.png" alt="ssh-github" width="80%"> 
