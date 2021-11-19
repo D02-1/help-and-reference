@@ -61,7 +61,7 @@ Wir brauchen kein extra script-tag für user.js mehr, da wir den code von user.j
 
 ## Exporting
 
-so:
+so::point_down:
 
 ```javascript
 // user.js
@@ -89,7 +89,7 @@ export printAge
 ```
 am Ende der user.js deklarieren wir unseren export. wir können in einer Datei immer nur einen export default haben, aber mehrere sogenannte named exports. Wir können den export entweder ganz unten in der Datei deklarieren oder setzten das keyword export direkt auf die selbe Zeile, wo die Funktion/ Klasse deklariert wird. (siehe im folgenden Beispiel)
 
-oder so:
+oder so::point_down:
 
 ```javascript
 // user.js
