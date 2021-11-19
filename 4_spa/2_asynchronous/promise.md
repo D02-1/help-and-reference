@@ -30,7 +30,7 @@ Der constructor nimmt zwei Funktionen entgegen, eine für Erfolg und eine für d
 ---
 ## then( ) 
 
-Die Methode then( ) wird aufgerufen, nachdem das Promise aufgelöst wurde.(Das Promise mit entweder einem Erfolg oder Miserfolg zurück gekommen ist) Dann können wir entscheiden, was mit dem gelösten Versprechen zu tun ist.
+Die Methode then( ) wird aufgerufen, nachdem das Promise aufgelöst wurde. (Das Promise mit entweder einem Erfolg oder Miserfolg zurück gekommen ist) Dann können wir entscheiden, was mit dem eingelösten Versprechen zu tun ist.
 
 ```javascript
 promise.then((data) => { 
