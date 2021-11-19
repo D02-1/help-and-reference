@@ -15,6 +15,7 @@
         * [Nano](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/nano.md)
         * [Lernmaterial](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/3_linux/learnmore.md)
     * [Git & GitHub](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git)
+        * [SSH key](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/ssh.md)
         * [Begriffsdefinition und Einrichtung](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/setup.md)
         * [Typische Git Befehle](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/4_git/commands.md)
         * [Branches](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git/branches.md)
@@ -95,7 +96,7 @@
       * [traversing](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/traversing.md)   
       * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)   
     * [Asynchronous programming](https://github.com/D02-1/help-and-reference/tree/main/4_spa/2_asynchronous)
-      * [promise](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_asynchronous/promise.md)
+      * [promises](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_asynchronous/promise.md)
 
 * Backend
 
