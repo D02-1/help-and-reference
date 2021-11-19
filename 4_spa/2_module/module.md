@@ -125,6 +125,7 @@ printAge(user)
 ```
 import keyword gefolgt vom default import, wenn wir einen default export haben. Danach ein Komma und es folgen alle benannten Exporte in geschweiften Klammern. Danach folgt das keyword from gefolgt vom Pfad zur Datei. Der Dateipfad für die importierte Datei ist relativ zu der Datei, die den Import durchführt und muss ./ am Anfang des Pfads haben.
 
+---
 ### Beispiel für nur default Import
 
 ```javascript
