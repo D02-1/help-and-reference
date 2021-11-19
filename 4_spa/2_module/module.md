@@ -2,7 +2,7 @@
 
 **:exploding_head: Problem :exploding_head:**
 
-- Wenn wir mehrere Skript-Tags in unsere HTML Datei einbinden wollen, die alle voneinander abhängig sind, kann es sehr leicht passieren, das wir den Code versehentlich beschädigen, wenn wir die scripts in der falschen Reihenfolge im HTML einbinden. 
+- Wenn wir mehrere skript-tags in unsere HTML Datei einbinden wollen, die alle voneinander abhängig sind, kann es sehr leicht passieren, das wir den Code versehentlich beschädigen, wenn wir die scripts in der falschen Reihenfolge im HTML einbinden. 
 
 
 - JS Variablen aus all unseren Dateien sind global, sodass das versehentliche Überschreiben von Variablen zwischen mehreren JS-Dateien wirklich sehr leicht passieren kann. 
@@ -37,7 +37,7 @@ printAge(user)
 // Kyle is 26 years old
 ```
 
-**:bangbang:in unserer index.html müssen wir die user.js vor der script.js laden:bangbang:**
+**:bangbang: in unserer index.html müssen wir die user.js vor der script.js laden :bangbang:**
 
 ```html
 <!-- index.html -->
@@ -60,6 +60,8 @@ Wir brauchen kein extra script-tag für user.js mehr, da wir den code von user.j
 
 
 ## Exporting
+
+so:
 
 ```javascript
 // user.js
@@ -85,7 +87,9 @@ export default User
 export printName
 export printAge
 ```
-am Ende der user.js deklarieren wir unseren export. wir können in einer Datei immer nur einen export default haben, aber mehrere sogenannte named exports. Wir können den export entweder ganz unten in der Datei deklarieren oder setzten das keyword export direkt auf die selbe Zeile, wo die Funktion/ Klasse deklariert wird. (siehe Beispiel)
+am Ende der user.js deklarieren wir unseren export. wir können in einer Datei immer nur einen export default haben, aber mehrere sogenannte named exports. Wir können den export entweder ganz unten in der Datei deklarieren oder setzten das keyword export direkt auf die selbe Zeile, wo die Funktion/ Klasse deklariert wird. (siehe im folgenden Beispiel)
+
+oder so:
 
 ```javascript
 // user.js
@@ -137,7 +141,7 @@ import { printAge } from './User.js'
 
 Manchmal kann es nötig sein, die Funktionen/Klassen/Variablen, die wir aus einer anderen Datei importieren, umzubenennen, zum Beispiel wenn wir bereits eine andere Variable mit demselben Namen haben oder einen eindeutigeren Namen verwenden möchten. 
 
-### Import defaults umbenennen
+- ### Import defaults umbenennen
 
 ```javascript
 import Person from './User.js'
@@ -146,7 +150,7 @@ const user = new Person("Kyle", 26)
 ```
 In diesem Beispiel haben wir den default export von User in Person umbenannt. Der Grund, warum wir dies so tun können, ist, dass Sie immer nur einen default export gibt, sodass JavaScript weiß, welchen Namen wir dem default export geben, der dem einzigen default export aus der Datei entspricht.
 
-### named Imports umbenennen
+- ### named Imports umbenennen
 
 ```javascript
 // script.js
@@ -157,8 +161,6 @@ printUserName(user)
 ```
 
 Das Umbenennen von named exports ist etwas schwieriger, da JavaScript den Namen des Exports verwendet, um zu wissen, welchen Export Sie importieren. Aus diesem Grund müssen wir beim Umbenennen eines named exports den Namen des Exports gefolgt vom keyword as und dann den neuen Namen den wir verwenden möchten.
-
-
 
 ---
 
