@@ -53,7 +53,7 @@ Promise.all([promise1, promise2, ....])
 ## Vorteil Promises zu Callbacks
 
 Sowohl callbacks als auch promises helfen uns dabei, asynchron Code zu schreiben.
-Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogenannte Callback-Hölle vermeiden. Da wir einfach mehrere .then() miteinander verketten können, und so viele verschachtelte Callbacks vermeiden können. Wenn eine Aufgabe fehlgeschlagen ist, können wir es dem .catch() übergeben.
+Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogenannte :point_right:[Callback-Hölle](http://callbackhell.com/) vermeiden. Da wir einfach mehrere .then() miteinander verketten können, und so viele verschachtelte Callbacks vermeiden können. Wenn eine Aufgabe fehlgeschlagen ist, können wir es dem .catch() übergeben.
 
 ---
 
