@@ -57,15 +57,49 @@ Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogena
 
 ---
 
+## async - await
+
+async - await ist eine spezielle Syntax, um komfortabler mit Promises zu arbeiten. Es wird auch als "syntactic sugar" bezeichnet. Wir können unseren asyncronen Code wie eine syncrone Funktion schreiben, alles was wir brauchen sind die Stichwörter async und await. Das Stichwort async wird vor die Funktion gesetzt, um deutlich zu machen, das es sich hierbei, um eine asyncrone Funktion handelt und um die asyncronen Teile unserer Funktion, setzen wir das Stichwort await.
+
+<img src="async-await.jpg" alt="async-await" width="40%">
+
+```javascript
+const doSomethingAsync = () => {
+  return new Promise(resolve => {
+    setTimeout(() => resolve('I did something'), 3000)
+  })
+}
+
+const doSomething = async () => {
+  console.log(await doSomethingAsync())
+}
+
+```
+
 **mehr Lesematerial**
 
 :point_right:[javascript.info/promise-basics](https://javascript.info/promise-basics)\
 :point_right:[callback vs promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
 :point_right:[javascript-promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
-:point_right:[javascript-promises](https://javascript.plainenglish.io/javascript-promises-39249e5f0e87)
+:point_right:[javascript-promises](https://javascript.plainenglish.io/javascript-promises-39249e5f0e87)\
+:point_right:[javascript-promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
+:point_right:[freecodecamp promises](https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/)\
+:point_right:[javascript.info async-await](https://javascript.info/async-await)\
+:point_right:[mediaevent async-await](https://www.mediaevent.de/javascript/async-await.html)\
+
+
+
+
 
 
 **Youtube Videos**
 
-:point_right:[Web Dev Simplified-JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+
+:point_right:[Web Dev Simplified-Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)\
+:point_right:[Web Dev Simplified-JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)\
+:point_right:[Traversy Media - Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
+
+
+
+
 
