@@ -80,15 +80,13 @@ const doSomething = async () => {
 
 :point_right:[javascript.info/promise-basics](https://javascript.info/promise-basics)\
 :point_right:[callback vs promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
+:point_right:[callbackhell](http://callbackhell.com/)\
 :point_right:[javascript-promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
 :point_right:[javascript-promises](https://javascript.plainenglish.io/javascript-promises-39249e5f0e87)\
 :point_right:[javascript-promises](https://dev.to/neisha1618/callbacks-vs-promises-4mi1)\
 :point_right:[freecodecamp promises](https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/)\
 :point_right:[javascript.info async-await](https://javascript.info/async-await)\
-:point_right:[mediaevent async-await](https://www.mediaevent.de/javascript/async-await.html)\
-
-
-
+:point_right:[mediaevent async-await](https://www.mediaevent.de/javascript/async-await.html)
 
 
 
