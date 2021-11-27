@@ -57,7 +57,7 @@ Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogena
 
 ---
 
-## Promises mit async - await (syntactic sugar - seit ECMAScript 2017)
+## Promises mit :eight_spoked_asterisk:  async - await :eight_spoked_asterisk:  (syntactic sugar - seit ECMAScript 2017)
 
 async - await ist eine spezielle Syntax, um komfortabler mit Promises zu arbeiten. Es wird auch als "syntactic sugar" bezeichnet. Wir können unseren asyncronen Code wie eine syncrone Funktion schreiben, alles was wir brauchen sind die Stichwörter async und await. Das Stichwort async wird vor die Funktion gesetzt, um deutlich zu machen, das es sich hierbei, um eine asyncrone Funktion handelt und um die asyncronen Teile unserer Funktion, setzen wir das Stichwort await.
 
