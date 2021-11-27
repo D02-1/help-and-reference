@@ -2,7 +2,7 @@
 
 <img src="async-vs-sync.png" alt="async-vs-sync" width="50%">
 
-**synchron vs asynchron**
+**synchron (blockierender Code) vs asynchron (nicht blockierender Code)**
 
 - synchron (die js-Datei wird von oben nach unten gelesen)
 - oder asynchron (gezielt asynchronen clean Code können wir seit ES6 mit Promises schreiben), beim Lesen des Code`s von oben nach unten, wird ein sogenanntes Promise (Versprechen) erstmal auf pending (in Arbeit) gesetzt - ich kümmere mich, um deine Anfrage und sage dir dann Bescheid. Der danach folgende Code wird weiter ausgeführt und zu einem späteren Zeitpunkt, wenn das Promise (Versprechen) ein Ergebnis hat (Erfolg/ Miserfolg ) kann das Ergebnis weiter bearbeitet werden. 
@@ -53,7 +53,7 @@ Promise.all([promise1, promise2, ....])
 ## Vorteil Promises zu Callbacks
 
 Sowohl callbacks als auch promises helfen uns dabei, asynchron Code zu schreiben.
-Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogenannte Callback-Hölle vermeiden. Da wir einfach mehrere .then() miteinander verketten können, und so viele verschachtelte Callbacks vermeiden können. Wenn eine Aufgabe fehlgeschlagen ist, können wir es dem .catch() übergeben.
+Mit promises können wir jedoch sehr viel sauberen Code schreiben und die sogenannte :point_right:[Callback-Hölle](http://callbackhell.com/) vermeiden. Da wir einfach mehrere .then() miteinander verketten können, und so viele verschachtelte Callbacks vermeiden können. Wenn eine Aufgabe fehlgeschlagen ist, können wir es dem .catch() übergeben.
 
 ---
 
