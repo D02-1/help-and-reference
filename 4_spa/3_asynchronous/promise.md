@@ -1,11 +1,11 @@
-# Promise
+# Promise (seit ECMAScript 2015)
 
 <img src="async-vs-sync.png" alt="async-vs-sync" width="50%">
 
 **synchron (blockierender Code) vs asynchron (nicht blockierender Code)**
 
 - synchron (die js-Datei wird von oben nach unten gelesen)
-- oder asynchron (gezielt asynchronen clean Code können wir seit ES6 mit Promises schreiben), beim Lesen des Code`s von oben nach unten, wird ein sogenanntes Promise (Versprechen) erstmal auf pending (in Arbeit) gesetzt - ich kümmere mich, um deine Anfrage und sage dir dann Bescheid. Der danach folgende Code wird weiter ausgeführt und zu einem späteren Zeitpunkt, wenn das Promise (Versprechen) ein Ergebnis hat (Erfolg/ Miserfolg ) kann das Ergebnis weiter bearbeitet werden. 
+- oder asynchron (gezielt asynchronen clean Code können wir seit ES6 mit Promises schreiben und so die sogenannte callbackhell vermeiden), beim Lesen des Code`s von oben nach unten, wird ein sogenanntes Promise (Versprechen) erstmal auf pending (in Arbeit) gesetzt - ich kümmere mich, um deine Anfrage und sage dir dann Bescheid. Der danach folgende Code wird weiter ausgeführt und zu einem späteren Zeitpunkt, wenn das Promise (Versprechen) ein Ergebnis hat (Erfolg/ Miserfolg ) kann das Ergebnis weiter bearbeitet werden. 
 
 
 <img src="state-promise.png" alt="state-promise" width="40%">
