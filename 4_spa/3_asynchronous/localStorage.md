@@ -32,7 +32,7 @@ Bei Chrome finden wir den local storage unter "Application".
 
 ## Objekte/ (Arrays) im local storage speichern
 
-da wir im local storage nur strings als key/values speichern können, hilft uns die Methode `JSON.stringify()` zum umwandeln von Objekten/ (Arrays) in strings.
+da wir im local storage nur strings als key / values speichern können, hilft uns die Methode `JSON.stringify()` zum umwandeln von Objekten/ (Arrays) in strings.
 
 ```javascript
 const ourArray =[1,2,3,4,5];
