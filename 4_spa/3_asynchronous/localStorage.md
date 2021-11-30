@@ -11,7 +11,7 @@ Bei Chrome finden wir den local storage unter "Application".
 
 ---
 
-:exclamation::exclamation::exclamation:Wir können im local storage nur strings als key/ values speichern. 
+:exclamation::exclamation::exclamation:Wir können im local storage nur strings als key / values speichern. 
 :point_right:Zahlen werden automatisch in strings umgewandelt. 
 
 ## Daten im local storage speichern
