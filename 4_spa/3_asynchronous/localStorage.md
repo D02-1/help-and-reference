@@ -4,7 +4,7 @@ Die Eigenschaft localStorage des window-Objekts stellt uns ein Storage-Objekt zu
 
 :stop_sign: Im local storage sollten wir keine sensiblen Daten, wie z.b. Passwörter oder Adressen speichern. Die Daten können dort sehr leicht von "Hackern" ausgelesen werden.
 
-<img src="chrome.png" alt="async-vs-sync" width="50%">
+<img src="chrome.png" alt="async-vs-sync" width="70%">
 
 Bei Chrome finden wir den local storage unter "Application".
 
