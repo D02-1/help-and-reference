@@ -99,6 +99,7 @@
       * [module](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_module/module.md)
     * [Asynchronous programming](https://github.com/D02-1/help-and-reference/tree/main/4_spa/3_asynchronous)
       * [promises](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/promise.md)
+      * [local storage](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/localStorage.md)
 
 * Backend
 
