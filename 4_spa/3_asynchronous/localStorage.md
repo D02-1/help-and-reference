@@ -10,7 +10,7 @@ Bei Chrome finden wir den local storage unter "Application".
 <img src="chrome.png" alt="async-vs-sync" width="70%">
 
 
-:exclamation::exclamation::exclamation:Wir können im local storage nur strings als key/values speichern. 
+:exclamation::exclamation::exclamation:Wir können im local storage nur strings als key/ values speichern. 
 :point_right:Zahlen werden automatisch in strings umgewandelt. 
 
 ## Daten im local storage speichern
@@ -29,7 +29,7 @@ Bei Chrome finden wir den local storage unter "Application".
 
 `localStorage.clear()`
 
-## Objekte/(Arrays) im local storage speichern
+## Objekte/ (Arrays) im local storage speichern
 
 da wir im local storage nur strings als key/values speichern können, hilft uns die Methode `JSON.stringify()` zum umwandeln von Objekten/ (Arrays) in strings.
 
@@ -38,7 +38,7 @@ const ourArray =[1,2,3,4,5];
 localStorage.setItem("ourarraykey",JSON.stringify(ourArray))
 ```
 
-## Objekte/(Arrays) aus dem local storage holen
+## Objekte/ (Arrays) aus dem local storage holen
 
 beim auslesen, können wir mit der Methode `JSON.parse()` diese wieder zurück in ein Objekt/(Array) umwandeln.
 
