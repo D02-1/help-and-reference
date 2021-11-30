@@ -9,6 +9,7 @@ Die Eigenschaft localStorage des window-Objekts stellt uns ein Storage-Objekt zu
 Bei Chrome finden wir den local storage unter "Application".
 <img src="chrome.png" alt="async-vs-sync" width="70%">
 
+---
 
 :exclamation::exclamation::exclamation:Wir können im local storage nur strings als key/ values speichern. 
 :point_right:Zahlen werden automatisch in strings umgewandelt. 
