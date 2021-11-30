@@ -18,7 +18,7 @@ Bei Chrome finden wir den local storage unter "Application".
 
 `localStorage.setItem("mykey","myvalue")`
 
-## Daten aus dem local storage holen
+## Daten aus dem local storage holen (lesen)
 
 ` localStorage.getItem("mykey")`
 
@@ -39,7 +39,7 @@ const ourArray =[1,2,3,4,5];
 localStorage.setItem("ourarraykey",JSON.stringify(ourArray))
 ```
 
-## Objekte/ (Arrays) aus dem local storage holen
+## Objekte/ (Arrays) aus dem local storage holen (lesen)
 
 beim auslesen, können wir mit der Methode `JSON.parse()` diese wieder zurück in ein Objekt/(Array) umwandeln.
 
