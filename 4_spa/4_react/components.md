@@ -7,7 +7,7 @@ React JS ist eine JavaScript-Bibliothek, die häufig zur Entwicklung von Softwar
 
 Mit React können wir das DOM (gerendertes HTML im Browser) effektiv in JavaScript rekonstruieren und nur die tatsächlich aufgetretenen Änderungen an das DOM übertragen.
 
-<img src="virtual-dom.jpg" alt="virtual-dom" width="50%">
+<img src="virtual-dom.jpg" alt="virtual-dom" width="60%">
 
 ---
 
