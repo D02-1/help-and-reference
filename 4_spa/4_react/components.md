@@ -23,7 +23,7 @@ JSX ermöglicht es uns, HTML-Elemente in JavaScript zu schreiben und sie ohne di
 :round_pushpin: in JSX nutzen wir CamelCase, bspw. `onClick` anstelle dem Standart HTML `onclick`\
 :round_pushpin: Namen die wir bereits in JS nutzen, können nicht in JSX benutzt werden, daher
 - `className` anstelle von `class`
-- oder `htmlFor`
+- oder `htmlFor` anstelle von `for`
 ```html
 <label htmlFor="namedInput">Name:</label>
 <input id="namedInput" type="text" name="name"/>
