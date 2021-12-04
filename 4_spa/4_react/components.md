@@ -1,6 +1,6 @@
 # React :atom_symbol: (Single-Page-Application)
 
-**:white_medium_small_square:als Single-Page-Application wird eine Webanwendung bezeichnet, die aus einem einzigen HTML-Dokument besteht und deren Inhalte dynamisch nachgeladen werden.**
+:white_medium_small_square:als Single-Page-Application wird eine Webanwendung bezeichnet, die aus einem einzigen HTML-Dokument besteht und deren Inhalte dynamisch nachgeladen werden.
 
 ```javascript
 npx create-react-app myapp
