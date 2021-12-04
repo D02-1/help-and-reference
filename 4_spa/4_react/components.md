@@ -29,9 +29,9 @@ Verwende einfach die gleichen Techniken, die du auch verwendest, um zu entscheid
 ---
 **mehr Lesematerial**
 
-:point_right::fire:[thinking-in-react](https://de.reactjs.org/docs/thinking-in-react.html)\
-:point_right::fire:[awesome-react-components](https://tutorialzine.com/2017/11/15-awesome-react-components)\
-:point_right::fire:[react-reusable-components](https://www.robinwieruch.de/react-reusable-components/)\
+:point_right:[thinking-in-react](https://de.reactjs.org/docs/thinking-in-react.html)\
+:point_right:[awesome-react-components](https://tutorialzine.com/2017/11/15-awesome-react-components)\
+:point_right:[react-reusable-components](https://www.robinwieruch.de/react-reusable-components/)\
 
 
 
