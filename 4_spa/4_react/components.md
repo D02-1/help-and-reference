@@ -1,6 +1,6 @@
-# React :atom_symbol:- (Single-Page-Application)
+# React :atom_symbol: (Single-Page-Application)
 
-**als Single-Page-Application wird eine Webanwendung bezeichnet, die aus einem einzigen HTML-Dokument besteht und deren Inhalte dynamisch nachgeladen werden.**
+**:white_medium_small_square:als Single-Page-Application wird eine Webanwendung bezeichnet, die aus einem einzigen HTML-Dokument besteht und deren Inhalte dynamisch nachgeladen werden.**
 
 ```javascript
 npx create-react-app myapp
@@ -20,7 +20,7 @@ Mit React können wir das DOM (gerendertes HTML im Browser) effektiv in JavaScri
 
 JSX ermöglicht es uns, HTML-Elemente in JavaScript zu schreiben und sie ohne die Methoden createElement() und/oder appendChild() im DOM zu platzieren. JSX wird zur Laufzeit mit Hilfe von Babel in JavaScript übersetzt. 
 
-:round_pushpin: in JSX nutzen wir CamelCase, bspw. `onClick` anstelle dem Standart HTML `onclick`
+:round_pushpin: in JSX nutzen wir CamelCase, bspw. `onClick` anstelle dem Standart HTML `onclick`\
 :round_pushpin: Namen die wir bereits in JS nutzen, können nicht in JSX benutzt werden, daher
 - `className` anstelle von `class`
 - oder `htmlFor`
@@ -102,7 +102,7 @@ export default Welcome;
 :point_right:[awesome-react-components](https://tutorialzine.com/2017/11/15-awesome-react-components)\
 :point_right:[Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)\
 :point_right:[react-reusable-components](https://www.robinwieruch.de/react-reusable-components/)\
-:point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)\
+:point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)
 
 
 
