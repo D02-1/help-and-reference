@@ -101,7 +101,7 @@
       * [promises](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/promise.md)
       * [local storage](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/localStorage.md)
     * [React](https://github.com/D02-1/help-and-reference/tree/main/4_spa/4_react)
-      * [components/ props/ state](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/components.md)
+      * [components / props / state](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/components.md)
 * Backend
 
 
