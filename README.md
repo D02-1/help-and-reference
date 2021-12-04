@@ -97,10 +97,11 @@
       * [events](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/events.md)  
     * [Module](https://github.com/D02-1/help-and-reference/tree/main/4_spa/2_module) 
       * [module](https://github.com/D02-1/help-and-reference/blob/main/4_spa/2_module/module.md)
-    * [Asynchronous programming](https://github.com/D02-1/help-and-reference/tree/main/4_spa/3_asynchronous)
+    * [Asynchronous programming & ls](https://github.com/D02-1/help-and-reference/tree/main/4_spa/3_asynchronous)
       * [promises](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/promise.md)
       * [local storage](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/localStorage.md)
-
+    * [React](https://github.com/D02-1/help-and-reference/tree/main/4_spa/4_react)
+      * [components](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/components.md)
 * Backend
 
 
