@@ -9,6 +9,8 @@ Mit React können wir das DOM (gerendertes HTML im Browser) effektiv in JavaScri
 
 <img src="virtual-dom.jpg" alt="virtual-dom" width="50%">
 
+---
+
 ## Komponenten (components)
 
 Vom Konzept her sind Komponenten wie JavaScript-Funktionen. Sie akzeptieren beliebige Eingaben (“props” genannnt) und geben React-Elemente zurück, welche beschreiben was auf dem Bildschirm angezeigt werden soll.
