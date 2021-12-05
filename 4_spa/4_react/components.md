@@ -104,6 +104,8 @@ export default Welcome;
 :point_right:[react-reusable-components](https://www.robinwieruch.de/react-reusable-components/)\
 :point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)
 
+https://sawyerh.medium.com/how-react-props-relate-to-html-attributes-and-js-functions-6785a89a299
+
 **nützliche React tools :wrench::screwdriver:**
 
 :point_right:[chrome extension-react-developer-tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)\
