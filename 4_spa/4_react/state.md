@@ -4,9 +4,9 @@ Was ist der Unterschied zwischen `state` und `props`?
 props (kurz für „properties“) und state sind beides reine JavaScript-Objekte. Obwohl beide Informationen enthalten, die das Rendern der Komponente beeinflussen, unterscheiden sie sich in einem wichtigen Punkt: props werden an die Komponente übergeben (ähnlich wie Funktionsparameter), während der state innerhalb der Komponente verwaltet wird (ähnlich wie deklarierte Variablen in einer Funktion).
 
 
-<img src="props-vs-state2.jpg" alt="props-vs-state2" width="60%">
+<img src="props-vs-state2.jpg" alt="props-vs-state2" width="70%">
 
-- props bieten uns die Möglichkeit, Daten von Eltern zu Kind weiterzugeben.\
+- props bieten uns die Möglichkeit, Daten von Eltern zu Kind weiterzugeben.
 - state ist für die Interaktivität zuständig (d.h. für Daten, die sich im Laufe der Zeit ändern) /
 state enthält „private“ Informationen für die Komponente zum Initialisieren und Ändern!
 
