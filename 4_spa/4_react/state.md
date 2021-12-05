@@ -31,7 +31,7 @@ state enthält „private“ Informationen für die Komponente zum Initialisiere
 14:  }
 ```
 - Zeile 1: Wir importieren den `useState` Hook von React. (durch diesen haben wir einen lokalen state in unserer funktionalen Komponente)
-- Zeile 4: über den useState Hook können wir einen Initialwert für unsere state Variable setzen (Beispiel `count`). Der useSate Hook liefert uns zusätzlich eine Methode (Beispiel `setCount`), über welche wir unsere Variabale ändern können.
+- Zeile 4: über den useState Hook können wir einen Initialwert (Beispiel `0`) für unsere state Variable (Beispiel `count`) setzen. Der useSate Hook liefert uns zusätzlich eine Methode (Beispiel `setCount`), über welche wir unsere Variabale ändern können.
 - Zeile 9: Wenn der Nutzer klickt, rufen wir `setCount` mit einem neuen Wert auf. 
 
 ## :exclamation::exclamation::exclamation: `state` sollte nie direkt geändern werden!
