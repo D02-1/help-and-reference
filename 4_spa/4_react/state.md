@@ -42,12 +42,12 @@ Der `state` sollte nicht direkt geändert werden! Wir nutzen hierfür ausschlie�
 
 **mehr Lesematerial**
 
-:point_right:[React docs - hooks-state](https://reactjs.org/docs/hooks-state.html)\
+:point_right:[React docs - hooks-state](https://reactjs.org/docs/hooks-state.html)
 
 
 
 **Youtube Videos**
 
 :point_right:[Web Dev Simplified-React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)\
-:point_right:[Dev Ed-React State and Props | Learn React For Beginners](https://www.youtube.com/watch?v=dMH1_YtUTSQ)\
+:point_right:[Dev Ed-React State and Props | Learn React For Beginners](https://www.youtube.com/watch?v=dMH1_YtUTSQ)
 
