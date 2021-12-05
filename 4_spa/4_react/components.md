@@ -46,7 +46,9 @@ Verwende einfach die gleichen Techniken, die du auch verwendest, um zu entscheid
 ## props 
 
 
-React ist eine komponentenbasierte Bibliothek, die die Benutzeroberfläche in kleine wiederverwendbare Teile aufteilt. In einigen Fällen müssen diese Komponenten miteinander kommunizieren (Daten aneinander senden). Die Möglichkeit, Daten zwischen Komponenten auszutauschen, bietet uns die Verwendung von `props`(properties).\
+React ist eine komponentenbasierte Bibliothek, die die Benutzeroberfläche in kleine wiederverwendbare Teile aufteilt. In einigen Fällen müssen diese Komponenten miteinander kommunizieren (Daten aneinander senden). Die Möglichkeit, Daten zwischen Komponenten auszutauschen, bietet uns die Verwendung von `props`(properties).
+In React „props“ ist eine Mischung aus den beiden mentalen Modellen: HTML-Attribute (welche Elemente konfigurieren können oder ihr Verhalten anpassen) und Funktionsparameter. Eine Komponente wird wie der Aufruf einer Funktion gerenderd. Die Syntax ist HTML-ähnliche Methode zum Aufrufen dieser Funktion.
+
 :exclamation::exclamation::exclamation:`props`können nur von Eltern-zu-Kind Komponente gesendet werden.
 
 <img src="props.png" alt="props" width="60%">
