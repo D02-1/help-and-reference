@@ -26,7 +26,7 @@ const options = {
 ---
 Nachdem das promise aufgelöst wurde (Erfolg / Miserfolg) können wir mit den Methoden `then()` und `catch()` Callbacks für die Ergebnis-und für die Fehlerbehandlung definieren.
 
-:exclamation::exclamation::exclamation:fetch löst das promise jedoch auch bei einer HTTP 4xx or 5xx (Fehler)response vom Server erfolgreich auf. fetch landet nur im catch, wenn die Anfrage gar nicht gestellt werden konnte, bspw. wenn das Netzwerk nicht verfügbar ist oder die Domain gar nicht existiert. Daher sollte bei fetch zusätzlich auch auf `response.ok` geprüft werden.
+:exclamation::exclamation::exclamation:fetch löst das promise jedoch auch bei einer HTTP 4xx or 5xx (Fehler) response vom Server erfolgreich auf. fetch landet nur im catch, wenn die Anfrage gar nicht gestellt werden konnte, bspw. wenn das Netzwerk nicht verfügbar ist oder die Domain gar nicht existiert. Daher sollte bei fetch zusätzlich auch auf `response.ok` geprüft werden.
 
 
 ```javascript
@@ -47,6 +47,7 @@ fetch('https://jsonplaceholder.typicode.com/todos/4')
 ```
 
 Das Response-Objekt enthält nicht direkt den eigentlichen JSON response body, sondern ist eine Darstellung der gesamten HTTP-Antwort. Um den JSON body Inhalt aus dem Response-Objekt zu extrahieren, verwenden wir die `json()`-Methode, die ein zweites Promise zurückgibt, das mit dem Ergebnis des Parsens aufgelöst wird.
+
 Das response Objekt stellt weitere Methoden bereit bspw. `response.blob()` für Bilder oder `response.text()` für eine reine txt Datei.
 
 ---
