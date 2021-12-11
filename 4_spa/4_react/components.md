@@ -106,8 +106,8 @@ export default Welcome;
 :point_right:[Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)\
 :point_right:[how-react-props-relate-to-html-attributes-and-js-functions](https://sawyerh.medium.com/how-react-props-relate-to-html-attributes-and-js-functions-6785a89a299)\
 :point_right:[react-reusable-components](https://www.robinwieruch.de/react-reusable-components/)\
-:point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)
-
+:point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)\
+:point_right:[react-children-the-misunderstood-prop](https://www.netlify.com/blog/2020/12/17/react-children-the-misunderstood-prop/)
 
 
 **nützliche React tools :wrench::screwdriver:**
