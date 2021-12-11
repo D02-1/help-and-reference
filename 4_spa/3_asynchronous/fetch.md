@@ -25,6 +25,7 @@ const options = {
 ```
 ---
 Nachdem das promise aufgelöst wurde (Erfolg / Miserfolg) können wir mit den Methoden `then()` und `catch()` Callbacks für die Ergebnis-und für die Fehlerbehandlung definieren.
+
 :exclamation::exclamation::exclamation:fetch löst das promise jedoch auch bei einer HTTP 4xx or 5xx (Fehler)response vom Server erfolgreich auf. fetch landet nur im catch, wenn die Anfrage gar nicht gestellt werden konnte, bspw. wenn das Netzwerk nicht verfügbar ist oder die Domain gar nicht existiert. Daher sollte bei fetch zusätzlich auch auf `response.ok` geprüft werden.
 
 
