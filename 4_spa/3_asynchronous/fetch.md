@@ -60,8 +60,8 @@ Das response Objekt stellt weitere Methoden bereit bspw. `response.blob()` für 
 - „CORS“ steht für Cross-Origin Resource Sharing. Es ermöglicht uns, Anfragen von einer Webseite an eine andere Webseite im Browser zu senden. 
 
 
-<img src="cors1.jpg" alt="cors1" width="40%">
-<img src="cors2.png" alt="cors2" width="40%">
+<img src="cors1.jpg" alt="cors1" width="60%">
+<img src="cors2.png" alt="cors2" width="60%">
 
 
 
