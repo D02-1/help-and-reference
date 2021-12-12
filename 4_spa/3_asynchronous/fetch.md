@@ -79,6 +79,8 @@ Hier können Dinge wie CORS, Content-Type, Language etc. geregelt werden.
 
 Ein preflight request (Anfrage) ist eine Kurzanfrage, die vom Browser vor der eigentlichen Anfrage gesendet wird. Der preflight gibt dem Server die Möglichkeit zu prüfen, wie die eigentliche Anfrage aussehen wird, bevor sie gestellt wird. 
 
+---
+
 **mehr Lesematerial**
 
 :point_right:[javascript.info/fetch](https://javascript.info/fetch)\
@@ -86,7 +88,7 @@ Ein preflight request (Anfrage) ist eine Kurzanfrage, die vom Browser vor der ei
 :point_right:[do-you-know-why-we-check-for-response-ok-while-using-fetch](https://dev.to/myogeshchavan97/do-you-know-why-we-check-for-response-ok-while-using-fetch-1mkd)\
 :point_right:[cors-preflight-requests](https://www.baeldung.com/cs/cors-preflight-requests)\
 :point_right:[http-ein-blick-hinter-die-kulissen-des-internets](https://enginsight.com/de/blog/http-ein-blick-hinter-die-kulissen-des-internets/)\
-:point_right:[mdn - HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)\
+:point_right:[mdn - HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 
 
@@ -95,7 +97,7 @@ Ein preflight request (Anfrage) ist eine Kurzanfrage, die vom Browser vor der ei
 
 :point_right:[Web Dev Simplified-Learn Fetch API In 6 Minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0)\
 :point_right:[Web Dev Simplified-Learn CORS In 6 Minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)\
-:point_right::fire:[Fetch Headers and Why They Matter](https://www.youtube.com/watch?v=5gnz6NZ3TRA)\
+:point_right::fire:[Fetch Headers and Why They Matter](https://www.youtube.com/watch?v=5gnz6NZ3TRA)
 
 
 
