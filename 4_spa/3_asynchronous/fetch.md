@@ -54,17 +54,17 @@ Das response Objekt stellt weitere Methoden bereit bspw. `response.blob()` für 
 
 ## Was ist SOP und CORS?
 
-- **SOP**
+**SOP**
 
-SOP (Same-Origin-Policy) ist eine Sicherheitseigenschaft des Webbrowsers, welche verhindert, dass Webseiten (bzw. deren Scripte) auf Inhalte zugreifen können, die aus einer anderen Quelle (Origin) stammen. SOP wurde eingeführt, um  cross-site request forgery attacks zu verhindern.
+- SOP (Same-Origin-Policy) ist eine Sicherheitseigenschaft des Webbrowsers, welche verhindert, dass Webseiten (bzw. deren Scripte) auf Inhalte zugreifen können, die aus einer anderen Quelle (Origin) stammen. SOP wurde eingeführt, um  cross-site request forgery attacks zu verhindern.
 
 <img src="cross-site-request-forgery-example.png" alt="csrf" width="60%">
 
-- **CORS**
+**CORS**
 
-Letztendlich stellten die Entwickler jedoch fest, dass es nützlich ist, Ressourcen von APIs von verschiedenen Domains anzufordern und die bereitgestellten Funktionalitäten anderer Anbieter nutzen zu können. Um die gemeinsame Nutzung von Ressourcen unter bestimmten Bedingungen ursprungsübergreifend zu ermöglichen, wurde CORS eingeführt.
+- Letztendlich stellten die Entwickler jedoch fest, dass es nützlich ist, Ressourcen von APIs von verschiedenen Domains anzufordern und die bereitgestellten Funktionalitäten anderer Anbieter nutzen zu können. Um die gemeinsame Nutzung von Ressourcen unter bestimmten Bedingungen ursprungsübergreifend zu ermöglichen, wurde CORS eingeführt.
 
-„CORS“ steht für Cross-Origin Resource Sharing. Es ermöglicht uns, Anfragen von einer Webseite an eine andere Webseite im Browser zu senden. 
+- „CORS“ steht für Cross-Origin Resource Sharing. Es ermöglicht uns, Anfragen von einer Webseite an eine andere Webseite im Browser zu senden. 
 
 
 <img src="cors1.jpg" alt="cors1" width="60%">
