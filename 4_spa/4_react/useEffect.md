@@ -37,8 +37,8 @@ useEffect(() => {
 
 ```jsx
 useEffect(() => {
-  console.log('I will run when counter changes');
-}, [counter]);
+  console.log('I will run when propXYZ or stateXYZ changes');
+}, [propXYZ, stateXYZ]);
 ```
 ---
 :orange_circle: **leeres Array als zweites Argument**
@@ -71,6 +71,9 @@ useEffect(() => {
 :point_right:[logrocket - useeffect-hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)\
 :point_right:[React docs - Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)\
 :point_right:[dev.to - useeffect-cleanup-how-and-when-to-use-it](https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm)
+:point_right:[dmitripavlutin.com - useEffect-explanation](https://dmitripavlutin.com/react-useeffect-explanation/)\
+:point_right:[dmitripavlutin.com - useEffect-infinite-loop](https://dmitripavlutin.com/react-useeffect-infinite-loop/)
+
 
 
 
