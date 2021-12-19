@@ -15,11 +15,11 @@ useEffect(
     ] 
 )
 ```
-**erstes Argument - callback function**
+:orange_circle: **erstes Argument - callback function**
 
-:orange_circle: `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde\
-:orange_circle: wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.\
-:orange_circle: jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
+- `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde\
+- wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.\
+- jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
 
 
 **zweites Argument - optionale dependency array**
