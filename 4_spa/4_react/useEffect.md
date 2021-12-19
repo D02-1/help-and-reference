@@ -66,9 +66,12 @@ useEffect(() => {
 ```
 ---
 
-klassenbasierte Lifecycle Methoden in Hooks
+**klassenbasierte Lifecycle Methoden in Hooks übersetzt**
 
 <img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="70%">
+
+* mount - aufegbaut
+* unmount - abgebaut
 
 ---
 
