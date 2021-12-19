@@ -64,8 +64,15 @@ useEffect(() => {
   };
 });
 ```
+---
+
+klassenbasierte Lifecycle Methoden in Hooks
+
+<img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="60%">
 
 ---
+
+
 **mehr Lesematerial**
 
 :point_right:[logrocket - useeffect-hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)\
