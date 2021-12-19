@@ -22,13 +22,13 @@ useEffect(
 - jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
 
 
-**zweites Argument - optionale dependency array**
+:orange_circle: **zweites Argument - optionale dependency array**
 
 - macht die Ausführung von bestimmten Bedingungen abhängig
 - der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
 
 
-**leeres Array als zweites Argument**
+:orange_circle: **leeres Array als zweites Argument**
 
 - der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen\
 - ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
