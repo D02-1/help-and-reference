@@ -17,21 +17,21 @@ useEffect(
 ```
 **erstes Argument - callback function**
 
-- `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde
-- wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.
-- jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
+:orange_circle: `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde
+:orange_circle: wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.
+:orange_circle: jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
 
 
 **zweites Argument - optionale dependency array**
 
-- macht die Ausführung von bestimmten Bedingungen abhängig
-- der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
+:orange_circle: macht die Ausführung von bestimmten Bedingungen abhängig
+:orange_circle: der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
 
 
 **leeres Array als zweites Argument**
 
-- der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen
-- ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
+:orange_circle: der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen
+:orange_circle: ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
 
 ## clean up
 
