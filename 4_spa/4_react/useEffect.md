@@ -24,18 +24,18 @@ useEffect(
 
 **zweites Argument - optionale dependency array**
 
-:orange_circle: macht die Ausführung von bestimmten Bedingungen abhängig\
-:orange_circle: der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
+- macht die Ausführung von bestimmten Bedingungen abhängig
+- der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
 
 
 **leeres Array als zweites Argument**
 
-:orange_circle: der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen\
-:orange_circle: ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
+- der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen\
+- ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
 
 ## clean up
 
-:orange_circle: manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter), Auch das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt.
+- manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter), Auch das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt.
 
 ```jsx
 useEffect(() => {
