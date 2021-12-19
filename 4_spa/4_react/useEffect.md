@@ -30,7 +30,7 @@ useEffect(() => {
 });
 ```
 ---
-:orange_circle: **zweites Argument - optionale dependency array**
+:orange_circle: **zweites Argument - optionales dependency array**
 
 - macht die Ausführung von bestimmten Bedingungen abhängig
 - der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
@@ -54,7 +54,7 @@ useEffect(() => {
 ---
 ## clean up
 
-- manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter), Auch das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt.
+- manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter), Auch das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt, beim Versuch den state upzudaten `setData(data)`.
 
 ```jsx
 useEffect(() => {
@@ -77,7 +77,7 @@ klassenbasierte Lifecycle Methoden in Hooks
 
 :point_right:[logrocket - useeffect-hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)\
 :point_right:[React docs - Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)\
-:point_right:[dev.to - useeffect-cleanup-how-and-when-to-use-it](https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm)
+:point_right:[dev.to - useeffect-cleanup-how-and-when-to-use-it](https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm)\
 :point_right:[dmitripavlutin.com - useEffect-explanation](https://dmitripavlutin.com/react-useeffect-explanation/)\
 :point_right:[dmitripavlutin.com - useEffect-infinite-loop](https://dmitripavlutin.com/react-useeffect-infinite-loop/)
 
