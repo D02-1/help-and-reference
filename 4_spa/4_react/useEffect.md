@@ -30,7 +30,7 @@ useEffect(() => {
 });
 ```
 ---
-:orange_circle: **zweites Argument - optionale dependency array**
+:orange_circle: **zweites Argument - optionales dependency array**
 
 - macht die Ausführung von bestimmten Bedingungen abhängig
 - der Effekt wird nur dann erneut ausgeführt, wenn sich die Werte innerhalb des Arrays über die erneuten Renderings hinweg geändert haben. Dadurch können wir optimieren, wie oft der Effekt ausgeführt wird.
