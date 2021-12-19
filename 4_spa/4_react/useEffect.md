@@ -15,6 +15,9 @@ useEffect(
     ] 
 )
 ```
+
+---
+
 :orange_circle: **erstes Argument - callback function**
 
 - `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde\
@@ -26,7 +29,7 @@ useEffect(() => {
   console.log('I will run on every render');
 });
 ```
-
+---
 :orange_circle: **zweites Argument - optionale dependency array**
 
 - macht die Ausführung von bestimmten Bedingungen abhängig
@@ -37,7 +40,7 @@ useEffect(() => {
   console.log('I will run when counter changes');
 }, [counter]);
 ```
-
+---
 :orange_circle: **leeres Array als zweites Argument**
 
 - der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen\
