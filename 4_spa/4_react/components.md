@@ -38,11 +38,13 @@ Vom Konzept her sind Komponenten wie JavaScript-Funktionen. Sie akzeptieren beli
 
 Verwende einfach die gleichen Techniken, die du auch verwendest, um zu entscheiden, ob du eine neue Funktion oder ein neues Objekt anlegen möchtest. Eine dieser Techniken ist das Single Responsibility Prinzip, d.h. eine Komponente sollte idealerweise nur eine Aufgabe erledigen. Sobald sie wächst, sollte sie in kleinere Teilkomponenten zerlegt werden.
 
+Als Faustregel gilt: Wenn ein Teil unserer Benutzeroberfläche mehrmals verwendet wird (Button, Panel, Avatar) oder für sich allein komplex genug ist (App, FeedStory, Kommentar), ist dieser ein guter Kandidat für die Extraktion in einen separaten Komponenten.
+
 <img src="components-example1.jpeg" alt="components1" width="60%">
 <img src="components-example2.png" alt="components2" width="60%">
 <img src="components-example3.png" alt="components3" width="60%">
 
-Als Faustregel gilt: Wenn ein Teil unserer Benutzeroberfläche mehrmals verwendet wird (Button, Panel, Avatar) oder für sich allein komplex genug ist (App, FeedStory, Kommentar), ist dieser ein guter Kandidat für die Extraktion in einen separaten Komponenten.
+
 
 ---
 ## props 
