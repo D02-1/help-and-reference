@@ -68,7 +68,7 @@ useEffect(() => {
 
 klassenbasierte Lifecycle Methoden in Hooks
 
-<img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="60%">
+<img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="70%">
 
 ---
 
