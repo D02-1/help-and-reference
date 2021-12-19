@@ -42,6 +42,8 @@ Verwende einfach die gleichen Techniken, die du auch verwendest, um zu entscheid
 <img src="components-example2.png" alt="components2" width="60%">
 <img src="components-example3.png" alt="components3" width="60%">
 
+Als Faustregel gilt: Wenn ein Teil unserer Benutzeroberfläche mehrmals verwendet wird (Button, Panel, Avatar) oder für sich allein komplex genug ist (App, FeedStory, Kommentar), ist dieser ein guter Kandidat für die Extraktion in einen separaten Komponenten.
+
 ---
 ## props 
 
@@ -117,7 +119,7 @@ export default Welcome;
 
 
 
-
+https://www.youtube.com/watch?v=kHJSNFU7H4U
 
 
 
