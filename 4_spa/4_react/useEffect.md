@@ -70,7 +70,7 @@ useEffect(() => {
 
 <img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="70%">
 
-* mount - aufgebaut
+'*' mount - aufgebaut
 * unmount - abgebaut
 
 ---
