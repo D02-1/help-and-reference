@@ -111,6 +111,9 @@ export default Welcome;
 :point_right:[react-props-cheatsheet](https://www.freecodecamp.org/news/react-props-cheatsheet/)\
 :point_right:[react-children-the-misunderstood-prop](https://www.netlify.com/blog/2020/12/17/react-children-the-misunderstood-prop/)
 
+**Youtube Videos**
+
+:point_right:[Sonny Sangha-Learn how to use Props in React in 19 minutes (for beginners)](https://www.youtube.com/watch?v=kHJSNFU7H4U)
 
 **nützliche React tools :wrench::screwdriver:**
 
@@ -119,7 +122,9 @@ export default Welcome;
 
 
 
-https://www.youtube.com/watch?v=kHJSNFU7H4U
+
+
+
 
 
 
