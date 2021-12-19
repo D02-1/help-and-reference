@@ -34,8 +34,8 @@ useEffect(() => {
 
 ```jsx
 useEffect(() => {
-  console.log('I will run only on first render');
-}, []);
+  console.log('I will run when counter changes');
+}, [counter]);
 ```
 
 :orange_circle: **leeres Array als zweites Argument**
