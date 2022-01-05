@@ -80,9 +80,12 @@ useEffect(() => {
 
 :point_right:[logrocket - useeffect-hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)\
 :point_right:[React docs - Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)\
+:point_right:[6-use-cases-of-the-useeffect-reactjs-hook](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)\
 :point_right:[dev.to - useeffect-cleanup-how-and-when-to-use-it](https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm)\
 :point_right:[dmitripavlutin.com - useEffect-explanation](https://dmitripavlutin.com/react-useeffect-explanation/)\
 :point_right:[dmitripavlutin.com - useEffect-infinite-loop](https://dmitripavlutin.com/react-useeffect-infinite-loop/)
+
+
 
 
 
