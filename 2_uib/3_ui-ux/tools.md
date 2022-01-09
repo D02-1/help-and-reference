@@ -23,7 +23,7 @@
 
 ## Artikel
 
-:point_right:[Beginners Guide to Learning UI Design](https://www.mockplus.com/blog/post/learn-ui-design)\
+:point_right:[Beginners Guide to Learning UI Design](https://www.mockplus.com/blog/post/learn-ui-design)
 
 
 
