@@ -12,7 +12,7 @@
   [*30 days of React*](https://github.com/MandyNeumeyer/30-Days-Of-React)
 
 - #### **React router v6**
-  [*react router*](https://reactrouter.com/)
+  [*react router docs*](https://reactrouter.com/)
 
 
 ---
