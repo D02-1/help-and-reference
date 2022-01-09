@@ -20,8 +20,8 @@ useEffect(
 
 :orange_circle: **erstes Argument - callback function**
 
-- `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde\
-- wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.\
+- `useEffect` nimmt eine callback function welche als side-effekt ausgeführt wird, nachdem die Komponente gerendert wurde
+- wird dem `useEffect` kein zweites Argument übergeben, wird der Effekt nach jedem neu-rendern aufgerufen.
 - jeder Effekt in einer Komponente wird nacheinander ausgeführt, basierend auf der Positionierung im Quellcode
 
 ```jsx
@@ -43,7 +43,7 @@ useEffect(() => {
 ---
 :orange_circle: **leeres Array als zweites Argument**
 
-- der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen\
+- der Effekt wird nur einmal nach dem ersten Rendern ausgeführt und für die folgenden Renderzyklen übersprungen
 - ist ein sehr häufiges Muster, wenn wir am Anfang des Lebenszyklus einer Komponente etwas tun möchten, beispielsweise um Daten abzurufen, event-listener zu "attachen" ...
 
 ```jsx
@@ -54,7 +54,7 @@ useEffect(() => {
 ---
 ## clean up
 
-- manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter), Auch das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt, beim Versuch den state upzudaten `setData(data)`.
+- manchmal ist es notwenig, Effekte beim Beenden des "Lebenszyklusses" einer Komponente wieder aufzuräumen, um kein unerwünschtes Verhalten zu produzieren. Bspw. beim asynchronen fetch, welcher eventuell noch gar nicht abgeschlossen ist, bevor der Lebenszyklus der Komponente beendet wird (user klickt weiter). Das fetch muss dann mit einem clean up beendet werden, da es sonst zu Fehlermeldungen kommt, beim Versuch den state upzudaten `setData(data)`.
 
 ```jsx
 useEffect(() => {
@@ -70,8 +70,8 @@ useEffect(() => {
 
 <img src="lifecycle-in-hooks.jpg" alt="lifecycle-in-hooks" width="70%">
 
-* mount - aufegbaut
-* unmount - abgebaut
+:eight_spoked_asterisk: mount - aufgebaut\
+:eight_spoked_asterisk: unmount - abgebaut
 
 ---
 
@@ -80,9 +80,12 @@ useEffect(() => {
 
 :point_right:[logrocket - useeffect-hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)\
 :point_right:[React docs - Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)\
+:point_right:[6-use-cases-of-the-useeffect-reactjs-hook](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)\
 :point_right:[dev.to - useeffect-cleanup-how-and-when-to-use-it](https://dev.to/otamnitram/react-useeffect-cleanup-how-and-when-to-use-it-2hbm)\
 :point_right:[dmitripavlutin.com - useEffect-explanation](https://dmitripavlutin.com/react-useeffect-explanation/)\
 :point_right:[dmitripavlutin.com - useEffect-infinite-loop](https://dmitripavlutin.com/react-useeffect-infinite-loop/)
+
+
 
 
 
