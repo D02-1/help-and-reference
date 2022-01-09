@@ -102,6 +102,7 @@
       * [fetch](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/fetch.md)
       * [local storage](https://github.com/D02-1/help-and-reference/blob/main/4_spa/3_asynchronous/localStorage.md)
     * [React](https://github.com/D02-1/help-and-reference/tree/main/4_spa/4_react)
+      * [Lernmaterial](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/learnreact.md)
       * [components / props](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/components.md)
       * [state](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/state.md)
       * [useEffect](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useEffect.md)
