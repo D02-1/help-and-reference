@@ -48,17 +48,17 @@ function User() {
 
 ---
 
-:orange_circle: 1. Context mit der createContext-Methode erstellen
+1. :orange_circle: Context mit der createContext-Methode erstellen
 
 ```javascript
 const UserContext = React.createContext();
 ```
-:orange_circle: 2. In unserer App-Komponente verwenden wir UserContext mit dem `UserContext.Provider`. Wir wickeln die Provider-Komponente um den Komponentenbaum (in diesem Fall User). Die eingebetteten Components können nun auf die Daten im Context zugreifen. 
+2. :orange_circle: In unserer App-Komponente verwenden wir UserContext mit dem `UserContext.Provider`. Wir wickeln die Provider-Komponente um den Komponentenbaum (in diesem Fall User). Die eingebetteten Components können nun auf die Daten im Context zugreifen. 
 
-:orange_circle: 3. Im UserContext.Provider legen wir den Wert fest, den wir an unseren gesamten Komponentenbaum weitergeben möchten. 
+3. :orange_circle: Im UserContext.Provider legen wir den Wert fest, den wir an unseren gesamten Komponentenbaum weitergeben möchten. 
 `value="german"`
 
-:orange_circle: 4. In User, oder wo immer wir den zur Verfügung gestellten Context verwenden wollen, können wir das gesamte Context object an React.useContext() übergeben
+4. :orange_circle: In User, oder wo immer wir den zur Verfügung gestellten Context verwenden wollen, können wir das gesamte Context object an React.useContext() übergeben
 ```javascript
 const value = React.useContext(UserContext);
 ```
