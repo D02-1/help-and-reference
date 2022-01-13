@@ -16,6 +16,7 @@ typischen React-Anwendung (prop-drilling) vs Context API
 
 
 - Nachteil von Context ist, das es die Wiederverwendung von Komponenten erschwert
+---
 
 <img src="provider-context.png" alt="context" width="40%">
 
