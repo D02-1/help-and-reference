@@ -106,7 +106,9 @@
       * [components / props](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/components.md)
       * [state](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/state.md)
       * [useEffect](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useEffect.md)
+      * [Context API](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/contextApi.md)
       
 * Backend
 
 
+ 
