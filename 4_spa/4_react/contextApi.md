@@ -53,7 +53,7 @@ function User() {
 ```javascript
 const UserContext = React.createContext();
 ```
-
+---
 :orange_circle: 2. In unserer App-Komponente verwenden wir UserContext mit dem `UserContext.Provider`. Wir wickeln die Provider-Komponente um den Komponentenbaum (in diesem Fall User). Die eingebetteten Components können nun auf die Daten im Context zugreifen. 
 
 :orange_circle: 3. Im UserContext.Provider legen wir den Wert fest, den wir an unseren gesamten Komponentenbaum weitergeben möchten. 
