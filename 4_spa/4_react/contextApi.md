@@ -9,13 +9,13 @@
 
 - Daten im Context, sollten Daten sein, welche nicht zu oft aktualisiert werden müssen, da Context nicht als Zustandsverwaltungssystem erstellt wurde.
 
+- Nachteil von Context ist, das es die Wiederverwendung von Komponenten erschwert
 
-typischen React-Anwendung (prop-drilling) vs Context API 
 
 <img src="prop-drilling-v-context.png" alt="context-vs-prop-drilling" width="70%">
 
+typischen React-Anwendung (prop-drilling) vs Context API 
 
-- Nachteil von Context ist, das es die Wiederverwendung von Komponenten erschwert
 ---
 
 <img src="provider-context.png" alt="context" width="40%">
