@@ -107,6 +107,7 @@
       * [state](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/state.md)
       * [useEffect](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useEffect.md)
       * [Context API](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/contextApi.md)
+      * [useReducer hook](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useReducer.md)
       
 * Backend
 
