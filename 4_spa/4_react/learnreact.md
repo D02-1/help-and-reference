@@ -14,6 +14,20 @@
 - #### **React router v6**
   [*react router docs*](https://reactrouter.com/)
 
+- ### **W3schools React**
+
+  [*react w3schools*](https://www.w3schools.com/react/default.asp)
+
+- ### **React Cheatsheet for 2021 (+Real-World Examples) Freecodecamp**
+
+  [*react w3schools*](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
+
+- ### **React CheatSheet SheCodes**
+
+    [*react w3schools*](https://www.frontendcheatsheets.com/react)
+
+
+
 
 ---
 
