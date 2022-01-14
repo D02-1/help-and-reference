@@ -5,16 +5,19 @@
 
 ---
 ```javascript
-const [state, setState]=useState(initialState)`
+const [state, setState]=useState(initialState)//initial state 0
 ```
 ```javascript
-const [state, dispatch] = useReducer(reducer, initialState);
+const [state, dispatch] = useReducer(reducer, initialState) //initial state {counter: 0 } =>meist komplexer objects;
 ```
 - Der Hook `useReducer(reducer, initialState)` akzeptiert zwei Argumente: die Reducer-Funktion und den initial state (Anfangszustand). Der Hook gibt dann ein Array aus 2 Elementen zurück: den aktuellen `state` und die Dispatch-Funktion `dispatch`.
 
 - Der Unterschied zum `useState` hook ist, das wir unseren state, nicht direkt über setState updaten, sondern über eine dispatch Funktion, welche den reducer mit einem action object aufruft. 
 
 ----
+
+## useReducer Hook in einzelne Teile zerlegt
+
 ### Initial state
 
 Der Anfangszustand bei der Initialisierung. z.b. 
@@ -51,7 +54,8 @@ const actionObject2 = {
 Wenn der state geupdated werden soll (bspw. durch einen eventhandler, fetch...) rufen wir die dispatch Funktion auf und übergeben dieser das Aktionsobjekt 
 
 ```javascript
- <button onClick={() => dispatch({type: "increase"})}>+</button>
+<button onClick={() => dispatch({type: "increase"})}>+</button>
+<button onClick={() => dispatch({type: "add", payload: {name: 'Jane Doe',email:'jane@mail.com'})}>+</button>
 ```
 ---
 
@@ -68,29 +72,29 @@ function reducer(state, action) {
     case 'decrement':
       return {count: state.count - 1};
     default:
-      throw new Error("invalid action");
+      throw new Error(`Unknown action type: ${action.type}`);
   }
 }
 ```
 ---
-
+:fire::ok_hand: In Apps mit mehreren Komponenten können wir die dispatch Funktion als props an die jeweilige Komponente runterreichen `dispatch={dispatch}` und in dieser den state einfach updaten. 
 
 <img src="reducer.jpeg" alt="reducer" width="60%">
 
 <img src="useReducer-vs-reduce.jpeg" alt="useReducer-vs-reduce" width="60%">
 
 
-
 ---
 
 **mehr Lesematerial**
 
-:point_right:[usereducer-vs-usestate](https://www.robinwieruch.de/react-usereducer-vs-usestate/)
+:point_right:[usereducer-vs-usestate](https://www.robinwieruch.de/react-usereducer-vs-usestate/)\
+:point_right:[how-to-use-react-usereducer-hook](https://devtrium.com/posts/how-to-use-react-usereducer-hook)
 
 
 
 **Youtube Videos**
 
-:point_right:[]()\
-:point_right:[]()
+:point_right:[Web Dev Simplified - Learn useReducer In 20 Minutes](https://www.youtube.com/watch?v=kK_Wqx3RnHk)
+
 
