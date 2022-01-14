@@ -55,7 +55,7 @@ Wenn der state geupdated werden soll (bspw. durch einen eventhandler, fetch...) 
 
 ```javascript
 <button onClick={() => dispatch({type: "increase"})}>+</button>
-<button onClick={() => dispatch({type: "add", payload: {name: 'Jane Doe',email:'jane@mail.com'})}>+</button>
+<button onClick={() => dispatch({type: "add", payload: {name: 'Jane Doe',email:'jane@mail.com'}})>+</button>
 ```
 ---
 
