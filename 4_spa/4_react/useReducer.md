@@ -10,10 +10,9 @@ const [state, setState]=useState(initialState)`
 ```javascript
 const [state, dispatch] = useReducer(reducer, initialState);
 ```
-Der Hook `useReducer(reducer, initialState)` akzeptiert zwei Argumente: die Reducer-Funktion und den initial state (Anfangszustand). Der Hook gibt dann ein Array aus 2 Elementen zurück: den aktuellen `state` und die Dispatch-Funktion `dispatch`.
+- Der Hook `useReducer(reducer, initialState)` akzeptiert zwei Argumente: die Reducer-Funktion und den initial state (Anfangszustand). Der Hook gibt dann ein Array aus 2 Elementen zurück: den aktuellen `state` und die Dispatch-Funktion `dispatch`.
 
----
-Der Unterschied zum `useState` hook ist, das wir unseren state, nicht direkt über setState updaten, sondern über eine dispatch Funktion, welche den reducer mit einem action object aufruft. 
+- Der Unterschied zum `useState` hook ist, das wir unseren state, nicht direkt über setState updaten, sondern über eine dispatch Funktion, welche den reducer mit einem action object aufruft. 
 
 ----
 ### Initial state
