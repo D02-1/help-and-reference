@@ -53,10 +53,16 @@ function User() {
 ```javascript
 const UserContext = React.createContext();
 ```
+---
+
 :two: In unserer App-Komponente verwenden wir UserContext mit dem `UserContext.Provider`. Wir wickeln die Provider-Komponente um den Komponentenbaum (in diesem Fall User). Die eingebetteten Components können nun auf die Daten im context zugreifen. 
+
+---
 
 :three: Im UserContext.Provider legen wir den Wert fest, den wir an unseren gesamten Komponentenbaum weitergeben möchten. 
 `value="german"`
+
+---
 
 :four: In User, oder wo immer wir den zur Verfügung gestellten context verwenden wollen, können wir das gesamte context object an React.useContext() übergeben
 ```javascript
