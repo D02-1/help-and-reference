@@ -79,6 +79,7 @@ function reducer(state, action) {
 ---
 :fire::ok_hand: In Apps mit mehreren Komponenten können wir die dispatch Funktion als props an die jeweilige Komponente runterreichen `dispatch={dispatch}` und in dieser den state einfach updaten. 
 
+---
 <img src="reducer.jpeg" alt="reducer" width="60%">
 
 <img src="useReducer-vs-reduce.jpeg" alt="useReducer-vs-reduce" width="60%">
