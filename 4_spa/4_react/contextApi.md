@@ -24,7 +24,7 @@ typischen React-Anwendung (prop-drilling) vs context API
 
 ## Wie verwendet man context?
 
-:point_down: **Es gibt vier Schritte zur Verwendung des React Context:**
+:round_pushpin:**Es gibt vier Schritte zur Verwendung des React Context:**
 
 ```javascript
 import React from 'react';
@@ -47,7 +47,7 @@ function User() {
 ```
 
 ---
-
+:point_down:
 :one: context mit der createContext-Methode erstellen
 
 ```javascript
