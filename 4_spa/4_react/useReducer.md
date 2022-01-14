@@ -16,7 +16,7 @@ const [state, dispatch] = useReducer(reducer, initialState) //initial state {cou
 
 ----
 
-## useReducer Hook in einzelne Teile zerlegt
+## :jigsaw: useReducer Hook in einzelne Teile zerlegt
 
 ### Initial state
 
