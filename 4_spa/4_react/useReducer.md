@@ -16,9 +16,9 @@ const [state, dispatch] = useReducer(reducer, initialState) //initial state {cou
 
 ----
 
-## :jigsaw: useReducer Hook in einzelne Teile zerlegt
+## :jigsaw: useReducer Hook in einzelne Teile zerlegt :jigsaw:
 
-### Initial state
+### :arrow_right: Initial state
 
 Der Anfangszustand bei der Initialisierung. z.b. 
 ```javascript
@@ -28,7 +28,7 @@ const initialState = {
 ```
 ---
 
-### Action object
+### :arrow_right: Action object
 
 Das Aktionsobjekt ist ein Objekt, das beschreibt, wie der Status aktualisiert wird.
 Das Aktionsobjekt hat als Eigenschaft einen string, welches die Art des state updates beschreibt. welches der reducer durchführen soll z.b. ("increase", "decrease",...) 
@@ -49,7 +49,7 @@ const actionObject2 = {
 };
 ```
 ---
-### Dispatch
+### :arrow_right: Dispatch
 
 Wenn der state geupdated werden soll (bspw. durch einen eventhandler, fetch...) rufen wir die dispatch Funktion auf und übergeben dieser das Aktionsobjekt 
 
@@ -59,7 +59,7 @@ Wenn der state geupdated werden soll (bspw. durch einen eventhandler, fetch...) 
 ```
 ---
 
-### Reducer
+### :arrow_right: Reducer
 
 Der Reducer ist eine reine Funktion, die 2 Parameter akzeptiert: den aktuellen state und ein Aktionsobjekt. Je nach Aktionsobjekt aktualisiert die Reducer-Funktion den state und gibt den neuen state zurück. 
 
