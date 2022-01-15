@@ -33,3 +33,11 @@
 <img src="./git-revert.png" alt="git-revert" style="width: 400px;"/>
 </div>
 
+---
+
+**mehr Lesematerial**
+
+:point_right:[fcc-writing-good-commit-messages-a-practical-guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+
+
+
