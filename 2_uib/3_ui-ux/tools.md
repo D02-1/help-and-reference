@@ -9,8 +9,10 @@
 :point_right:[favicon Generator](https://favicon.io/)\
 :point_right:[gradient palette](https://aeroxer.net/color/multi-gradient-palette)\
 :point_right:[ui gradient](https://uigradients.com/#Dull)\
-:point_right:[png zu ico konvertieren ](https://icoconvert.com/)
 
+## usefull helpers
+
+:point_right:[png, jpg oder bmp zu icon konvertieren ](https://icoconvert.com/)
 
 
 ### free pics
