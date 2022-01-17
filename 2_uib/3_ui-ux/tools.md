@@ -9,7 +9,7 @@
 :point_right:[favicon Generator](https://favicon.io/)\
 :point_right:[gradient palette](https://aeroxer.net/color/multi-gradient-palette)\
 :point_right:[ui gradient](https://uigradients.com/#Dull)\
-point_right:[png zu ico konvertieren ](https://icoconvert.com/)\
+:point_right:[png zu ico konvertieren ](https://icoconvert.com/)
 
 
 
