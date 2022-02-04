@@ -1,5 +1,20 @@
-# Statuscodes
+# HTTP Statuscodes
 
+HTTP ist das Akronym für Hypertext Transfer Protocol. Es regelt die Kommunikation zwischen Servern und Clients (Web Browser) bzw. Suchmaschinen-Trackern noch oberhalb des TCP/IP-Protokolls. Es ist Teil der URL und wird immer gefolgt von einem "://".
+
+Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem Browser) an den HTTP-Server. Jeder Request wird durch die Angabe einer Methode eingeleitet, um dem Server zu sagen, was er mit dem Request machen soll. Die häufigsten verwendeten Methoden sind »GET« und »POST«. 
+
+<img src="user-server.png" alt="user-server" width="40%">
+<img src="http.png" alt="http" width="40%">
+<img src="http-protocol.gif" alt="http" width="15%">
+
+Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Response (Antwort) geliefert.
+
+**HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.**
+
+<img src="http-status-codes.jpeg" alt="http status-codes" width="60%">
+
+**zum Beispiel**
 ## 100: Continue
 
 Die Anfrage wurde dem Server korrekt übertragen und der Server wartet auf weitere Anweisungen des Clients zur Ausführung dieser Anfrage.
@@ -11,6 +26,10 @@ Bei zeitintensiven Anfragen wird dieser Status Code verwendet, um ein Timeout zu
 ## 200: OK
 
 Dieser Status Code wird ausgegeben, wenn die Anfrage korrekt und ohne Fehler ausgeführt wurde. Zum Beispiel wenn eine angefragte Seite oder ein Dokument verfügbar ist und an den Client übertragen wurde.
+
+## 201: Created
+
+Der HTTP-Status 201 Created gibt an, dass als Ergebnis der HTTP-POST-Anforderung eine oder mehrere neue Ressourcen erfolgreich auf dem Server erstellt wurden.
 
 ## 301: Moved Permanently
 
@@ -52,3 +71,13 @@ Dieser HTTP Status Code steht für einen internen Serverfehler, sodass die angef
 ## 503: Service Unavailable
 
 Aufgrund von hohen Datenaufkommen oder Wartungsarbeiten kann es dazu kommen, dass der Dienst derzeit nicht verfügbar ist. Der Server steht also temporär nicht zur Verfügung, unter Umständen steht in der Statusmeldung auch, wann die Anfrage erneut gesendet werden kann.
+
+---
+
+**mehr Lesematerial**
+
+:point_right:[mdn HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)\
+:point_right:[tutorialspoint - learn HTTP](https://www.tutorialspoint.com/http/http_overview.htm)
+
+
+

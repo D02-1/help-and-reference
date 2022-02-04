@@ -89,6 +89,8 @@
 <sub>[⇧ back to top pb](#pb)</sub>
 
 ---
+<div id="spa"></div>
+
   * [Single-Page-Application](https://github.com/D02-1/help-and-reference/tree/main/4_spa/)
     * [DOM](https://github.com/D02-1/help-and-reference/tree/main/4_spa/1_dom)
       * [querying](https://github.com/D02-1/help-and-reference/blob/main/4_spa/1_dom/querying.md)
@@ -108,6 +110,8 @@
       * [useEffect](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useEffect.md)
       * [Context API](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/contextApi.md)
       * [useReducer hook](https://github.com/D02-1/help-and-reference/blob/main/4_spa/4_react/useReducer.md)
+
+<sub>[⇧ back to top pb](#spa)</sub>
       
 * [Backend](https://github.com/D02-1/help-and-reference/tree/main/5_ba/)
     * [Server](https://github.com/D02-1/help-and-reference/tree/main/5_ba/2_server)
