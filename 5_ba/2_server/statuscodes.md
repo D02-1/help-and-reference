@@ -2,7 +2,10 @@
 
 HTTP ist das Akronym für Hypertext Transfer Protocol. Es regelt die Kommunikation zwischen Servern und Clients (Web Browser) bzw. Suchmaschinen-Trackern noch oberhalb des TCP/IP-Protokolls. Es ist Teil der URL und wird immer gefolgt von einem "://".
 
+<div>
 <img src="http-protocol.gif" alt="http" width="25%">
+<img src="req-res.png" alt="req-res" width="50%">
+</div>
 
 Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem Browser) an den HTTP-Server. Jeder Request wird durch die Angabe einer Methode eingeleitet, um dem Server zu sagen, was er mit dem Request machen soll. Die häufigsten verwendeten Methoden sind »GET« und »POST«. 
 
