@@ -1,6 +1,8 @@
-# HTTP Statuscodes
+# HTTP 
 
 HTTP ist das Akronym für Hypertext Transfer Protocol. Es regelt die Kommunikation zwischen Servern und Clients (Web Browser) bzw. Suchmaschinen-Trackern noch oberhalb des TCP/IP-Protokolls. Es ist Teil der URL und wird immer gefolgt von einem "://".
+
+<img src="http-protocol.gif" alt="http" width="25%">
 
 Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem Browser) an den HTTP-Server. Jeder Request wird durch die Angabe einer Methode eingeleitet, um dem Server zu sagen, was er mit dem Request machen soll. Die häufigsten verwendeten Methoden sind »GET« und »POST«. 
 
@@ -9,11 +11,12 @@ Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem 
 <img src="http.png" alt="http" width="45%">
 </div>
 
-<img src="http-protocol.gif" alt="http" width="25%">
+---
+## HTTP Statuscodes
 
 Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Response (Antwort) geliefert.
 
-**HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.**
+:diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.
 
 <img src="http-status-codes.jpeg" alt="http status-codes" width="60%">
 
@@ -80,7 +83,9 @@ Aufgrund von hohen Datenaufkommen oder Wartungsarbeiten kann es dazu kommen, das
 **mehr Lesematerial**
 
 :point_right:[mdn HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)\
+:point_right:[mdn HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)\
 :point_right:[tutorialspoint - learn HTTP](https://www.tutorialspoint.com/http/http_overview.htm)
+
 
 
 
