@@ -19,7 +19,7 @@ Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem 
 
 Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Response (Antwort) geliefert.
 
-:diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. 
+:diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt.\ 
 :diamonds:Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.
 
 <img src="http-status-codes.jpeg" alt="http status-codes" width="40%">
