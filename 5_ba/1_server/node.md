@@ -24,3 +24,6 @@ z.b.
 :point_right:[node.js documentation](https://nodejs.dev/learn/nodejs-accept-arguments-from-the-command-line)\
 :point_right:[tutorialsteacher - node.js](https://www.tutorialsteacher.com/nodejs)
 
+**Youtube Videos**
+
+:point_right:[Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=403s)
