@@ -19,7 +19,8 @@ Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem 
 
 Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Response (Antwort) geliefert.
 
-:diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.
+:diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt. 
+:diamonds:Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.
 
 <img src="http-status-codes.jpeg" alt="http status-codes" width="40%">
 
@@ -89,6 +90,10 @@ Aufgrund von hohen Datenaufkommen oder Wartungsarbeiten kann es dazu kommen, das
 :point_right:[mdn HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)\
 :point_right:[tutorialspoint - learn HTTP](https://www.tutorialspoint.com/http/http_overview.htm)
 
+
+**Youtube Videos**
+
+:point_right:[Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=403s)
 
 
 
