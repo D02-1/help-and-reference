@@ -92,9 +92,7 @@ Aufgrund von hohen Datenaufkommen oder Wartungsarbeiten kann es dazu kommen, das
 :point_right:[tutorialspoint - learn HTTP](https://www.tutorialspoint.com/http/http_overview.htm)
 
 
-**Youtube Videos**
 
-:point_right:[Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=403s)
 
 
 
