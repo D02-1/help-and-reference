@@ -21,9 +21,9 @@ Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Respons
 
 :diamonds:HTTP-Statuscodes werden in 5 „Klassen“ unterteilt.
 
-<img src="http-status-codes.jpeg" alt="http status-codes" width="40%">
-
 :diamonds:Es sind Gruppierungen von Antworten, die ähnliche bzw. verwandte Bedeutungen haben.
+
+<img src="http-status-codes.jpeg" alt="http status-codes" width="40%">
 
 **zum Beispiel**
 ## 100: Continue
