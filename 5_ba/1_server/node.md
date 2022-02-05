@@ -17,6 +17,7 @@ z.b.
 
 <img src="core-modules.jpg" alt="core-modules" width="50%">
 
+---
 
 **mehr Lesematerial**
 
