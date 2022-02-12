@@ -20,7 +20,7 @@ Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem 
 
 **REST - representational state transfer**
 
-<img src="rest-architecture.png" alt="rest-architecture" width="50%">
+<img src="rest-architecture.png" alt="rest-architecture" width="70%">
 
 **HTTP Methods**
 - **GET/cars**       : cars um eine Ressource abzurufen
