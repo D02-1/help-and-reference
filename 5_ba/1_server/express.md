@@ -60,8 +60,9 @@ exports.security = (req, res, next) =>
 ```
 Wenn die aktuelle Middleware-Funktion den Anfrage-Antwort-Zyklus nicht beendet, muss sie `next()` aufrufen, um die Steuerung an die nächste Middleware-Funktion zu übergeben. Andernfalls bleibt die Anfrage hängen.
 
+---
 
-### Error-handling middleware
+### Error-handling-middleware
 
 Error-handling-middleware-Funktionen werden genauso wie andere Middleware-Funktionen definiert, außer mit vier statt drei Argumenten, `(err, req, res, next)`
 
