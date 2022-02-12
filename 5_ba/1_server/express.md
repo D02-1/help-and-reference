@@ -14,9 +14,6 @@ Controller: verarbeitet die Anfrage des Nutzers
 ---
 
 ### :red_circle: C für Controller
-=======
-## C für Controller
->>>>>>> 1b8e3c955b712a32ffab7f784798fe8d9b051afe
 
 ```javascript
 app.get(<path>, <controller>)
