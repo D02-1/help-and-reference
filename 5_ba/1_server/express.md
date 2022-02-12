@@ -4,11 +4,20 @@
 
 Model-View-Controller (MVC) ist ein software design pattern, welches häufig zur Entwicklung von user interfaces verwendet wird.
 
-<img src="mvc.png" alt="mvc" width="50%">
+<img src="MVC.png" alt="mvc" width="50%">
 
 
-### REST API (RESTful API)
+Model: stellt die Datenlogik bereit und interagiert mit der Datenbank
+View: kümmert sich um die Datenrepräsentation
+Controller: verarbeitet die Anfrage des Nutzers
 
+
+### C für Controller
+
+```javascript
+app.get(<path>, <controller>)
+app.post(<path>, <controller>)
+```
 
 
 
