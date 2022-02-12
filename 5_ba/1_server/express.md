@@ -28,7 +28,7 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 <img src="middleware-order.png" alt="mvc" width="60%">
 
 
-**Middleware-Funktionen können die folgenden Aufgaben ausführen:**
+ :large_blue_diamond:**Middleware-Funktionen können die folgenden Aufgaben ausführen:**
 
 - sie führen einen beliebigen Code aus.
 - nehmen Änderungen am Anfrage (request)- und Antwortobjekten (response) vor.
@@ -36,7 +36,7 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 - rufen die nächste Middleware-Funktion im Stack auf.
 
 ---
-#### Arten von Middleware
+ :large_blue_diamond:**Arten von Middleware**
 
 :large_orange_diamond: integrierte Middleware von Express nutzen, sogenannte `Application-level middleware` z.B den bodyparser. 
 ```javascript
