@@ -11,12 +11,14 @@ Model: stellt die Datenlogik bereit und interagiert mit der Datenbank
 View: kümmert sich um die Datenrepräsentation
 Controller: verarbeitet die Anfrage des Nutzers
 
+---
 
 ### C für Controller
 
 ```javascript
 app.get(<path>, <controller>)
 ```
+---
 
 ### Middleware
 
