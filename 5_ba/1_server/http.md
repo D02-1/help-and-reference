@@ -16,19 +16,6 @@ Unter einem HTTP-Request versteht man die Anfrage eines HTTP-Clients (z. B. dem 
 
 ---
 
-## REST API (RESTful API)
-
-**REST - representational state transfer**
-
-<img src="rest-architecture.png" alt="rest-architecture" width="70%">
-
-**HTTP Methods**
-- **GET/cars**       : cars um eine Ressource abzurufen
-- **PUT/cars/:id**   : um eine Ressource zu aktualisieren
-- **POST/cars**      : um eine Ressource zu erstellen
-- **DELETE/cars/:id**: um eine Ressource zu entfernen
-
----
 ## HTTP Statuscodes
 
 Auf jeden HTTP-Request (Anfrage) wird vom Server ein HTTP-Statuscode als Response (Antwort) geliefert.

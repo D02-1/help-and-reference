@@ -1,6 +1,6 @@
 # Express - back end web application framework für Node.js
 
-### Model-View-Controller
+### :red_circle: Model-View-Controller
 
 Model-View-Controller (MVC) ist ein software design pattern, welches häufig zur Entwicklung von user interfaces verwendet wird.
 
@@ -13,14 +13,49 @@ Controller: verarbeitet die Anfrage des Nutzers
 
 ---
 
-### C für Controller
+### :red_circle: C für Controller
 
 ```javascript
 app.get(<path>, <controller>)
 ```
 ---
 
-### Middleware
+### :red_circle: REST API (RESTful API)
+
+**REST - representational state transfer**
+
+<img src="rest-architecture.png" alt="rest-architecture" width="70%">
+
+**HTTP Methods**
+- **GET/cars**       : cars um eine Ressource abzurufen
+- **PUT/cars/:id**   : um eine Ressource zu aktualisieren
+- **POST/cars**      : um eine Ressource zu erstellen
+- **DELETE/cars/:id**: um eine Ressource zu entfernen
+
+---
+
+### :red_circle: Routing
+
+Routing bezieht sich darauf, wie die Endpunkte (URIs) einer Anwendung auf Client Anfragen reagieren
+
+- Eine Route-Methode wird von einer der HTTP-Methoden abgeleitet und an eine Instanz der Express-Klasse angehängt.
+- Route-paths in Kombination mit einer Route-Methode definieren die Endpunkte, der Anfrage
+
+```javascript
+app.get('/about', function (req, res) {
+  res.send('about')
+})
+```
+- Route-Parameter sind benannte URL-Segmente, die verwendet werden, um die an ihrer Position in der URL angegebenen Werte zu erfassen. Die erfassten Werte werden in das req.params-Objekt gefüllt, wobei der Name des im Pfad angegebenen Route-Parameters als jeweiliger Schlüssel verwendet wird.
+
+```javascript
+app.get('/users/:userId/books/:bookId', function (req, res) {
+  res.send(req.params)
+})
+```
+---
+
+###  :red_circle: Middleware
 
 Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage an den Express-Server ausgeführt werden. Jede Middleware hat Zugriff auf die HTTP-Anfrage (request) und -Antwort (response) für jede Route (oder jeden Pfad), an die sie angehängt ist.
 
@@ -89,15 +124,22 @@ app.use(function (err, req, res, next) {
 })
 ```
 
-
 ---
 
 **mehr Lesematerial**
 
+:point_right:[Express - routing](https://expressjs.com/en/guide/routing.html)\
 :point_right:[Express - middleware](https://expressjs.com/en/guide/using-middleware.html)\
 :point_right:[Express - guide using middleware](https://expressjs.com/en/guide/using-middleware.html)\
 :point_right:[academind - cross-site-resource-sharing-cors](https://academind.com/tutorials/cross-site-resource-sharing-cors)\
 :point_right:[Express - error-handling-middleware](https://expressjs.com/en/guide/error-handling.html)\
+:point_right:[why-thunder-client-is-better-than-postman?](https://enlear.academy/why-thunder-client-is-better-than-postman-dfe7bf484397)\
+
+
+**Tools API testing**
+
+:point_right:[thunderclient - vs-extension](https://www.thunderclient.com/)\
+:point_right:[Postman](https://www.postman.com/downloads/)\
 
 
 
