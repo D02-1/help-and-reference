@@ -4,7 +4,7 @@
 
 Model-View-Controller (MVC) ist ein software design pattern, welches häufig zur Entwicklung von user interfaces verwendet wird.
 
-<img src="MVC.png" alt="mvc" width="50%">
+<img src="MVC.png" alt="mvc" width="80%">
 
 
 Model: stellt die Datenlogik bereit und interagiert mit der Datenbank
