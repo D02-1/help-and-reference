@@ -24,8 +24,8 @@ app.get(<path>, <controller>)
 
 Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage an den Express-Server ausgeführt werden. Jede Middleware hat Zugriff auf die HTTP-Anfrage (request) und -Antwort (response) für jede Route (oder jeden Pfad), an die sie angehängt ist.
 
-<img src="middleware.png" alt="mvc" width="40%">
-<img src="middleware-order.png" alt="mvc" width="40%">
+<img src="middleware.png" alt="mvc" width="60%">
+<img src="middleware-order.png" alt="mvc" width="60%">
 
 
 **Middleware-Funktionen können die folgenden Aufgaben ausführen:**
