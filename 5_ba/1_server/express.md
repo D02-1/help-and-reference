@@ -63,13 +63,38 @@ Wenn die aktuelle Middleware-Funktion den Anfrage-Antwort-Zyklus nicht beendet, 
 
 ### Error-handling middleware
 
+Error-handling-middleware-Funktionen werden genauso wie andere Middleware-Funktionen definiert, außer mit vier statt drei Argumenten, `(err, req, res, next)`
+
+Fehler, die von asynchronen Funktionen zurückgegeben werden, die von route handlern und Middleware aufgerufen werden, müssen an die Funktion `next()` übergeben werden, wo Express sie abfängt und verarbeitet. z.b.
+
+```javascript
+app.get('/', function (req, res, next) {
+  fs.readFile('/file-does-not-exist', function (err, data) {
+    if (err) {
+      next(err) // Pass errors to Express.
+    } else {
+      res.send(data)
+    }
+  })
+})
+
+app.use(function (err, req, res, next) {
+  console.error(err.stack)
+  res.status(500).send('Data not found')
+})
+```
+
 
 ---
 
 **mehr Lesematerial**
 
 :point_right:[Express - middleware](https://expressjs.com/en/guide/using-middleware.html)\
-:point_right:[Express - guide using middleware](https://expressjs.com/en/guide/using-middleware.html)
+:point_right:[Express - guide using middleware](https://expressjs.com/en/guide/using-middleware.html)\
+:point_right:[academind - cross-site-resource-sharing-cors](https://academind.com/tutorials/cross-site-resource-sharing-cors)\
+:point_right:[Express - error-handling-middleware](https://expressjs.com/en/guide/error-handling.html)\
+
+
 
 **Youtube Videos**
 
