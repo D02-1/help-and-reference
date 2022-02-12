@@ -35,6 +35,9 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 - beenden Sie den Request-Response-Zyklus.
 - rufen die nächste Middleware-Funktion im Stack auf.
 
+---
+#### Arten von Middleware
+
 :large_orange_diamond: integrierte Middleware von Express nutzen, sogenannte `Application-level middleware` z.B den bodyparser. 
 ```javascript
 app.use(express.json());
