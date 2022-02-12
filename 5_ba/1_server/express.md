@@ -13,7 +13,6 @@ Controller: verarbeitet die Anfrage des Nutzers
 
 ---
 
-<<<<<<< HEAD
 ### :red_circle: C für Controller
 =======
 ## C für Controller
@@ -24,7 +23,6 @@ app.get(<path>, <controller>)
 ```
 ---
 
-<<<<<<< HEAD
 ### :red_circle: REST API (RESTful API)
 
 **REST - representational state transfer**
