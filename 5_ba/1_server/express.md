@@ -35,16 +35,16 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 - beenden Sie den Request-Response-Zyklus.
 - rufen die nächste Middleware-Funktion im Stack auf.
 
-- integrierte Middleware von Express nutzen, sogenannte `Application-level middleware` z.B den bodyparser. 
+:large_orange_diamond: integrierte Middleware von Express nutzen, sogenannte `Application-level middleware` z.B den bodyparser. 
 ```javascript
 app.use(express.json());
 app.use(express.urlencoded({extended: true}))
 ```
-- Middleware von Drittanbietern (npm packages) nutzen, z.b. `morgan` (HTTP request logger middleware)
+:large_orange_diamond: Middleware von Drittanbietern (npm packages) nutzen, z.b. `morgan` (HTTP request logger middleware)
 ```javascript
 app.use(morgan("common"))
 ```
-- Wir können unsere eigene Middleware für Express.js schreiben, z.b. CORS
+:large_orange_diamond: Wir können unsere eigene Middleware für Express.js schreiben, z.b. CORS
 ```javascript
 exports.security = (req, res, next) =>
 {
