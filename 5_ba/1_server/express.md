@@ -13,13 +13,18 @@ Controller: verarbeitet die Anfrage des Nutzers
 
 ---
 
+<<<<<<< HEAD
 ### :red_circle: C für Controller
+=======
+## C für Controller
+>>>>>>> 1b8e3c955b712a32ffab7f784798fe8d9b051afe
 
 ```javascript
 app.get(<path>, <controller>)
 ```
 ---
 
+<<<<<<< HEAD
 ### :red_circle: REST API (RESTful API)
 
 **REST - representational state transfer**
@@ -55,6 +60,9 @@ app.get('/users/:userId/books/:bookId', function (req, res) {
 ```
 ---
 ###  :red_circle: Middleware
+=======
+## Middleware
+>>>>>>> 1b8e3c955b712a32ffab7f784798fe8d9b051afe
 
 Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage an den Express-Server ausgeführt werden. Jede Middleware hat Zugriff auf die HTTP-Anfrage (request) und -Antwort (response) für jede Route (oder jeden Pfad), an die sie angehängt ist.
 
@@ -119,7 +127,7 @@ app.get('/', function (req, res, next) {
 
 app.use(function (err, req, res, next) {
   console.error(err.stack)
-  res.status(500).send('Data not found')
+  res.status(500).send('Internal Server Error')
 })
 ```
 
