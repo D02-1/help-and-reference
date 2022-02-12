@@ -54,7 +54,6 @@ app.get('/users/:userId/books/:bookId', function (req, res) {
 })
 ```
 ---
-
 ###  :red_circle: Middleware
 
 Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage an den Express-Server ausgeführt werden. Jede Middleware hat Zugriff auf die HTTP-Anfrage (request) und -Antwort (response) für jede Route (oder jeden Pfad), an die sie angehängt ist.
@@ -133,13 +132,13 @@ app.use(function (err, req, res, next) {
 :point_right:[Express - guide using middleware](https://expressjs.com/en/guide/using-middleware.html)\
 :point_right:[academind - cross-site-resource-sharing-cors](https://academind.com/tutorials/cross-site-resource-sharing-cors)\
 :point_right:[Express - error-handling-middleware](https://expressjs.com/en/guide/error-handling.html)\
-:point_right:[why-thunder-client-is-better-than-postman?](https://enlear.academy/why-thunder-client-is-better-than-postman-dfe7bf484397)\
+:point_right:[why-thunder-client-is-better-than-postman?](https://enlear.academy/why-thunder-client-is-better-than-postman-dfe7bf484397)
 
 
 **Tools API testing**
 
 :point_right:[thunderclient - vs-extension](https://www.thunderclient.com/)\
-:point_right:[Postman](https://www.postman.com/downloads/)\
+:point_right:[Postman](https://www.postman.com/downloads/)
 
 
 
