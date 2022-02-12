@@ -43,10 +43,14 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 app.use(express.json());
 app.use(express.urlencoded({extended: true}))
 ```
+---
+
 :large_orange_diamond: Middleware von Drittanbietern (npm packages) nutzen, z.b. `morgan` (HTTP request logger middleware)
 ```javascript
 app.use(morgan("common"))
 ```
+---
+
 :large_orange_diamond: Wir können unsere eigene Middleware für Express.js schreiben, z.b. CORS
 ```javascript
 exports.security = (req, res, next) =>
@@ -62,7 +66,7 @@ Wenn die aktuelle Middleware-Funktion den Anfrage-Antwort-Zyklus nicht beendet, 
 
 ---
 
-### Error-handling-middleware
+### :large_orange_diamond:Error-handling-middleware
 
 Error-handling-middleware-Funktionen werden genauso wie andere Middleware-Funktionen definiert, außer mit vier statt drei Argumenten, `(err, req, res, next)`
 
