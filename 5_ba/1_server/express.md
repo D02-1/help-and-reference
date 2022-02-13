@@ -72,7 +72,7 @@ Express-Middleware sind Funktionen, die während des Lebenszyklus einer Anfrage 
 ---
  :large_blue_diamond:**Arten von Middleware**
 
-:large_orange_diamond: integrierte Middleware von Express nutzen, sogenannte `Application-level middleware` z.B den bodyparser. 
+:large_orange_diamond: integrierte Middleware von Express nutzen, z.B den bodyparser. 
 ```javascript
 app.use(express.json());
 app.use(express.urlencoded({extended: true}))
