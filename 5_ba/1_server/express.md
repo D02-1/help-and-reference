@@ -132,7 +132,9 @@ app.use(function (err, req, res, next) {
 :point_right:[Express - guide using middleware](https://expressjs.com/en/guide/using-middleware.html)\
 :point_right:[academind - cross-site-resource-sharing-cors](https://academind.com/tutorials/cross-site-resource-sharing-cors)\
 :point_right:[Express - error-handling-middleware](https://expressjs.com/en/guide/error-handling.html)\
+:point_right:[scoutapm blog - error-handling-middleware](https://scoutapm.com/blog/express-error-handling)\
 :point_right:[why-thunder-client-is-better-than-postman?](https://enlear.academy/why-thunder-client-is-better-than-postman-dfe7bf484397)
+
 
 
 **Tools API testing**
