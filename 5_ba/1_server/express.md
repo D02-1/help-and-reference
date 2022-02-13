@@ -133,6 +133,7 @@ app.use(function (err, req, res, next) {
 :point_right:[academind - cross-site-resource-sharing-cors](https://academind.com/tutorials/cross-site-resource-sharing-cors)\
 :point_right:[Express - error-handling-middleware](https://expressjs.com/en/guide/error-handling.html)\
 :point_right:[scoutapm blog - error-handling-middleware](https://scoutapm.com/blog/express-error-handling)\
+:point_right:[use-of-res-json-vs-res-send-vs-res-end-in-express](https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf)\
 :point_right:[why-thunder-client-is-better-than-postman?](https://enlear.academy/why-thunder-client-is-better-than-postman-dfe7bf484397)
 
 
