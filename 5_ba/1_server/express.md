@@ -38,15 +38,15 @@ app.get(<path>, <controller>)
 
 Routing bezieht sich darauf, wie die Endpunkte (URIs) einer Anwendung auf Client Anfragen reagieren
 
-- Eine Route-Methode wird von einer der HTTP-Methoden abgeleitet und an eine Instanz der Express-Klasse angehängt.
-- Route-paths in Kombination mit einer Route-Methode definieren die Endpunkte, der Anfrage
+- Eine Route-Methode wird von einer der HTTP-Methoden abgeleitet und an eine Instanz der Express-Klasse angehängt. (get)
+- Route-paths in Kombination mit einer Route-Methode definieren die Endpunkte, der Anfrage ('/about')
 
 ```javascript
 app.get('/about', function (req, res) {
   res.send('about')
 })
 ```
-- Route-Parameter sind benannte URL-Segmente, die verwendet werden, um die an ihrer Position in der URL angegebenen Werte zu erfassen. Die erfassten Werte werden in das req.params-Objekt gefüllt, wobei der Name des im Pfad angegebenen Route-Parameters als jeweiliger Schlüssel verwendet wird.
+- Route-Parameter sind benannte URL-Segmente, die verwendet werden, um die an ihrer Position in der URL angegebenen Werte zu erfassen. Die erfassten Werte werden in das req.params-Objekt gefüllt, wobei der Name des im Pfad angegebenen Route-Parameters als jeweiliger Schlüssel verwendet wird. (:userId, :bookId)
 
 ```javascript
 app.get('/users/:userId/books/:bookId', function (req, res) {
