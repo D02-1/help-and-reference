@@ -46,7 +46,7 @@ app.get('/about', function (req, res) {
   res.send('about')
 })
 ```
-- Route-Parameter sind benannte URL-Segmente, die verwendet werden, um die an ihrer Position in der URL angegebenen Werte zu erfassen. Die erfassten Werte werden in das req.params-Objekt gefüllt, wobei der Name des im Pfad angegebenen Route-Parameters als jeweiliger Schlüssel verwendet wird. `:userId` :bookId`
+- Route-Parameter sind benannte URL-Segmente, die verwendet werden, um die an ihrer Position in der URL angegebenen Werte zu erfassen. Die erfassten Werte werden in das req.params-Objekt gefüllt, wobei der Name des im Pfad angegebenen Route-Parameters als jeweiliger Schlüssel verwendet wird. `:userId` `:bookId`
 
 ```javascript
 app.get('/users/:userId/books/:bookId', function (req, res) {
