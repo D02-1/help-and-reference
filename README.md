@@ -1,6 +1,6 @@
 # Hilfe und Referenzen zu bisherigen Themen
 <!-- Used for the "back to top" links within the document -->
-<div id="contents"></div>
+<div id="bdl"></div>
 
 * [Basic digital Literacy](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/)
     * [Slack](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/1_slack)
@@ -24,8 +24,10 @@
         * [Lernmaterial](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git/learnmore.md)
     * [Markdown](https://github.com/D02-1/help-and-reference/blob/main/1_bdl/4_git)
         * [Begriffsdefinition / Cheat-Sheet/ Lernmaterial](https://github.com/D02-1/help-and-reference/tree/main/1_bdl/5_markdown/markdown.md)
-    
+        * 
+<sub>[⇧ back to top](#bdl)</sub>  
 ---
+<div id="ui"></div>
 
 * [UI Basics](https://github.com/D02-1/help-and-reference/tree/main/2_uib/)
     * [content](https://github.com/D02-1/help-and-reference/tree/main/2_uib/1_content)
@@ -55,7 +57,7 @@
         * [SASS](https://github.com/D02-1/help-and-reference/blob/main/2_uib/7_frameworks/scss.md)
         
 
-<sub>[⇧ back to top](#contents)</sub>
+<sub>[⇧ back to top](#ui)</sub>
 
 ---
 <div id="pb"></div>
