@@ -27,10 +27,10 @@ app.get(<path>, <controller>)
 <img src="rest-architecture.png" alt="rest-architecture" width="70%">
 
 **HTTP Methods**
-- **GET/cars**       : um eine Ressource abzurufen
-- **PUT/cars/:id**   : um eine Ressource zu aktualisieren
-- **POST/cars**      : um eine Ressource zu erstellen
-- **DELETE/cars/:id**: um eine Ressource zu entfernen
+- **GET/cars**       :heavy_minus_sign: um eine Ressource abzurufen
+- **PUT/cars/:id**   :heavy_minus_sign: um eine Ressource zu aktualisieren
+- **POST/cars**      :heavy_minus_sign: um eine Ressource zu erstellen
+- **DELETE/cars/:id**:heavy_minus_sign: um eine Ressource zu entfernen
 
 ---
 
