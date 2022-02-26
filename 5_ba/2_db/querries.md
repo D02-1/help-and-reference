@@ -1,4 +1,4 @@
-# MongoDB Cheat Sheet CRUD
+# :point_down: MongoDB Cheat Sheet CRUD
 
 ---
 
@@ -156,7 +156,7 @@ Delete all users with an age of 12
 ```
 ---
 
-# MongoDB Cheat Sheet Complex Querries
+# :point_down: MongoDB Cheat Sheet Complex Querries
 
 ## :purple_circle: Complex Filter Object
 
