@@ -1,6 +1,8 @@
 # MongoDB Cheat Sheet CRUD
 
-## Create
+---
+
+## :orange_circle: Create
 
 #### Each of these commands is run on a specific collection
 
@@ -26,7 +28,7 @@ Add two new documents with the age of 26 and 20 into the users collection
 ```
 ---
 
-## Read
+## :orange_circle: Read
 
 #### Each of these commands is run on a specific collection
 
@@ -86,7 +88,7 @@ Get the number of users with the name Kyle
 ```
 ---
 
-## Update
+## :orange_circle: Update
 
 #### Each of these commands is run on a specific collection
 
@@ -128,7 +130,7 @@ Replace the first user with an age of 1 2 with an object that has the age of 13 
 its only field
 ```
 
-## Delete
+## :orange_circle: Delete
 
 #### Each of these commands is run on a specific collection
 
@@ -156,7 +158,7 @@ Delete all users with an age of 12
 
 # MongoDB Cheat Sheet Complex Querries
 
-## Complex Filter Object
+## :purple_circle: Complex Filter Object
 
 #### Any combination of the below can be use inside a filter object to make complex queries
 
@@ -268,7 +270,7 @@ Get all users that have a balance that is greater than their debt
 
 ---
 
-## Complex Update Object
+## :purple_circle: Complex Update Object
 
 #### Any combination of the below can be use inside an update object to make complex updates
 
@@ -329,7 +331,7 @@ Remove Mike from the friends array for all users
 ```
 ---
 
-## Read Modifiers
+## :purple_circle: Read Modifiers
 
 #### Any combination of the below can be added to the end of any read operation
 
