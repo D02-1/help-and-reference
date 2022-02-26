@@ -154,7 +154,7 @@ Delete all users with an age of 12
 ```
 ---
 
-# # MongoDB Cheat Sheet Complex Querries
+# MongoDB Cheat Sheet Complex Querries
 
 ## Complex Filter Object
 
