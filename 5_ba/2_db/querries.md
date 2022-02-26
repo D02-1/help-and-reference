@@ -129,6 +129,7 @@ update individual fields.
 Replace the first user with an age of 1 2 with an object that has the age of 13 as
 its only field
 ```
+---
 
 ## :orange_circle: Delete
 
@@ -364,4 +365,5 @@ Skip a set number of documents from the beginning
 Skip the first 4 users when returning results. This is great for pagination when
 combined with limit.
 ```
+---
 
