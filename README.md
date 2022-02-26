@@ -128,4 +128,7 @@
       * [Node.js](https://github.com/D02-1/help-and-reference/blob/main/5_ba/1_server/node.md)
       * [http & Statuscodes](https://github.com/D02-1/help-and-reference/blob/main/5_ba/1_server/http.md)
       * [Express - MVC & REST-API & middleware](https://github.com/D02-1/help-and-reference/blob/main/5_ba/1_server/express.md)
- 
+    * [Database](https://github.com/D02-1/help-and-reference/tree/main/5_ba/2_db)
+      * [db querries](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/querries.md)
+      * [mongo & mongoose (ODM)](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/mongo-mongoose.md)
+      
