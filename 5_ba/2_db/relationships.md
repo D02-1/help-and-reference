@@ -1,0 +1,1 @@
+<img src="sample-data-mongodb.png" alt="sample-data-mongodb.png" width="70%">

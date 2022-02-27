@@ -4,7 +4,7 @@
 
 MongoDB ist eine NoSQL Datenbank, die Ihre Daten als Dokumente speichert. 
 
-<img src="sample-data-mongodb.png" alt="sample-data-mongodb.png" width="70%">
+<img src="sample-data-mongodb.png" alt="sample-data-mongodb" width="70%">
 
 ```javascript
 { 
