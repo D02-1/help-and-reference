@@ -17,7 +17,7 @@ MongoDB ist eine NoSQL Datenbank, die Ihre Daten als Dokumente speichert.
 
 Einer der Schlüsselfaktoren bei MongoDB, ist die Flexibilität in Bezug auf die Struktur. Obwohl das Studentobjekt im Beispiel den `studentName`, `regNo`, `course` und `address` als Eigenschaften entält, sind diese Eigenschaften nicht in jedem Studentdokument erforderlich, das Teil der Collection (Sammlung) ist. Dies unterscheidet MongoDB stark von einer SQL-Datenbank, welche ein streng definiertes Datenbankschema für jedes gespeicherte Objekt erfordert.
 
-
+---
 ## Was ist Mongoose?
 
 Bei der Möglichkeit, dynamische Objekte zu erstellen, die als Dokumente in der Datenbank gespeichert werden, kommt Mongoose ins Spiel.
@@ -53,6 +53,7 @@ const studentSchema = new mongoose.Schema({
 - ObjectId
 - Array
 
+---
 ### Mongoose Model
 
 Ein Mongoose-Modell erstellt beim Speichern ein Dokument in MongoDB mit den Eigenschaften, die durch das Schema definiert sind, von dem es abgeleitet ist.
@@ -70,10 +71,17 @@ module.exports = mongoose.model('Student', studentSchema)
 const Student = require('./models/student')
 
 const newStudent = new Student({
-   studentName: ...,
-   ...
+   studentName: "Jane",
+   regNo:"7008",
+   address:"Mumbay",
 })
 ```
+
+**mehr Lesematerial**
+
+:point_right:[docs mongodb install/ start](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)\
+:point_right:[mongoose](https://mongoosejs.com/docs/guide.html)
+
 
 
 
