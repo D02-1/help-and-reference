@@ -80,8 +80,8 @@ const newStudent = new Student({
 
 **mehr Lesematerial**
 
-:point_right:[docs mongodb install/ start](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)\
-:point_right:[mongoose](https://mongoosejs.com/docs/guide.html)
+:point_right:[docs mongodb install / start](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)\
+:point_right:[docs mongoose](https://mongoosejs.com/docs/guide.html)
 
 
 
