@@ -1,6 +1,6 @@
 # MongoDB
 
-## Was ist MongoDB?
+## 	:orange_square: Was ist MongoDB?
 
 MongoDB ist eine NoSQL Datenbank, die Ihre Daten als Dokumente speichert. 
 
@@ -18,7 +18,7 @@ MongoDB ist eine NoSQL Datenbank, die Ihre Daten als Dokumente speichert.
 Einer der Schlüsselfaktoren bei MongoDB, ist die Flexibilität in Bezug auf die Struktur. Obwohl das Studentobjekt im Beispiel den `studentName`, `regNo`, `course` und `address` als Eigenschaften entält, sind diese Eigenschaften nicht in jedem Studentdokument erforderlich, das Teil der Collection (Sammlung) ist. Dies unterscheidet MongoDB stark von einer SQL-Datenbank, welche ein streng definiertes Datenbankschema für jedes gespeicherte Objekt erfordert.
 
 ---
-## Was ist Mongoose?
+## :orange_square: Was ist Mongoose?
 
 Bei der Möglichkeit, dynamische Objekte zu erstellen, die als Dokumente in der Datenbank gespeichert werden, kommt Mongoose ins Spiel.
 Mongoose ist ein Object Document Mapper (ODM). Wir können ein Schema für jeden Typ von Dokumenten anlegen. Dieses Schema beschreibt grundlegend das Datenkonstrukt eines Dokuments. Im Schema können wir Datentypen, Standardwerte (defaults) und eine kleine Validierung hinzufügen.
