@@ -1,1 +1,1 @@
-<img src="sample-data-mongodb.png" alt="sample-data-mongodb.png" width="70%">
+<img src="loading.png" alt="loading" width="70%">
