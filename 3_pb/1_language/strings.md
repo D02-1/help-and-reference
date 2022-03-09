@@ -19,7 +19,7 @@ Es gibt keinen sprachbedingten Unterschied zwischen Strings mit Single-Quotes od
 'Hello World';
 
 // Double Quotes:
-"Hello World';
+"Hello World";
 ```
 
 ## Leerzeichen
