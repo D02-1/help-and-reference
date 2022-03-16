@@ -69,7 +69,7 @@ const getAllTutorials async (req, res)=>{
 
 - Small subdocuments
 
--Data that does not change regularly
+- Data that does not change regularly
 
 - Eventual consistency is acceptable
 
