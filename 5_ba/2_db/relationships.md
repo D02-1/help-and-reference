@@ -25,8 +25,7 @@ const parentSchema = new Schema({
 });
 ```
 
-Wenn wir `one-to-few relationship`   (Eins-zu-wenige) haben, betten wir normalerweise die zugehörigen Dokumente in die Eltern Dokumente mit ein. 
-Eingebettete Dokumente sind eine effiziente und saubere Möglichkeit, zusammengehörige Daten zu speichern, insbesondere Daten, auf die regelmäßig gemeinsam zugegriffen wird.
+Wenn wir `one-to-one` oder `one-to-few relationship`   (Eins-zu-wenige) haben, betten wir normalerweise die zugehörigen Dokumente in die Eltern Dokumente mit ein. Eingebettete Dokumente sind eine effiziente und saubere Möglichkeit, zusammengehörige Daten zu speichern, insbesondere Daten, auf die regelmäßig gemeinsam zugegriffen wird.
 Zum Beispiel hat ein Tutorial einige Bilder (15 oder weniger). 
 
 ----
