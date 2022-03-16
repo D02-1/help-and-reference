@@ -65,7 +65,7 @@ const getAllTutorials async (req, res)=>{
 
 ## :grey_question::question: Referenz vs. Embedding Guideline Helper :question::grey_question:
 
-**Embedding:**
+**:point_right:Embedding:**
 
 - Small subdocuments
 
@@ -80,7 +80,7 @@ const getAllTutorials async (req, res)=>{
 - Fast reads
 
 
-**Referencing:**
+**:point_right:Referencing:**
 
 - Large subdocuments
 
