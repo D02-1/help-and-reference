@@ -63,7 +63,7 @@ const getAllTutorials async (req, res)=>{
 
 ---
 
-## :grey_question::question: Referenz vs. Embedding Guideline Helper :question::grey_question:
+## :grey_question::question: Reference vs. Embedding Guideline Helper :question::grey_question:
 
 **:point_right:Embedding:**
 
