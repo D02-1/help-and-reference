@@ -8,7 +8,7 @@ Obwohl MongoDB keine relationale Datenbank wie SQL ist, können wir dennoch Rela
 
 Subdocuments sind Dokumente, die in andere Dokumente eingebettet sind. In Mongoose heißt es, das wir ein Schema in ein anderes einbetten können. Mongoose hat zwei verschiedene Möglichkeiten Subdokumente einzubetten: ein Array von Subdokumenten oder ein einzelnes Subdokument. 
 
-Es würde hier keinen Unterschied machen, alles in ein Schema zu schreiben, der einzigste Grund warum eine Aufteilung ratsam ist, ist das es bei komplexen genesteten Objekten aufgeräumter aussieht.
+Es würde hier keinen großen Unterschied machen, alles in ein Schema zu schreiben, der Grund warum eine Aufteilung ratsam ist, ist das es bei komplexen genesteten Objekten aufgeräumter aussieht.
 
 
 ```javascript
