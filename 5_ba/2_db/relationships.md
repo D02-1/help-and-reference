@@ -102,8 +102,8 @@ const getAllTutorials async (req, res)=>{
 :point_right:[mongoose-subdocuments](https://zellwk.com/blog/mongoose-subdocuments/)\
 :point_right:[mongoose docs subdocs](https://mongoosejs.com/docs/subdocs.html)\
 :point_right:[medium one-to-many-relationships-with-mongodb-and-mongoose-in-node-express ](https://medium.com/@brandon.lau86/one-to-many-relationships-with-mongodb-and-mongoose-in-node-express-d5c9d23d93c2)\
-:point_right:[guideline for choosing refernce over subdocuments](https://www.bezkoder.com/mongoose-one-to-many-relationship/)
-
+:point_right:[guideline for choosing refernce over subdocuments](https://www.bezkoder.com/mongoose-one-to-many-relationship/)\
+:point_right::fire:[mongoose-relationships-tutorial](https://vegibit.com/mongoose-relationships-tutorial/)
 
 
 
