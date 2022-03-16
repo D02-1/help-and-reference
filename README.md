@@ -130,6 +130,7 @@
       * [Express - MVC & REST-API & middleware](https://github.com/D02-1/help-and-reference/blob/main/5_ba/1_server/express.md)
     * [Database](https://github.com/D02-1/help-and-reference/tree/main/5_ba/2_db)
       * [mongo-mongoose](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/mongo-mongoose.md)
-      * [mongoDB cheat sheet](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/queries.md)
+      * [mongoDB cheat sheet](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/mongo-cheatsheet.md)
       * [relationships](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/relationships.md)
-      
+    * [Security](https://github.com/D02-1/help-and-reference/tree/main/5_ba/3_sec) 
+      * [validate / sanitize](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/validation.md)
