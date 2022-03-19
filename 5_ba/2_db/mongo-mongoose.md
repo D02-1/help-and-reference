@@ -15,7 +15,7 @@ MongoDB ist eine NoSQL Datenbank, die Ihre Daten als Dokumente speichert.
 }
 ```
 
-Einer der Schlüsselfaktoren bei MongoDB, ist die Flexibilität in Bezug auf die Struktur. Obwohl das Studentobjekt im Beispiel den `studentName`, `regNo`, `course` und `address` als Eigenschaften entält, sind diese Eigenschaften nicht in jedem Studentdokument erforderlich, das Teil der Collection (Sammlung) ist. Dies unterscheidet MongoDB stark von einer SQL-Datenbank, welche ein streng definiertes Datenbankschema für jedes gespeicherte Objekt erfordert.
+Einer der Schlüsselfaktoren bei MongoDB, ist die Flexibilität in Bezug auf die Struktur. Obwohl das Studentobjekt im Beispiel den `studentName`, `regNo`, `course` und `address` als Eigenschaften enthält, sind diese Eigenschaften nicht in jedem Studentdokument erforderlich, das Teil der Collection (Sammlung) ist. Dies unterscheidet MongoDB stark von einer SQL-Datenbank, welche ein streng definiertes Datenbankschema für jedes gespeicherte Objekt erfordert.
 
 ---
 ## :blue_square: Was ist Mongoose?
