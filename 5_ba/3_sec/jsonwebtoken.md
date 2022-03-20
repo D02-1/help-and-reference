@@ -3,7 +3,7 @@
 JWT ist die Abkürzung für “JSON Web Token”, das für den Einsatz im Web konzipiert wurde. Typisches Einsatzgebiet für JWT ist die fortlaufende Authentifizierung bei SSO (“single sign-on”).
 
 
-<img src="jwt-process.png" alt="jwt-process" width="80%">
+<img src="jwt-process.png" alt="jwt-process" width="95%">
 
 
 ## Aufbau eines JWT-Token
