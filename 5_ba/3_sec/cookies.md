@@ -8,12 +8,15 @@ Typischerweise wird ein HTTP-Cookie vom Server verwendet, um zu erkennen, ob zwe
 ### :large_blue_circle: Cookies werden hauptsächlich für drei Zwecke verwendet:
 
 :diamonds:**Sitzungsverwaltung**
+
 Login, Warenkörbe, Spielergebnisse oder alles andere, was der Server sich merken sollte
 
 :diamonds:**Personalisierung**
+
 Benutzereinstellungen wie z.b. Theme, Sprachauswahl
 
 :diamonds:**Tracking**
+
 Aufzeichnen und Analysieren des Nutzerverhaltens
 
 ---
@@ -31,7 +34,7 @@ Es ist zwar möglich, Cookies im Browser mit `document.cookie` zu erstellen, abe
 ```javascript
 document.cookie = "username=John; expires=Thu, 18 Dec 2013 12:00:00 UTC";
 ```
----
+
 
 :diamonds:Backend
 ```javascript
@@ -42,7 +45,7 @@ res.cookie('access_token', token,
         httpOnly: true,
         // maxAge should be set in milliseconds, 
         // A negative value results in no "Max-Age" attribute
-        //  in which case the cookie is removed when the browser is closed.
+        // in which case the cookie is removed when the browser is closed.
         maxAge: 1000 * 60 * 60 * 24 
 }).status(200)
   .json({
@@ -50,6 +53,9 @@ res.cookie('access_token', token,
         message: "User is logged in!"
     });
 ```
+
+
+---
 
 ### :large_blue_circle: Sicherheit
 
