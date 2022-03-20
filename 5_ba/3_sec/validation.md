@@ -3,16 +3,17 @@
 Ohne eine Validierung kommt es unter Umständen zu Anwendungsfehlern oder falschen Ergebnissen bei der Datenverarbeitung. 
 Deshalb stellt die Validierung der Daten eine Grundvoraussetzung für eine korrekte und sinnvolle Datenverarbeitung dar.
 
-### Was ist der Unterschied zwischen Validierung Bereinigung der Daten
+### :large_blue_circle: Was ist der Unterschied zwischen Validierung Bereinigung der Daten
 
 Validierung stellt sicher, dass die Daten, mit denen wir arbeiten werden, sowohl vorhanden sind als auch unseren Erwartungen entsprechen. Die Bereinigung der Daten verhindert bspw. Code-Injection oder entfernt überflüssigen whitespace.
 
-### Warum ist die serverseitige Validierung wichtig?
+### :large_blue_circle: Warum ist die serverseitige Validierung wichtig?
 
 Hauptsächlich müssen wir uns um die serverseitige Validierung kümmern, da Daten, die von anderen Clients kommen (single-page apps, regular web apps, mobile applications, usw.), nicht vertrauenswürdig sind. Ein böswilliger Benutzer (oder Virus) kann z.b. die Front-End-Validierung (z. B. JavaScript) deaktiviert haben, damit die App falsche Daten an den Server sendet. 
 
 ---
-## Mongoose Validation (im Schema)
+
+## :red_circle: Mongoose Validation (im Schema)
 
 :pushpin:SchemaTypes haben einen eingebauten Validator. Bspw. 
 
@@ -38,7 +39,7 @@ Mongoose unterstützt auch die Validierung für die Operationen `update()`, `upd
 
 ---
 
-## Express-Validator
+## :red_circle: Express-Validator
 
 Express-Validator verwendet die validator.js Bibliothek, um Express Routen zu validieren.
 Das npm Paket beinhaltet:
@@ -55,7 +56,7 @@ Das npm Paket beinhaltet:
 
 ---
 
-### Vorteile Express-Validator
+### :large_blue_circle: Vorteile Express-Validator
 
 - durch komplexe Validierungsregeln, oder custom Validierung kann eine Validierung direkt in der mongoose model Datei unübersichtlich werden lassen, mit Express-Validator lässt sich alles schön sauber und übersichtlich trennen
 
