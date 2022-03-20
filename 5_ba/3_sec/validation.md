@@ -34,7 +34,7 @@ Hauptsächlich müssen wir uns um die serverseitige Validierung kümmern, da Dat
 
 :pushpin::bangbang:Schema Validierung bei Update
 
-:bangbang:Mongoose unterstützt auch die Validierung für die Operationen `update()`, `updateOne()`, `updateMany()` und `findOneAndUpdate()`. Update-Validatoren sind jedoch standardmäßig deaktiviert!!!! – Beim update müssen wir die Option `{ runValidators: true }` mit angeben.
+Mongoose unterstützt auch die Validierung für die Operationen `update()`, `updateOne()`, `updateMany()` und `findOneAndUpdate()`. Update-Validatoren sind jedoch standardmäßig deaktiviert!!!! – Beim update müssen wir die Option `{ runValidators: true }` mit angeben.
 
 ---
 
@@ -44,9 +44,13 @@ Express-Validator verwendet die validator.js Bibliothek, um Express Routen zu va
 Das npm Paket beinhaltet:
 
 :pushpin:Sanitization
+
 :pushpin:Custom validators/sanitizers
+
 :pushpin:Custom error messages
+
 :pushpin:Wildcards
+
 :pushpin:Schema validation
 
 ---
