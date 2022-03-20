@@ -133,4 +133,5 @@
       * [mongoDB cheat sheet](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/mongo-cheatsheet.md)
       * [relationships](https://github.com/D02-1/help-and-reference/blob/main/5_ba/2_db/relationships.md)
     * [Security](https://github.com/D02-1/help-and-reference/tree/main/5_ba/3_sec) 
-      * [validate / sanitize](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/validation.md)
+      * [validation / sanitation](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/validation.md)
+      * [JSON Web Token](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/jsonwebtoken.md)
