@@ -20,7 +20,7 @@ Aufzeichnen und Analysieren des Nutzerverhaltens
 
 <img src="cookie-vs-ls-ss.jpeg" alt="cookie-vs-ls-ss" width="80%">
 
-:exclamation:Cookies werden mit jedem request gesendet, was die Performance negativ beeinflussen kann. (wenn möglich, zum Speichern von nicht sensiblen! Daten, auf den Local Storage oder Session Storage zurückgreifen, welche mit HTML5 eingeführt wurden) 
+:bangbang: Cookies werden mit jedem request gesendet, was die Performance negativ beeinflussen kann. (wenn möglich, zum Speichern von nicht sensiblen! Daten, auf den Local Storage oder Session Storage zurückgreifen, welche mit HTML5 eingeführt wurden) 
 
 ---
 ### :large_blue_circle: Cookie erstellen
@@ -41,7 +41,8 @@ res.cookie('access_token', token,
         //This setting makes cookies unavailable to JavaScript and prevents their theft using XSS.
         httpOnly: true,
         // maxAge should be set in milliseconds, 
-        // A negative value results in no "Max-Age" attribute in which case the cookie is removed when the browser is closed.
+        // A negative value results in no "Max-Age" attribute
+        //  in which case the cookie is removed when the browser is closed.
         maxAge: 1000 * 60 * 60 * 24 
 }).status(200)
   .json({
