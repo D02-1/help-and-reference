@@ -45,7 +45,8 @@ signature = HMACSHA256(content, secret);
 
 ---
 
-### Registrierte Claims (Es handelt sich hierbei um Keys, deren Zweck in einem Standard festgelegt ist.) (optionale Angaben)
+### Registrierte Claims 
+(Es handelt sich hierbei um Keys, deren Zweck in einem Standard festgelegt ist.) (optionale Angaben)
 
 bspw.: `exp` (expiration time): der Zeitpunkt, zu dem das JWT-Token nicht mehr akzeptiert werden darf
 
