@@ -32,7 +32,7 @@ Es ist zwar möglich, Cookies im Browser mit `document.cookie` zu erstellen, abe
 
 :diamonds:Frontend
 ```javascript
-document.cookie = "username=John; expires=Thu, 18 Dec 2013 12:00:00 UTC";
+document.cookie = "username=John; expires=Thu, 31 Mar 2022 12:00:00 UTC";
 ```
 
 
