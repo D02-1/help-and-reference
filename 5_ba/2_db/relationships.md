@@ -36,7 +36,7 @@ Bei `one-to-aLot relationship` verwenden wir immer Referenzen. Denn wenn wir tat
 Zum Beispiel eine Kategorie hat 300 Tutorials.
 
 ```javascript
-const CategorySchema = new Schema({
+const KategorieSchema = new Schema({
   name: String,
   tutorials:[{
     type:Schema.Types.ObjectId,
