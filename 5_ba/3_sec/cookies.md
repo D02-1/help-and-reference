@@ -72,7 +72,7 @@ Wir können auf zwei Arten den Zugriff auf Cookies beschränken:
 
 :point_right:[fcc - everything-you-need-to-know-about-cookies](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)\
 :point_right:[mdn HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)\
-:point_right:[W3schools document.cookie](https://www.w3schools.com/js/js_cookies.asp)
+:point_right:[W3schools document.cookie](https://www.w3schools.com/js/js_cookies.asp)\
 :point_right:[tutorialspoint document.cookies ](https://www.tutorialspoint.com/javascript/javascript_cookies.htm)
 
 
