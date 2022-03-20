@@ -1,12 +1,12 @@
 # JSON Web Token (JWT)
 
-JWT ist die Abkürzung für “JSON Web Token”, das für den Einsatz im Web konzipiert wurde. Typisches Einsatzgebiet für JWT ist die fortlaufende Authentifizierung bei SSO (“single sign-on”).
+JWT ist die Abkürzung für “JSON Web Token”, das für den Einsatz im Web konzipiert wurde. Typisches Einsatzgebiet für JWT ist die fortlaufende Authentifizierung bei SSO (“single sign-on”). JWT bietet Sicherheit durch das "secret", welches nur dem Server bekannt ist. 
 
 
 <img src="jwt-process.png" alt="jwt-process" width="95%">
 
 
-## Aufbau eines JWT-Token
+## :red_circle: Aufbau eines JWT-Token
 
 **HEADER.PAYLOAD.SIGNATURE**
 
@@ -18,7 +18,7 @@ Payload: “eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiTWFydGhhIFRlc3RlciJ9”
 Signatur: “AfF8fGzbhhpS9k-rgJt7RlZaUnP9phwmnPTku2fs4o0”
 ```
 ---
-### Header
+### :diamonds: Header
 
 Der Header beschreibt den Signatur- und/oder Verschlüsselungsalgorithmus und den Token-Typ. Die Daten werden im JSON-Format abgelegt und Base64-kodiert. Das vorliegende Beispiel sieht im Klartext so aus:
 
@@ -26,7 +26,7 @@ Der Header beschreibt den Signatur- und/oder Verschlüsselungsalgorithmus und de
 {"alg":"HS256","typ":"JWT"}
 ```
 
-### Payload
+### :diamonds: Payload
 
 Als Payload wird das JSON-Objekt bezeichnet, das aus einer “beliebigen” Anzahl von Key/Value-Paaren besteht. Diese Key/Value-Paare werden ”Claims” genannt Der Payload  wird ebenfalls Base64-kodiert. Im Beispiel hat der Payload folgenden Inhalt:
 
@@ -34,7 +34,7 @@ Als Payload wird das JSON-Objekt bezeichnet, das aus einer “beliebigen” Anza
 { "id": "1234567890", "name": "Jane Doe" }
 ```
 
-### Signature
+### :diamonds: Signature
 
 Das letzte Element ist die Signatur, die aus dem Header und der Payload berechnet wird. Der Algorithmus kann in Pseudocode wie folgt beschrieben werden:
 
@@ -59,7 +59,8 @@ const token = jwt.sign({
           userId: userLastLogin._id,
         }, process.env.SECRET_TOKEN, { expiresIn: '24h' }
         )
-//  vom Client gesendetes Token verifizieren (die gesendeten Daten werden mit dem am nur am Server gespeicherten Secret verglichen)
+//  vom Client gesendetes Token verifizieren 
+//  (die gesendeten Daten werden mit dem am nur am Server gespeicherten Secret verglichen)
 jwt.verify(token, process.env.SECRET_TOKEN);
 ```
 
@@ -67,13 +68,13 @@ jwt.verify(token, process.env.SECRET_TOKEN);
 
 **mehr Lesematerial**
 
-:point_right:[json-web-token-jwt-im-detail](https://blog.codecentric.de/2016/11/json-web-token-jwt-im-detail/)\
+:point_right:[json-web-token-jwt-im-detail](https://blog.codecentric.de/2016/11/json-web-token-jwt-im-detail/)
 
 
 
 **Youtube Videos**
 
-:point_right:[Web Dev Simplified-What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)\
+:point_right:[Web Dev Simplified-What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
 
 
 

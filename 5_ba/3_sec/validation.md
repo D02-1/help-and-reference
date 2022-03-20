@@ -73,7 +73,7 @@ Ohne Verwendung von Validierungs-Middleware muß Express die gesamte Controller-
 :point_right:[FCC comparison-between-joi-express-validator](https://www.freecodecamp.org/news/how-to-choose-which-validator-to-use-a-comparison-between-joi-express-validator-ac0b910c1a8c/)\
 :point_right:[clean-approach-to-using-express-validator](https://dev.to/nedsoft/a-clean-approach-to-using-express-validator-8go)\
 :point_right:[how-to-use-mongoose-custom-validators](https://kb.objectrocket.com/mongo-db/how-to-use-mongoose-custom-validators-923)\
-:point_right:[mongoosejs docs validation](https://mongoosejs.com/docs/validation.html)\
+:point_right:[mongoosejs docs validation](https://mongoosejs.com/docs/validation.html)
 
 
 
