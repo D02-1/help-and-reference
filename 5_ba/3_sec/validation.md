@@ -3,7 +3,7 @@
 Ohne eine Validierung kommt es unter Umständen zu Anwendungsfehlern oder falschen Ergebnissen bei der Datenverarbeitung. 
 Deshalb stellt die Validierung der Daten eine Grundvoraussetzung für eine korrekte und sinnvolle Datenverarbeitung dar.
 
-### :large_blue_circle: Was ist der Unterschied zwischen Validierung Bereinigung der Daten
+### :large_blue_circle: Was ist der Unterschied zwischen Validierung und Bereinigung der Daten
 
 Validierung stellt sicher, dass die Daten, mit denen wir arbeiten werden, sowohl vorhanden sind als auch unseren Erwartungen entsprechen. Die Bereinigung der Daten verhindert bspw. Code-Injection oder entfernt überflüssigen whitespace.
 
