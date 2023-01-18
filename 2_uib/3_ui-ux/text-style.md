@@ -83,7 +83,9 @@ mit `letter-spacing` können wir den Abstand zwischen den Buchstaben verändern.
 :point_right:[tips for using 3rd party fonts](https://www.afasterweb.com/2018/04/11/two-tips-for-using-3rd-party-fonts/)\
 :point_right:[font-display](https://css-tricks.com/almanac/properties/f/font-display/)
 
-**google-webfonts-helper - a hassle-free way to self-host Google Fonts**
+---
+
+**google-webfonts-helper (a hassle-free way to self-host Google fonts)**
 
 :point_right:[font-display](https://gwfh.mranftl.com/fonts)
 
