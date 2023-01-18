@@ -87,6 +87,6 @@ mit `letter-spacing` können wir den Abstand zwischen den Buchstaben verändern.
 
 **google-webfonts-helper (a hassle-free way to self-host Google fonts)**
 
-:point_right:[font-display](https://gwfh.mranftl.com/fonts)
+:point_right:[google-webfonts-helper](https://gwfh.mranftl.com/fonts)
 
 
