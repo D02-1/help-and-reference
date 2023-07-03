@@ -88,7 +88,9 @@ useEffect(() => {
 :point_right::fire:[Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 
+**Practice React's useEffect hook with 4 Interactive Exercises**
 
+:point_right:[useEffect interactive exercises](https://www.clientside.dev/blog/react-use-effect-practice-exercises)
 
 
 **Youtube Videos**
