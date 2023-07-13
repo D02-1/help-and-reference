@@ -79,6 +79,21 @@ Hier können Dinge wie CORS, Content-Type, Language etc. geregelt werden.
 
 Ein preflight request (Anfrage) ist eine Kurzanfrage, die vom Browser vor der eigentlichen Anfrage gesendet wird. Der preflight gibt dem Server die Möglichkeit zu prüfen, wie die eigentliche Anfrage aussehen wird, bevor sie gestellt wird. 
 
+## CORS Issues
+
+Proxi Lösung für den Api Anfrage Fehler wie `Access-Control-Allow-Origin’ missing`
+Der Api Betreiber hat diese Angabe im Header seiner Response nicht mit angegeben. z.b. (`Access-Control-Allow-Origin:*`
+
+Unser Browser blockt daher die Antwort.
+
+Wir können die Anfrage in diesem Fall über einen Proxi senden.
+
+```javascript
+const url = 'https://corsproxy.io/?' + encodeURIComponent('https://api.domain.com/...');
+```
+:point_right:[cors](https://corsproxy.io/?)\
+
+
 ---
 
 **mehr Lesematerial**
