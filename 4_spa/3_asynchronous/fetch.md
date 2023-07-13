@@ -82,7 +82,7 @@ Ein preflight request (Anfrage) ist eine Kurzanfrage, die vom Browser vor der ei
 ## CORS Issues
 
 Proxi Lösung für den Api Anfrage Fehler `Access-Control-Allow-Origin’ missing`
-Der Api Betreiber hat diese Angabe im Header seiner Response nicht mit angegeben. z.b. (`Access-Control-Allow-Origin:*`
+Der Api Betreiber hat diese Angabe im Header seiner Response nicht mit angegeben. z.b. (`Access-Control-Allow-Origin:*`)
 
 Unser Browser blockt daher die Antwort.
 
