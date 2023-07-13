@@ -88,7 +88,7 @@ Unser Browser blockt daher die Antwort.
 
 Wir können die Anfrage in diesem Fall über einen Proxi senden.
 
-:point_right:[cors](https://corsproxy.io/?)
+:point_right:[corsproxy](https://corsproxy.io/?)
 
 ```javascript
 const url = 'https://corsproxy.io/?' + encodeURIComponent('https://api.domain.com/...');
