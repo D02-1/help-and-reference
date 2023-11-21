@@ -6,7 +6,6 @@
 
 - #### build, test, and debug regex
   [*regex101.com*](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-https://regex101.com/
 
 ---
 
