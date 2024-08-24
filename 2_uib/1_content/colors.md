@@ -44,10 +44,10 @@ das a in rgba – gibt die Transparenz einer Farbe mit Werten zwischen 0 und 1 a
 
 **ein paar coole color Tools von euch gepostet**
 
-:point_right:[Colour Lovers](https://www.colourlovers.com/)\
-:point_right:[Adobe](https://color.adobe.com/create/color-wheel)\
-:point_right:[Colorhunt](https://colorhunt.co/)\
-:point_right:[W3schools HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)\
+:point_right:[Colour Lovers](https://www.colourlovers.com/)
+:point_right:[Adobe](https://color.adobe.com/create/color-wheel)
+:point_right:[Colorhunt](https://colorhunt.co/)
+:point_right:[W3schools HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 :point_right:[Khroma AI color tool](http://khroma.co/)
 
 **Erweiterung für Google Chrome um die Farbwerte anderer Webseiten zu bestimmen und für die eigene zu kopieren**
